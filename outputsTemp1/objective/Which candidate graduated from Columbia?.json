@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Resume 3: Sarah Johnson.\n\nShe has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:58.422678Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 3: Sarah Johnson.\n\nShe has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1410343208,
+                "load_duration": 14409958,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 144340000,
+                "eval_count": 29,
+                "eval_duration": 1250506000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Sarah Johnson (Resume 3) is the candidate who graduated from Columbia University with a Master of Science degree in Computer Science (Specialization in AI/ML).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:00.152808Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Sarah Johnson (Resume 3) is the candidate who graduated from Columbia University with a Master of Science degree in Computer Science (Specialization in AI/ML)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1728057792,
+                "load_duration": 14474750,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47899000,
+                "eval_count": 39,
+                "eval_duration": 1663749000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she has the following education background:\n\n* M.S. in Computer Science (Specialization in AI/ML) - Columbia University | New York, NY\n\t+ Completed in 2018\n* B.S. in Computer Science - New York University | New York, NY\n\t+ Completed in 2016\n\nSo, the answer is Sarah Johnson from Resume 3!",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:03.948016Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she has the following education background:\n\n* M.S. in Computer Science (Specialization in AI/ML) - Columbia University | New York, NY\n\t+ Completed in 2018\n* B.S. in Computer Science - New York University | New York, NY\n\t+ Completed in 2016\n\nSo, the answer is Sarah Johnson from Resume 3!"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3792569792,
+                "load_duration": 14024625,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46508000,
+                "eval_count": 86,
+                "eval_duration": 3731048000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018), and also a B.S. in Computer Science from New York University (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:06.483477Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018), and also a B.S. in Computer Science from New York University (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2532219917,
+                "load_duration": 15502125,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47492000,
+                "eval_count": 57,
+                "eval_duration": 2468162000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, as shown on Resume 3, has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:07.892644Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, as shown on Resume 3, has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1404835500,
+                "load_duration": 14739916,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47882000,
+                "eval_count": 31,
+                "eval_duration": 1340555000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson's information, she has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University, which means she is the candidate who graduated from Columbia.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:09.85374Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson's information, she has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University, which means she is the candidate who graduated from Columbia."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1958718125,
+                "load_duration": 14605583,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48237000,
+                "eval_count": 44,
+                "eval_duration": 1894841000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, the Machine Learning Engineer (Resume 3), graduated from Columbia University with an M.S. in Computer Science (Specialization in AI/ML).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:11.322698Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, the Machine Learning Engineer (Resume 3), graduated from Columbia University with an M.S. in Computer Science (Specialization in AI/ML)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1464868416,
+                "load_duration": 14711666,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46072000,
+                "eval_count": 33,
+                "eval_duration": 1402230000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the one who graduated from Columbia University, with an M.S. in Computer Science (Specialization in AI/ML).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:13.047009Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the one who graduated from Columbia University, with an M.S. in Computer Science (Specialization in AI/ML)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1721130250,
+                "load_duration": 15168959,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46858000,
+                "eval_count": 39,
+                "eval_duration": 1658037000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the one who graduated from Columbia University. Specifically, she has a M.S. in Computer Science (with a specialization in AI/ML) from Columbia, earned between 2016 and 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:15.533884Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the one who graduated from Columbia University. Specifically, she has a M.S. in Computer Science (with a specialization in AI/ML) from Columbia, earned between 2016 and 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2483134791,
+                "load_duration": 15411791,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46674000,
+                "eval_count": 56,
+                "eval_duration": 2419975000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, as listed on Resume 3, graduated from Columbia University with an M.S. in Computer Science (Specialization in AI/ML) in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:17.132246Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, as listed on Resume 3, graduated from Columbia University with an M.S. in Computer Science (Specialization in AI/ML) in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1594676083,
+                "load_duration": 14610541,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47699000,
+                "eval_count": 36,
+                "eval_duration": 1530249000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, from Resume 3, graduated with a Master's degree (M.S.) in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:18.657591Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, from Resume 3, graduated with a Master's degree (M.S.) in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1521257541,
+                "load_duration": 14211208,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47576000,
+                "eval_count": 34,
+                "eval_duration": 1457821000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the only candidate who mentions having a Master's degree from Columbia University (with a specialization in AI/ML), which she earned after completing her Bachelor's degree from New York University. \n\nSo, to answer your question: Sarah Johnson graduated from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:21.576985Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the only candidate who mentions having a Master's degree from Columbia University (with a specialization in AI/ML), which she earned after completing her Bachelor's degree from New York University. \n\nSo, to answer your question: Sarah Johnson graduated from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2916174917,
+                "load_duration": 14608958,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47424000,
+                "eval_count": 66,
+                "eval_duration": 2852456000
+            }
+        },
+        {
+            "Content": "Sarah Johnson (Resume 3) is the only one who mentions graduating from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:22.435188Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson (Resume 3) is the only one who mentions graduating from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 855575167,
+                "load_duration": 15925125,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47576000,
+                "eval_count": 19,
+                "eval_duration": 790904000
+            }
+        },
+        {
+            "Content": "According to the resumes provided, Sarah Johnson (Resume 3) graduated from Columbia University with an M.S. in Computer Science (Specialization in AI/ML).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:23.946796Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to the resumes provided, Sarah Johnson (Resume 3) graduated from Columbia University with an M.S. in Computer Science (Specialization in AI/ML)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1507636875,
+                "load_duration": 15939000,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47330000,
+                "eval_count": 34,
+                "eval_duration": 1443224000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, the Machine Learning Engineer listed on Resume 3, graduated with a M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:25.497056Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, the Machine Learning Engineer listed on Resume 3, graduated with a M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1545775250,
+                "load_duration": 14570417,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47624000,
+                "eval_count": 35,
+                "eval_duration": 1481565000
+            }
+        },
+        {
+            "Content": "The answer is Resume 3: Sarah Johnson.\n\nAccording to her resume, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:27.156314Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "The answer is Resume 3: Sarah Johnson.\n\nAccording to her resume, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1656746000,
+                "load_duration": 14358375,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48101000,
+                "eval_count": 37,
+                "eval_duration": 1593205000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, candidate for Resume 3, is the one who graduated from Columbia University with a M.S. in Computer Science (Specialization in AI/ML) and a B.S. in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:29.060047Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, candidate for Resume 3, is the one who graduated from Columbia University with a M.S. in Computer Science (Specialization in AI/ML) and a B.S. in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1899255042,
+                "load_duration": 15005709,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46741000,
+                "eval_count": 43,
+                "eval_duration": 1835647000
+            }
+        },
+        {
+            "Content": "According to Resume 3 (Sarah Johnson), she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:30.714696Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3 (Sarah Johnson), she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1652508208,
+                "load_duration": 14658583,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47522000,
+                "eval_count": 37,
+                "eval_duration": 1589286000
+            }
+        },
+        {
+            "Content": "According to the resumes provided, Sarah Johnson (Resume 3) is the one who graduated from Columbia University with a Master's degree in Computer Science (Specialization in AI/ML).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:32.419271Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to the resumes provided, Sarah Johnson (Resume 3) is the one who graduated from Columbia University with a Master's degree in Computer Science (Specialization in AI/ML)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1701631375,
+                "load_duration": 14978500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47640000,
+                "eval_count": 38,
+                "eval_duration": 1637962000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson's resume, she holds a Master of Science (M.S.) degree from Columbia University with a specialization in Artificial Intelligence and Machine Learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:34.028313Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson's resume, she holds a Master of Science (M.S.) degree from Columbia University with a specialization in Artificial Intelligence and Machine Learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1606060584,
+                "load_duration": 15122875,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46877000,
+                "eval_count": 36,
+                "eval_duration": 1542337000
+            }
+        },
+        {
+            "Content": "According to the resumes provided, Sarah Johnson (Resume 3) is the only one who mentions graduating from Columbia University, but specifically with an M.S. in Computer Science (Specialization in AI/ML), and also a B.S. in Computer Science from New York University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:36.551114Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to the resumes provided, Sarah Johnson (Resume 3) is the only one who mentions graduating from Columbia University, but specifically with an M.S. in Computer Science (Specialization in AI/ML), and also a B.S. in Computer Science from New York University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2518764209,
+                "load_duration": 14836500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47732000,
+                "eval_count": 57,
+                "eval_duration": 2455063000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the one who graduated from Columbia University with a Master's degree in Computer Science, specializing in Artificial Intelligence and Machine Learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:38.279028Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the one who graduated from Columbia University with a Master's degree in Computer Science, specializing in Artificial Intelligence and Machine Learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1723707125,
+                "load_duration": 15005166,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47285000,
+                "eval_count": 39,
+                "eval_duration": 1659637000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, the Machine Learning Engineer listed on Resume 3, is the one who graduated from Columbia University with an M.S. in Computer Science (Specialization in AI/ML).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:39.963759Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, the Machine Learning Engineer listed on Resume 3, is the one who graduated from Columbia University with an M.S. in Computer Science (Specialization in AI/ML)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1680820625,
+                "load_duration": 14692458,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47536000,
+                "eval_count": 38,
+                "eval_duration": 1617386000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, the Machine Learning Engineer in Resume 3, graduated with an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:41.539649Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, the Machine Learning Engineer in Resume 3, graduated with an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1573261250,
+                "load_duration": 15646583,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47173000,
+                "eval_count": 34,
+                "eval_duration": 1509323000
+            }
+        },
+        {
+            "Content": "According to Resume 3 (Sarah Johnson), she has an M.S. in Computer Science with a specialization in AI/ML from Columbia University, completed between 2016 and 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:43.327694Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3 (Sarah Johnson), she has an M.S. in Computer Science with a specialization in AI/ML from Columbia University, completed between 2016 and 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1784482542,
+                "load_duration": 14899500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47716000,
+                "eval_count": 40,
+                "eval_duration": 1719849000
+            }
+        },
+        {
+            "Content": "Resume 3: Sarah Johnson, Machine Learning Engineer \n\n She has an M.S. degree from Columbia University (2016-2018), with a specialization in Artificial Intelligence/Machine Learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:45.050744Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 3: Sarah Johnson, Machine Learning Engineer \n\n She has an M.S. degree from Columbia University (2016-2018), with a specialization in Artificial Intelligence/Machine Learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1719712250,
+                "load_duration": 14506292,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47637000,
+                "eval_count": 39,
+                "eval_duration": 1656350000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, as mentioned in Resume 3, graduated with an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:46.471823Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, as mentioned in Resume 3, graduated with an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1416697416,
+                "load_duration": 14930375,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47421000,
+                "eval_count": 32,
+                "eval_duration": 1352420000
+            }
+        },
+        {
+            "Content": "Sarah Johnson, who is the subject of Resume 3, graduated from Columbia University with a Master's degree in Computer Science (with a specialization in AI/ML) from 2016 to 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:48.374686Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson, who is the subject of Resume 3, graduated from Columbia University with a Master's degree in Computer Science (with a specialization in AI/ML) from 2016 to 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1898715916,
+                "load_duration": 14599500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47065000,
+                "eval_count": 43,
+                "eval_duration": 1835915000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. degree in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:49.797076Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. degree in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1418846209,
+                "load_duration": 15294334,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47767000,
+                "eval_count": 32,
+                "eval_duration": 1354693000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she has the following education listed:\n\n* M.S. in Computer Science (Specialization in AI/ML) - Columbia University (2016-2018)\n* B.S. in Computer Science - New York University (2012-2016)\n\nSo, the answer is Sarah Johnson.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:35:52.795376Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she has the following education listed:\n\n* M.S. in Computer Science (Specialization in AI/ML) - Columbia University (2016-2018)\n* B.S. in Computer Science - New York University (2012-2016)\n\nSo, the answer is Sarah Johnson."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2995302875,
+                "load_duration": 14675000,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47228000,
+                "eval_count": 68,
+                "eval_duration": 2931425000
+            }
+        }
+    ]
+}

@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:02.949519Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9354603125,
+                "load_duration": 1605657375,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 6063279000,
+                "eval_count": 39,
+                "eval_duration": 1683947000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:04.699035Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1744715583,
+                "load_duration": 14758750,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47582000,
+                "eval_count": 39,
+                "eval_duration": 1681097000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:06.423886Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1723178292,
+                "load_duration": 14461250,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47859000,
+                "eval_count": 39,
+                "eval_duration": 1659912000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:08.165614Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1738453000,
+                "load_duration": 14488125,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47363000,
+                "eval_count": 39,
+                "eval_duration": 1675173000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:09.902621Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1732868375,
+                "load_duration": 14578292,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47484000,
+                "eval_count": 39,
+                "eval_duration": 1669880000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:11.623664Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1718947334,
+                "load_duration": 15701000,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48347000,
+                "eval_count": 39,
+                "eval_duration": 1653972000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:13.338807Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1711060000,
+                "load_duration": 14418750,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47724000,
+                "eval_count": 39,
+                "eval_duration": 1647334000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:15.076284Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1732986417,
+                "load_duration": 14520583,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47439000,
+                "eval_count": 39,
+                "eval_duration": 1669869000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:16.817385Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1737416375,
+                "load_duration": 14589583,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47879000,
+                "eval_count": 39,
+                "eval_duration": 1673634000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:18.615086Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1793483709,
+                "load_duration": 14708917,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47487000,
+                "eval_count": 39,
+                "eval_duration": 1730204000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:20.354581Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1734838208,
+                "load_duration": 15382875,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48627000,
+                "eval_count": 39,
+                "eval_duration": 1669771000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:22.137207Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1778209750,
+                "load_duration": 16394208,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47318000,
+                "eval_count": 39,
+                "eval_duration": 1712882000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:23.917815Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1776808084,
+                "load_duration": 14772875,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 49305000,
+                "eval_count": 39,
+                "eval_duration": 1711697000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:25.6591Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1738626375,
+                "load_duration": 14643458,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48366000,
+                "eval_count": 39,
+                "eval_duration": 1674116000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:27.400321Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1735483333,
+                "load_duration": 14974583,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 50947000,
+                "eval_count": 39,
+                "eval_duration": 1668423000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:29.14959Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1747180334,
+                "load_duration": 14990167,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47667000,
+                "eval_count": 39,
+                "eval_duration": 1683662000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:30.880771Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1728864833,
+                "load_duration": 14366417,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47703000,
+                "eval_count": 39,
+                "eval_duration": 1665333000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:32.607063Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1722756541,
+                "load_duration": 14536750,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47451000,
+                "eval_count": 39,
+                "eval_duration": 1659676000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:34.336907Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1726726000,
+                "load_duration": 14577625,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48442000,
+                "eval_count": 39,
+                "eval_duration": 1662095000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:36.068294Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1728327083,
+                "load_duration": 14692292,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47900000,
+                "eval_count": 39,
+                "eval_duration": 1664628000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:37.831873Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1759835208,
+                "load_duration": 15349375,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48823000,
+                "eval_count": 39,
+                "eval_duration": 1694047000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:39.565039Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1729183208,
+                "load_duration": 14810125,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48751000,
+                "eval_count": 39,
+                "eval_duration": 1664081000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:41.288077Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1718877833,
+                "load_duration": 15260791,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47139000,
+                "eval_count": 39,
+                "eval_duration": 1655304000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:43.02291Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1730734042,
+                "load_duration": 14379625,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47723000,
+                "eval_count": 39,
+                "eval_duration": 1667079000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:44.774407Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1747541875,
+                "load_duration": 15061125,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47448000,
+                "eval_count": 39,
+                "eval_duration": 1683841000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:46.504661Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1726428167,
+                "load_duration": 14942417,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47979000,
+                "eval_count": 39,
+                "eval_duration": 1662481000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:48.244444Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1735579916,
+                "load_duration": 15309250,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47288000,
+                "eval_count": 39,
+                "eval_duration": 1671351000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:50.010299Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1763601541,
+                "load_duration": 14808708,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48045000,
+                "eval_count": 39,
+                "eval_duration": 1699798000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:51.77424Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1761760041,
+                "load_duration": 14464916,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47587000,
+                "eval_count": 39,
+                "eval_duration": 1697985000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:13:53.518192Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\n\n* Education:\n\t+ B.S. in Computer Science\n\t+ University of Washington | Seattle, WA\n\t+ 2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1739382041,
+                "load_duration": 14435125,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48328000,
+                "eval_count": 39,
+                "eval_duration": 1675590000
+            }
+        }
+    ]
+}

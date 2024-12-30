@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:43:26.827613Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14257441375,
+                "load_duration": 14624125,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 165966000,
+                "eval_count": 321,
+                "eval_duration": 14075495000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:43:41.048767Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14216443542,
+                "load_duration": 14533875,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47288000,
+                "eval_count": 321,
+                "eval_duration": 14153107000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:43:55.243908Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14191093083,
+                "load_duration": 14874125,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47033000,
+                "eval_count": 321,
+                "eval_duration": 14128064000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:44:09.48225Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14234169375,
+                "load_duration": 15119333,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47088000,
+                "eval_count": 321,
+                "eval_duration": 14170771000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:44:23.788104Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14303216000,
+                "load_duration": 14685458,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 49684000,
+                "eval_count": 321,
+                "eval_duration": 14237523000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:44:38.035968Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14243217750,
+                "load_duration": 14814875,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47644000,
+                "eval_count": 321,
+                "eval_duration": 14179752000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:44:52.399044Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14359558333,
+                "load_duration": 14558917,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47192000,
+                "eval_count": 321,
+                "eval_duration": 14296368000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:45:06.674917Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14273018583,
+                "load_duration": 14528291,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46679000,
+                "eval_count": 321,
+                "eval_duration": 14210623000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:45:20.985259Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14304452875,
+                "load_duration": 15129416,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48312000,
+                "eval_count": 321,
+                "eval_duration": 14240040000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:45:35.433867Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14445411250,
+                "load_duration": 14583292,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47556000,
+                "eval_count": 321,
+                "eval_duration": 14381808000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:45:49.631956Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14194336250,
+                "load_duration": 14895167,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47434000,
+                "eval_count": 321,
+                "eval_duration": 14131014000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:46:04.057791Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14421654875,
+                "load_duration": 14445083,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47414000,
+                "eval_count": 321,
+                "eval_duration": 14358268000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:46:18.385056Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14323313417,
+                "load_duration": 15061750,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47389000,
+                "eval_count": 321,
+                "eval_duration": 14259902000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:46:32.607804Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14217916875,
+                "load_duration": 14951125,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47899000,
+                "eval_count": 321,
+                "eval_duration": 14154051000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:46:46.945278Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14333399666,
+                "load_duration": 14597416,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47786000,
+                "eval_count": 321,
+                "eval_duration": 14269333000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:47:01.290175Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14340602042,
+                "load_duration": 15085917,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47297000,
+                "eval_count": 321,
+                "eval_duration": 14277248000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:47:15.496899Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14204639667,
+                "load_duration": 14500167,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47858000,
+                "eval_count": 321,
+                "eval_duration": 14140975000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:47:29.689311Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14187946334,
+                "load_duration": 14985667,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46843000,
+                "eval_count": 321,
+                "eval_duration": 14124639000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:47:44.022997Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14332300209,
+                "load_duration": 15534500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47469000,
+                "eval_count": 321,
+                "eval_duration": 14265459000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:47:58.309209Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14283305583,
+                "load_duration": 15016250,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48105000,
+                "eval_count": 321,
+                "eval_duration": 14217628000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:48:12.497481Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14184842208,
+                "load_duration": 14533875,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 49511000,
+                "eval_count": 321,
+                "eval_duration": 14119315000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:48:26.708573Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14206850750,
+                "load_duration": 14504875,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47915000,
+                "eval_count": 321,
+                "eval_duration": 14142851000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:48:40.98999Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14277490667,
+                "load_duration": 14847833,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46991000,
+                "eval_count": 321,
+                "eval_duration": 14214450000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:48:55.286612Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14293358083,
+                "load_duration": 15386916,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48902000,
+                "eval_count": 321,
+                "eval_duration": 14228164000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:49:09.47756Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14188548958,
+                "load_duration": 15080500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 49585000,
+                "eval_count": 321,
+                "eval_duration": 14122495000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:49:23.669187Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14187155541,
+                "load_duration": 14643916,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48374000,
+                "eval_count": 321,
+                "eval_duration": 14123127000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:49:38.005881Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14332601041,
+                "load_duration": 14796666,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 50069000,
+                "eval_count": 321,
+                "eval_duration": 14266270000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:49:52.258266Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14247458042,
+                "load_duration": 14593917,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46308000,
+                "eval_count": 321,
+                "eval_duration": 14185420000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:50:06.550936Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14287765666,
+                "load_duration": 15159500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48667000,
+                "eval_count": 321,
+                "eval_duration": 14223043000
+            }
+        },
+        {
+            "Content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "NA",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:50:20.917303Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A tough decision! Based on the resumes provided, it's difficult to say which candidate is the best fit without knowing more about your specific needs and requirements. However, here are some observations that might help you make a decision:\n\n**Consider the following factors:**\n\n1. **Relevance of skills**: Which candidate has the most relevant skills for the job you're trying to fill?\n2. **Experience**: Who has more experience in the field or with similar projects?\n3. **Education**: What level of education is required for the role, and who meets that criteria?\n4. **Soft skills**: Are there any candidates who stand out for their communication, teamwork, or problem-solving skills?\n\n**Based on these factors:**\n\n* If you're looking for a full-stack developer with experience in React, Node.js, and AWS, **Resume 4 (Alex Williams)** might be the best fit.\n* If you need someone with expertise in machine learning, **Resume 3 (Sarah Johnson)** is an excellent choice.\n* For a back-end developer with skills in Python, Java, and databases, **Resume 2 (John Smith)** could be a good option.\n* If you're looking for a front-end developer with experience in React, Vue.js, and HTML/CSS, **Resume 1 (Jane Doe)** might be the way to go.\n\n**Ultimately:**\n\nChoose the candidate whose skills, experience, and education align best with your specific needs. Don't hesitate to reach out to them for further discussion or a phone interview to get a better sense of their fit for the role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 14363024291,
+                "load_duration": 15291791,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 50245000,
+                "eval_count": 321,
+                "eval_duration": 14295976000
+            }
+        }
+    ]
+}

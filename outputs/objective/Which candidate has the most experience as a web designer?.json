@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the provided resumes, Jane Doe (Resume 1) has the most experience as a web designer. She has listed herself as a Front-End Developer with 5 years of experience in designing and implementing user-centric web applications. Her work experience includes developing and maintaining the user interface for a large-scale e-commerce platform using React.js and Redux.\n\nIn contrast, while Emily Brown (Resume 5) lists her skills as including HTML, CSS, JavaScript, and SQL, her primary focus is on software development rather than web design specifically.\n\nThe other candidates have varying levels of experience in web development, but Jane Doe's resume indicates the most experience as a dedicated front-end developer.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:52:15.426952Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Jane Doe (Resume 1) has the most experience as a web designer. She has listed herself as a Front-End Developer with 5 years of experience in designing and implementing user-centric web applications. Her work experience includes developing and maintaining the user interface for a large-scale e-commerce platform using React.js and Redux.\n\nIn contrast, while Emily Brown (Resume 5) lists her skills as including HTML, CSS, JavaScript, and SQL, her primary focus is on software development rather than web design specifically.\n\nThe other candidates have varying levels of experience in web development, but Jane Doe's resume indicates the most experience as a dedicated front-end developer."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6042558625,
+                "load_duration": 14962917,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 148790000,
+                "eval_count": 137,
+                "eval_duration": 5877579000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Jane Doe (Resume 1) and John Smith does not have experience as a web designer. However, Jane Doe has experience as a Front-End Developer which is related to web design.\n\nJane Doe's Resume mentions:\n\n* Developing and maintaining the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Collaborating closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n* Optimizing web applications for maximum speed and scalability, resulting in a 30% reduction in load times.\n\nJane Doe has the most experience as a Front-End Developer related to web design.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:52:21.198242Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Jane Doe (Resume 1) and John Smith does not have experience as a web designer. However, Jane Doe has experience as a Front-End Developer which is related to web design.\n\nJane Doe's Resume mentions:\n\n* Developing and maintaining the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Collaborating closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n* Optimizing web applications for maximum speed and scalability, resulting in a 30% reduction in load times.\n\nJane Doe has the most experience as a Front-End Developer related to web design."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5767035958,
+                "load_duration": 14698916,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47114000,
+                "eval_count": 133,
+                "eval_duration": 5703557000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Resume 1: Jane Doe has the most experience as a web designer.\n\nHere's why:\n\n* Her primary job title is \"Front-End Developer\", which suggests she spends most of her time designing and developing user interfaces for websites.\n* She worked at ABC Tech (a tech company) as a Front-End Developer, where she developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* She also has experience working on multiple client projects simultaneously as a Web Developer at XYZ Agency.\n\nWhile other candidates may have some experience with web design, Jane Doe's resume specifically highlights her expertise in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:52:27.244738Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Resume 1: Jane Doe has the most experience as a web designer.\n\nHere's why:\n\n* Her primary job title is \"Front-End Developer\", which suggests she spends most of her time designing and developing user interfaces for websites.\n* She worked at ABC Tech (a tech company) as a Front-End Developer, where she developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* She also has experience working on multiple client projects simultaneously as a Web Developer at XYZ Agency.\n\nWhile other candidates may have some experience with web design, Jane Doe's resume specifically highlights her expertise in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6042801750,
+                "load_duration": 14576459,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47004000,
+                "eval_count": 139,
+                "eval_duration": 5980020000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Resume 1: Jane Doe and Resume 4: Alex Williams have similar levels of experience in web development, but not necessarily as web designers. However, looking through the other candidates' profiles:\n\nResume 1: Jane Doe is a front-end developer with experience in designing user-centric web applications.\n\nResume 5: Emily Brown has experience in business analysis, project management, and software engineering, but no direct experience as a web designer.\n\nThe most relevant candidate for web design experience is actually not among the top choices. However, if we had to choose from these candidates based on their front-end development experience, I would say that Jane Doe (Resume 1) has the most experience related to web design, with her focus on designing and implementing user-centric web applications as a Front-End Developer.\n\nBut if you're looking for someone with more traditional web design skills, such as graphic design or visual design, none of these candidates are listed as having that specific expertise.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:52:36.129102Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Resume 1: Jane Doe and Resume 4: Alex Williams have similar levels of experience in web development, but not necessarily as web designers. However, looking through the other candidates' profiles:\n\nResume 1: Jane Doe is a front-end developer with experience in designing user-centric web applications.\n\nResume 5: Emily Brown has experience in business analysis, project management, and software engineering, but no direct experience as a web designer.\n\nThe most relevant candidate for web design experience is actually not among the top choices. However, if we had to choose from these candidates based on their front-end development experience, I would say that Jane Doe (Resume 1) has the most experience related to web design, with her focus on designing and implementing user-centric web applications as a Front-End Developer.\n\nBut if you're looking for someone with more traditional web design skills, such as graphic design or visual design, none of these candidates are listed as having that specific expertise."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8880489208,
+                "load_duration": 14678625,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47049000,
+                "eval_count": 204,
+                "eval_duration": 8817149000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe has the most experience as a web designer. She has listed her current position as Front-End Developer at ABC Tech, and in that role, she has:\n\n* Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n* Optimized web applications for maximum speed and scalability, resulting in a 30% reduction in load times.\n\nShe also has experience as a Web Developer at XYZ Agency, where she designed and developed custom websites for clients using HTML, CSS, JavaScript, and Bootstrap.\n\nTherefore, Jane Doe appears to have the most experience as a web designer among the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:52:43.115823Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe has the most experience as a web designer. She has listed her current position as Front-End Developer at ABC Tech, and in that role, she has:\n\n* Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n* Optimized web applications for maximum speed and scalability, resulting in a 30% reduction in load times.\n\nShe also has experience as a Web Developer at XYZ Agency, where she designed and developed custom websites for clients using HTML, CSS, JavaScript, and Bootstrap.\n\nTherefore, Jane Doe appears to have the most experience as a web designer among the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6982746917,
+                "load_duration": 14311042,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46394000,
+                "eval_count": 160,
+                "eval_duration": 6920921000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Jane Doe (Resume 1) has the most experience as a web designer/front-end developer. She has:\n\n* 5 years of experience in designing and implementing user-centric web applications\n* Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux\n* Led front-end development on multiple client projects simultaneously, delivering on time and within budget\n\nWhile other candidates have experience with design-related skills or have worked on web development projects, Jane Doe's primary focus and experience are in web design/front-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:52:48.063049Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Jane Doe (Resume 1) has the most experience as a web designer/front-end developer. She has:\n\n* 5 years of experience in designing and implementing user-centric web applications\n* Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux\n* Led front-end development on multiple client projects simultaneously, delivering on time and within budget\n\nWhile other candidates have experience with design-related skills or have worked on web development projects, Jane Doe's primary focus and experience are in web design/front-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4943544084,
+                "load_duration": 14818084,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47102000,
+                "eval_count": 114,
+                "eval_duration": 4880472000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Jane Doe (Resume 1) and John Smith (Resume 2) have experience as web designers/front-end developers.\n\nHowever, if you're looking for someone with the most experience as a web designer specifically, I would say it's Jane Doe. Her work experience includes:\n\n* Front-End Developer at ABC Tech: Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Web Developer at XYZ Agency: Designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\nJane has consistently worked as a front-end developer/designer throughout her career, with 5 years of experience in this field.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:52:54.39933Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Jane Doe (Resume 1) and John Smith (Resume 2) have experience as web designers/front-end developers.\n\nHowever, if you're looking for someone with the most experience as a web designer specifically, I would say it's Jane Doe. Her work experience includes:\n\n* Front-End Developer at ABC Tech: Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Web Developer at XYZ Agency: Designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\nJane has consistently worked as a front-end developer/designer throughout her career, with 5 years of experience in this field."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6332414166,
+                "load_duration": 14347166,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46350000,
+                "eval_count": 146,
+                "eval_duration": 6270161000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer.\n\nHere's why:\n\n* Her job title is specifically \"Front-End Developer\", which suggests that she has a primary focus on designing and developing user interfaces for websites.\n* She lists her work experience under \"Experience\" as a Front-End Developer at ABC Tech, where she developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux. This suggests that she has significant hands-on experience with web design and development.\n* Her skills section also highlights her expertise in HTML, CSS, JavaScript, and modern front-end frameworks such as React and Vue.js.\n\nWhile other candidates may have some experience with web design, Jane Doe's primary focus on front-end development and her extensive experience working on large-scale e-commerce platforms make her the most qualified candidate for a role that requires significant web design expertise.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:53:02.513564Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer.\n\nHere's why:\n\n* Her job title is specifically \"Front-End Developer\", which suggests that she has a primary focus on designing and developing user interfaces for websites.\n* She lists her work experience under \"Experience\" as a Front-End Developer at ABC Tech, where she developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux. This suggests that she has significant hands-on experience with web design and development.\n* Her skills section also highlights her expertise in HTML, CSS, JavaScript, and modern front-end frameworks such as React and Vue.js.\n\nWhile other candidates may have some experience with web design, Jane Doe's primary focus on front-end development and her extensive experience working on large-scale e-commerce platforms make her the most qualified candidate for a role that requires significant web design expertise."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8110025167,
+                "load_duration": 14152375,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47097000,
+                "eval_count": 187,
+                "eval_duration": 8047425000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer.\n\nHere's why:\n\n* In her current role at ABC Tech (May 2020 \u2013 Present), she developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Her previous role at XYZ Agency (June 2018 \u2013 April 2020) involved designing and developing custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\nWhile the other resumes also mention experience with web development, Jane Doe's specific focus on front-end development and her extensive experience in designing and implementing user-centric web applications make her a strong candidate for this role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:53:08.763139Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer.\n\nHere's why:\n\n* In her current role at ABC Tech (May 2020 \u2013 Present), she developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Her previous role at XYZ Agency (June 2018 \u2013 April 2020) involved designing and developing custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\nWhile the other resumes also mention experience with web development, Jane Doe's specific focus on front-end development and her extensive experience in designing and implementing user-centric web applications make her a strong candidate for this role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6245565083,
+                "load_duration": 14611708,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47052000,
+                "eval_count": 144,
+                "eval_duration": 6182381000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Jane Doe (Resume 1) and John Smith (Resume 2) have similar levels of experience in terms of years (5 years), but their roles differ.\n\nJane Doe is a Front-End Developer with experience in designing and implementing user-centric web applications. While she does not explicitly mention herself as a \"web designer,\" her role involves creating the user interface for a large-scale e-commerce platform using React.js and Redux, which is similar to the work of a web designer.\n\nJohn Smith, on the other hand, is a Back-End Developer with experience in designing and maintaining scalable server-side applications. He does not have any direct experience as a web designer.\n\nBased on the information provided, it appears that Jane Doe (Resume 1) has the most experience related to web design among the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:53:16.10297Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Jane Doe (Resume 1) and John Smith (Resume 2) have similar levels of experience in terms of years (5 years), but their roles differ.\n\nJane Doe is a Front-End Developer with experience in designing and implementing user-centric web applications. While she does not explicitly mention herself as a \"web designer,\" her role involves creating the user interface for a large-scale e-commerce platform using React.js and Redux, which is similar to the work of a web designer.\n\nJohn Smith, on the other hand, is a Back-End Developer with experience in designing and maintaining scalable server-side applications. He does not have any direct experience as a web designer.\n\nBased on the information provided, it appears that Jane Doe (Resume 1) has the most experience related to web design among the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7335702917,
+                "load_duration": 14875542,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47222000,
+                "eval_count": 169,
+                "eval_duration": 7272521000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer. According to her resume, she worked as:\n\n* Front-End Developer at ABC Tech (May 2020 \u2013 Present)\n\t+ Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n\t+ Collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n* Web Developer at XYZ Agency (June 2018 \u2013 April 2020)\n\t+ Designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\nWhile other candidates may have some experience with front-end development or design, Jane Doe's resume suggests that she has the most experience as a web designer, specifically in developing user interfaces, collaborating with designers, and implementing responsive and accessible web designs.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:53:23.9649Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer. According to her resume, she worked as:\n\n* Front-End Developer at ABC Tech (May 2020 \u2013 Present)\n\t+ Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n\t+ Collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n* Web Developer at XYZ Agency (June 2018 \u2013 April 2020)\n\t+ Designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\nWhile other candidates may have some experience with front-end development or design, Jane Doe's resume suggests that she has the most experience as a web designer, specifically in developing user interfaces, collaborating with designers, and implementing responsive and accessible web designs."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7858166417,
+                "load_duration": 15540833,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47138000,
+                "eval_count": 181,
+                "eval_duration": 7794444000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 1: Jane Doe and Resume 4: Alex Williams are both Full-Stack Developers with significant front-end development experience. However, Resume 1: Jane Doe is specifically listed as a Front-End Developer for two different companies (ABC Tech and XYZ Agency), which suggests that she has more direct experience in web design.\n\nIn comparison, Alex Williams' role as a Full-Stack Developer involves developing full-stack web applications, but it's not exclusively focused on front-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:53:28.487241Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 1: Jane Doe and Resume 4: Alex Williams are both Full-Stack Developers with significant front-end development experience. However, Resume 1: Jane Doe is specifically listed as a Front-End Developer for two different companies (ABC Tech and XYZ Agency), which suggests that she has more direct experience in web design.\n\nIn comparison, Alex Williams' role as a Full-Stack Developer involves developing full-stack web applications, but it's not exclusively focused on front-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4517847625,
+                "load_duration": 15042125,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47046000,
+                "eval_count": 104,
+                "eval_duration": 4454215000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, it appears that Resume 1: Jane Doe and Resume 4: Alex Williams have experience as front-end developers/web designers. However, if we compare their experience specifically as web designers, I would say that Resume 1: Jane Doe has the most experience in this area.\n\nJane Doe's experience includes:\n\n* Developing and maintaining the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Collaborating closely with UX/UI designers to implement responsive and accessible web designs.\n* Leading front-end development on multiple client projects simultaneously, delivering on time and within budget.\n\nWhile Alex Williams also has experience as a front-end developer, his experience seems more focused on full-stack development and back-end infrastructure, rather than specifically as a web designer.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:53:35.260483Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, it appears that Resume 1: Jane Doe and Resume 4: Alex Williams have experience as front-end developers/web designers. However, if we compare their experience specifically as web designers, I would say that Resume 1: Jane Doe has the most experience in this area.\n\nJane Doe's experience includes:\n\n* Developing and maintaining the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Collaborating closely with UX/UI designers to implement responsive and accessible web designs.\n* Leading front-end development on multiple client projects simultaneously, delivering on time and within budget.\n\nWhile Alex Williams also has experience as a front-end developer, his experience seems more focused on full-stack development and back-end infrastructure, rather than specifically as a web designer."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6769426375,
+                "load_duration": 14893250,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47091000,
+                "eval_count": 156,
+                "eval_duration": 6706405000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Resume 1: Jane Doe has the most experience as a web designer.\n\nAccording to her resume, she has been working as a Front-End Developer at ABC Tech since May 2020 and prior to that, she worked as a Web Developer at XYZ Agency from June 2018 to April 2020. This indicates that she has a strong background in designing and developing user-centric web applications, with specific skills in HTML, CSS, JavaScript, React.js, and Vue.js.\n\nWhile Resume 4: Alex Williams also lists Front-End Development as one of his skills, Jane Doe's experience in this area appears to be more extensive and specialized.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:53:41.447338Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Resume 1: Jane Doe has the most experience as a web designer.\n\nAccording to her resume, she has been working as a Front-End Developer at ABC Tech since May 2020 and prior to that, she worked as a Web Developer at XYZ Agency from June 2018 to April 2020. This indicates that she has a strong background in designing and developing user-centric web applications, with specific skills in HTML, CSS, JavaScript, React.js, and Vue.js.\n\nWhile Resume 4: Alex Williams also lists Front-End Development as one of his skills, Jane Doe's experience in this area appears to be more extensive and specialized."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6182582667,
+                "load_duration": 14537083,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46389000,
+                "eval_count": 142,
+                "eval_duration": 6120191000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend Resume 1: Jane Doe as the best fit for a web design role. Her summary and experience sections highlight her expertise in front-end development, with specific skills mentioned such as:\n\n* Proficiency in HTML, CSS, JavaScript\n* Strong proficiency in modern front-end frameworks like React and Vue.js\n* Experience in designing and implementing user-centric web applications\n* Skills in creating responsive and accessible web designs\n\nAdditionally, her work experience at ABC Tech mentions developing and maintaining the user interface for a large-scale e-commerce platform using React.js and Redux. This suggests that she has hands-on experience in building complex web applications from scratch.\n\nWhile Resume 2: John Smith also works with front-end development as part of his back-end role (collaborating with front-end developers), he does not have the same level of specialization or emphasis on web design.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:53:49.228252Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend Resume 1: Jane Doe as the best fit for a web design role. Her summary and experience sections highlight her expertise in front-end development, with specific skills mentioned such as:\n\n* Proficiency in HTML, CSS, JavaScript\n* Strong proficiency in modern front-end frameworks like React and Vue.js\n* Experience in designing and implementing user-centric web applications\n* Skills in creating responsive and accessible web designs\n\nAdditionally, her work experience at ABC Tech mentions developing and maintaining the user interface for a large-scale e-commerce platform using React.js and Redux. This suggests that she has hands-on experience in building complex web applications from scratch.\n\nWhile Resume 2: John Smith also works with front-end development as part of his back-end role (collaborating with front-end developers), he does not have the same level of specialization or emphasis on web design."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7776701083,
+                "load_duration": 14282791,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47044000,
+                "eval_count": 179,
+                "eval_duration": 7714301000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe has the most experience as a front-end developer/designer.\n\nHere's why:\n\n* Her job title is Front-End Developer.\n* She has worked in this role for 5 years (May 2020 \u2013 Present) at ABC Tech and previously at XYZ Agency (June 2018 \u2013 April 2020).\n* Her responsibilities have included designing and implementing user-centric web applications, creating responsive and accessible web designs, optimizing web applications for maximum speed and scalability, and utilizing automated testing tools.\n\nWhile other candidates may have some experience with design or front-end development, Jane Doe's extensive work history in this specific role makes her the strongest candidate as a web designer.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:53:55.563805Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe has the most experience as a front-end developer/designer.\n\nHere's why:\n\n* Her job title is Front-End Developer.\n* She has worked in this role for 5 years (May 2020 \u2013 Present) at ABC Tech and previously at XYZ Agency (June 2018 \u2013 April 2020).\n* Her responsibilities have included designing and implementing user-centric web applications, creating responsive and accessible web designs, optimizing web applications for maximum speed and scalability, and utilizing automated testing tools.\n\nWhile other candidates may have some experience with design or front-end development, Jane Doe's extensive work history in this specific role makes her the strongest candidate as a web designer."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6331766209,
+                "load_duration": 15014459,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47204000,
+                "eval_count": 146,
+                "eval_duration": 6268465000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Resume 1: Jane Doe has the most experience as a web designer. Here's why:\n\n* She has been working as a Front-End Developer for ABC Tech since May 2020, which is mentioned under Experience.\n* Prior to that, she worked as a Web Developer at XYZ Agency from June 2018 to April 2020, where her primary responsibility was designing and developing custom websites for clients in various industries.\n* Her skills section also lists HTML, CSS, JavaScript, and modern front-end frameworks such as React and Vue.js, which are all relevant to web design.\n\nWhile the other resumes may have some experience with web development or design, Jane Doe's resume highlights her extensive experience specifically in front-end development and web design.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:54:02.517378Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Resume 1: Jane Doe has the most experience as a web designer. Here's why:\n\n* She has been working as a Front-End Developer for ABC Tech since May 2020, which is mentioned under Experience.\n* Prior to that, she worked as a Web Developer at XYZ Agency from June 2018 to April 2020, where her primary responsibility was designing and developing custom websites for clients in various industries.\n* Her skills section also lists HTML, CSS, JavaScript, and modern front-end frameworks such as React and Vue.js, which are all relevant to web design.\n\nWhile the other resumes may have some experience with web development or design, Jane Doe's resume highlights her extensive experience specifically in front-end development and web design."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6948421625,
+                "load_duration": 14826083,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47139000,
+                "eval_count": 160,
+                "eval_duration": 6884938000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 1: Jane Doe** is the candidate with the most experience as a web designer.\n\nJane's work experience includes:\n\n* Front-End Developer at ABC Tech (May 2020 \u2013 Present): She developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Web Developer at XYZ Agency (June 2018 \u2013 April 2020): She designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\nJane has been working as a web designer for approximately 2-3 years, making her the candidate with the most experience in this field among the provided resumes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:54:08.552008Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 1: Jane Doe** is the candidate with the most experience as a web designer.\n\nJane's work experience includes:\n\n* Front-End Developer at ABC Tech (May 2020 \u2013 Present): She developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* Web Developer at XYZ Agency (June 2018 \u2013 April 2020): She designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\nJane has been working as a web designer for approximately 2-3 years, making her the candidate with the most experience in this field among the provided resumes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6030202458,
+                "load_duration": 14356042,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47064000,
+                "eval_count": 139,
+                "eval_duration": 5967675000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer.\n\nHere are her relevant experiences:\n\n* Front-End Developer at ABC Tech (May 2020 \u2013 Present)\n\t+ Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n\t+ Collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\t+ Optimized web applications for maximum speed and scalability, resulting in a 30% reduction in load times.\n* Web Developer at XYZ Agency (June 2018 \u2013 April 2020)\n\t+ Designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\t+ Created dynamic, responsive websites that enhanced user experience and increased client satisfaction.\n\nNote that while Resume 4: Alex Williams has experience as a Full-Stack Developer, her primary focus appears to be on backend development, whereas Jane Doe's primary focus is on front-end design.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:54:17.63813Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer.\n\nHere are her relevant experiences:\n\n* Front-End Developer at ABC Tech (May 2020 \u2013 Present)\n\t+ Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n\t+ Collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\t+ Optimized web applications for maximum speed and scalability, resulting in a 30% reduction in load times.\n* Web Developer at XYZ Agency (June 2018 \u2013 April 2020)\n\t+ Designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\t+ Created dynamic, responsive websites that enhanced user experience and increased client satisfaction.\n\nNote that while Resume 4: Alex Williams has experience as a Full-Stack Developer, her primary focus appears to be on backend development, whereas Jane Doe's primary focus is on front-end design."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9082412417,
+                "load_duration": 14432625,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47125000,
+                "eval_count": 209,
+                "eval_duration": 9019265000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Resume 1: Jane Doe has the most experience as a web designer.\n\nHere's why:\n\n* Her job title is Front-End Developer, which directly implies web design and development.\n* She has worked as a Web Developer at XYZ Agency (June 2018 \u2013 April 2020), where she designed and developed custom websites for clients using HTML, CSS, JavaScript, and Bootstrap.\n* In her current role as a Front-End Developer at ABC Tech (May 2020 \u2013 Present), she has developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n\nWhile other candidates may have some experience with web design or development, Jane Doe's resume explicitly highlights her extensive experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:54:24.49736Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Resume 1: Jane Doe has the most experience as a web designer.\n\nHere's why:\n\n* Her job title is Front-End Developer, which directly implies web design and development.\n* She has worked as a Web Developer at XYZ Agency (June 2018 \u2013 April 2020), where she designed and developed custom websites for clients using HTML, CSS, JavaScript, and Bootstrap.\n* In her current role as a Front-End Developer at ABC Tech (May 2020 \u2013 Present), she has developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n\nWhile other candidates may have some experience with web design or development, Jane Doe's resume explicitly highlights her extensive experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6855132875,
+                "load_duration": 14784833,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47133000,
+                "eval_count": 158,
+                "eval_duration": 6792110000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Jane Doe (Resume 1) has the most experience as a front-end developer/web designer. She has 5 years of experience in this field and has worked on various projects, including designing and implementing user-centric web applications, developing dynamic and responsive front-end components using React and Vue.js, and optimizing web applications for maximum speed and scalability.\n\nWhile other candidates have experience with web design or development as part of their broader skill sets (e.g., John Smith's experience with building RESTful APIs), Jane Doe has dedicated her career to this specific area, making her the most experienced web designer among the candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:54:30.052397Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Jane Doe (Resume 1) has the most experience as a front-end developer/web designer. She has 5 years of experience in this field and has worked on various projects, including designing and implementing user-centric web applications, developing dynamic and responsive front-end components using React and Vue.js, and optimizing web applications for maximum speed and scalability.\n\nWhile other candidates have experience with web design or development as part of their broader skill sets (e.g., John Smith's experience with building RESTful APIs), Jane Doe has dedicated her career to this specific area, making her the most experienced web designer among the candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5550757541,
+                "load_duration": 14860541,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47160000,
+                "eval_count": 128,
+                "eval_duration": 5487687000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Jane Doe (Resume 1) is identified as a \"Creative and detail-oriented Front-End Developer\" with experience in designing and implementing user-centric web applications. She also worked as a \"Web Developer\" at XYZ Agency, which involved designing and developing custom websites for clients.\n\nWhile there are other candidates who have experience in web development (e.g., Alex Williams' full-stack development experience), Jane Doe's specific focus on front-end development and web design makes her the most relevant candidate for this question.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:54:34.697207Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Jane Doe (Resume 1) is identified as a \"Creative and detail-oriented Front-End Developer\" with experience in designing and implementing user-centric web applications. She also worked as a \"Web Developer\" at XYZ Agency, which involved designing and developing custom websites for clients.\n\nWhile there are other candidates who have experience in web development (e.g., Alex Williams' full-stack development experience), Jane Doe's specific focus on front-end development and web design makes her the most relevant candidate for this question."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4640642167,
+                "load_duration": 14706375,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47122000,
+                "eval_count": 107,
+                "eval_duration": 4577182000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Jane Doe (Resume 1) appears to have the most experience as a web designer.\n\nHere are some highlights from her resume:\n\n* Front-End Developer at ABC Tech | San Francisco, CA (May 2020 \u2013 Present):\n\t+ Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n\t+ Collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n* Web Developer at XYZ Agency | San Francisco, CA (June 2018 \u2013 April 2020):\n\t+ Designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\t+ Created dynamic, responsive websites that enhanced user experience and increased client satisfaction.\n\nJane has a total of around 5 years of experience as a web designer, with her current role at ABC Tech being the longest tenure.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:54:42.825547Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Jane Doe (Resume 1) appears to have the most experience as a web designer.\n\nHere are some highlights from her resume:\n\n* Front-End Developer at ABC Tech | San Francisco, CA (May 2020 \u2013 Present):\n\t+ Developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n\t+ Collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n* Web Developer at XYZ Agency | San Francisco, CA (June 2018 \u2013 April 2020):\n\t+ Designed and developed custom websites for clients in various industries using HTML, CSS, JavaScript, and Bootstrap.\n\t+ Created dynamic, responsive websites that enhanced user experience and increased client satisfaction.\n\nJane has a total of around 5 years of experience as a web designer, with her current role at ABC Tech being the longest tenure."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8124413750,
+                "load_duration": 14572750,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46395000,
+                "eval_count": 187,
+                "eval_duration": 8062409000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 1: Jane Doe and Resume 4: Alex Williams have experience as web designers/front-end developers. However, I would recommend considering Resume 1: Jane Doe as having more experience specifically in designing and implementing user-centric web applications.\n\nJane Doe has worked as a Front-End Developer for ABC Tech from May 2020 to present and previously as a Web Developer at XYZ Agency from June 2018 to April 2020. This suggests that she has had consistent experience in the field of front-end development over the past five years.\n\nIn comparison, Alex Williams (Resume 4) has also worked as a Front-End Developer but primarily as part of their Full-Stack Developer role at Innovatech from June 2020 to present and previously as a Software Engineer at Tech Innovations. While he does have experience with front-end development, his primary focus appears to be on full-stack development.\n\nTherefore, if you're specifically looking for someone with more experience in web design/front-end development, I would recommend Jane Doe (Resume 1) over Alex Williams (Resume 4).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:54:52.699081Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 1: Jane Doe and Resume 4: Alex Williams have experience as web designers/front-end developers. However, I would recommend considering Resume 1: Jane Doe as having more experience specifically in designing and implementing user-centric web applications.\n\nJane Doe has worked as a Front-End Developer for ABC Tech from May 2020 to present and previously as a Web Developer at XYZ Agency from June 2018 to April 2020. This suggests that she has had consistent experience in the field of front-end development over the past five years.\n\nIn comparison, Alex Williams (Resume 4) has also worked as a Front-End Developer but primarily as part of their Full-Stack Developer role at Innovatech from June 2020 to present and previously as a Software Engineer at Tech Innovations. While he does have experience with front-end development, his primary focus appears to be on full-stack development.\n\nTherefore, if you're specifically looking for someone with more experience in web design/front-end development, I would recommend Jane Doe (Resume 1) over Alex Williams (Resume 4)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9868718083,
+                "load_duration": 14496333,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46242000,
+                "eval_count": 226,
+                "eval_duration": 9806422000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe has the most experience as a web designer/front-end developer.\n\nHere are some details from her resume:\n\n* She has worked as a Front-End Developer for ABC Tech since May 2020.\n* Before that, she was a Web Developer at XYZ Agency (June 2018 \u2013 April 2020).\n* Her work experience spans designing and implementing user-centric web applications using modern front-end frameworks like React.js.\n\nWhile other candidates may have some web development or design experience, Jane Doe's resume suggests the most extensive experience as a web designer/front-end developer.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:54:58.143649Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe has the most experience as a web designer/front-end developer.\n\nHere are some details from her resume:\n\n* She has worked as a Front-End Developer for ABC Tech since May 2020.\n* Before that, she was a Web Developer at XYZ Agency (June 2018 \u2013 April 2020).\n* Her work experience spans designing and implementing user-centric web applications using modern front-end frameworks like React.js.\n\nWhile other candidates may have some web development or design experience, Jane Doe's resume suggests the most extensive experience as a web designer/front-end developer."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5440585334,
+                "load_duration": 14294584,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47138000,
+                "eval_count": 125,
+                "eval_duration": 5377993000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer.\n\nHere are some key points from her resume that indicate her extensive experience in web design:\n\n* She has been working as a Front-End Developer at ABC Tech for over 2 years (May 2020 \u2013 Present), which suggests she is actively involved in designing and implementing user-centric web applications.\n* In her previous role at XYZ Agency, she worked as a Web Developer from June 2018 to April 2020, creating custom websites for clients using HTML, CSS, JavaScript, and Bootstrap. This experience indicates that she has worked on multiple client projects, which is a significant aspect of web design.\n* Her skills list includes \"Tools: Git, Webpack, Figma, Adobe XD\", which suggests she is familiar with popular tools used in the web design industry.\n\nOverall, while other candidates may have some experience in web design or related areas, Jane Doe appears to be the strongest candidate for a web designer position based on her extensive experience and relevant skills.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:55:07.603288Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a web designer.\n\nHere are some key points from her resume that indicate her extensive experience in web design:\n\n* She has been working as a Front-End Developer at ABC Tech for over 2 years (May 2020 \u2013 Present), which suggests she is actively involved in designing and implementing user-centric web applications.\n* In her previous role at XYZ Agency, she worked as a Web Developer from June 2018 to April 2020, creating custom websites for clients using HTML, CSS, JavaScript, and Bootstrap. This experience indicates that she has worked on multiple client projects, which is a significant aspect of web design.\n* Her skills list includes \"Tools: Git, Webpack, Figma, Adobe XD\", which suggests she is familiar with popular tools used in the web design industry.\n\nOverall, while other candidates may have some experience in web design or related areas, Jane Doe appears to be the strongest candidate for a web designer position based on her extensive experience and relevant skills."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9455593834,
+                "load_duration": 14687875,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47214000,
+                "eval_count": 217,
+                "eval_duration": 9392365000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe and Resume 4: Alex Williams have experience as Front-End Developers and Full-Stack Developers, respectively. However, among these two candidates, Jane Doe (Resume 1) is more specifically highlighted for her experience in front-end development with a focus on designing user-centric web applications.\n\nHowever, if we're looking at the most overall web design-related experience, I'd say Resume 4: Alex Williams has a slight edge over Jane Doe. As a Full-Stack Developer, Alex Williams has worked on both front-end and back-end aspects of web application development, which implies that he also has some experience with web design principles.\n\nBut if you're looking for someone specifically focused on front-end development and user-centric web designs, I'd say Resume 1: Jane Doe is the best candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:55:15.100738Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe and Resume 4: Alex Williams have experience as Front-End Developers and Full-Stack Developers, respectively. However, among these two candidates, Jane Doe (Resume 1) is more specifically highlighted for her experience in front-end development with a focus on designing user-centric web applications.\n\nHowever, if we're looking at the most overall web design-related experience, I'd say Resume 4: Alex Williams has a slight edge over Jane Doe. As a Full-Stack Developer, Alex Williams has worked on both front-end and back-end aspects of web application development, which implies that he also has some experience with web design principles.\n\nBut if you're looking for someone specifically focused on front-end development and user-centric web designs, I'd say Resume 1: Jane Doe is the best candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7493259167,
+                "load_duration": 14518917,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47183000,
+                "eval_count": 172,
+                "eval_duration": 7429998000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a front-end developer/designer. Here's why:\n\n* Her job title is Front-End Developer.\n* She has experience working with HTML, CSS, JavaScript, and modern front-end frameworks like React and Vue.js.\n* She has also worked on designing and implementing user-centric web applications, which suggests she has design skills as well.\n\nWhile the other candidates may have some relevant experience or skills related to web development/design, Jane Doe's resume specifically highlights her expertise in these areas.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:55:20.147759Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe appears to have the most experience as a front-end developer/designer. Here's why:\n\n* Her job title is Front-End Developer.\n* She has experience working with HTML, CSS, JavaScript, and modern front-end frameworks like React and Vue.js.\n* She has also worked on designing and implementing user-centric web applications, which suggests she has design skills as well.\n\nWhile the other candidates may have some relevant experience or skills related to web development/design, Jane Doe's resume specifically highlights her expertise in these areas."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5043132750,
+                "load_duration": 14609000,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47222000,
+                "eval_count": 116,
+                "eval_duration": 4980211000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Jane Doe (Resume 1) and John Smith (Resume 2) are not exclusively web designers. However, the following candidates have significant experience in web design:\n\n- Jane Doe (Resume 1): She worked as a Front-End Developer at ABC Tech from May 2020 to Present. \n- Emily Brown (Resume 5): Unfortunately, she does not primarily work as a web designer. Her skills are more aligned with software development and project management.\n\nAmong the three candidates listed above, Jane Doe has the most experience as a web designer, given her role as a Front-End Developer at ABC Tech.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:55:25.853975Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Jane Doe (Resume 1) and John Smith (Resume 2) are not exclusively web designers. However, the following candidates have significant experience in web design:\n\n- Jane Doe (Resume 1): She worked as a Front-End Developer at ABC Tech from May 2020 to Present. \n- Emily Brown (Resume 5): Unfortunately, she does not primarily work as a web designer. Her skills are more aligned with software development and project management.\n\nAmong the three candidates listed above, Jane Doe has the most experience as a web designer, given her role as a Front-End Developer at ABC Tech."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5702093958,
+                "load_duration": 14468125,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46524000,
+                "eval_count": 131,
+                "eval_duration": 5639605000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe is the candidate with the most experience as a web designer. She has over 5 years of experience in designing and implementing user-centric web applications, with specific roles such as:\n\n* Front-End Developer at ABC Tech (May 2020 \u2013 Present)\n* Web Developer at XYZ Agency (June 2018 \u2013 April 2020)\n\nShe also mentions that she is proficient in HTML, CSS, JavaScript, and modern front-end frameworks like React and Vue.js.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:55:30.472553Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe is the candidate with the most experience as a web designer. She has over 5 years of experience in designing and implementing user-centric web applications, with specific roles such as:\n\n* Front-End Developer at ABC Tech (May 2020 \u2013 Present)\n* Web Developer at XYZ Agency (June 2018 \u2013 April 2020)\n\nShe also mentions that she is proficient in HTML, CSS, JavaScript, and modern front-end frameworks like React and Vue.js."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4616349625,
+                "load_duration": 15720208,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 50648000,
+                "eval_count": 106,
+                "eval_duration": 4548852000
+            }
+        }
+    ]
+}

@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:14:03.170931Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9645263708,
+                "load_duration": 15257458,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 125509000,
+                "eval_count": 220,
+                "eval_duration": 9503492000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:14:12.740896Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9565677417,
+                "load_duration": 15195667,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 46470000,
+                "eval_count": 220,
+                "eval_duration": 9502362000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:14:22.420264Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9674645833,
+                "load_duration": 14767083,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 46855000,
+                "eval_count": 220,
+                "eval_duration": 9611831000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:14:32.091124Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9665871375,
+                "load_duration": 15337875,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 46676000,
+                "eval_count": 220,
+                "eval_duration": 9602001000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:14:41.809776Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9713795250,
+                "load_duration": 14674208,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47010000,
+                "eval_count": 220,
+                "eval_duration": 9650993000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:14:51.425952Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9611374000,
+                "load_duration": 15090417,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47298000,
+                "eval_count": 220,
+                "eval_duration": 9547931000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:15:01.036726Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9606637000,
+                "load_duration": 14567625,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47247000,
+                "eval_count": 220,
+                "eval_duration": 9543353000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:15:10.650694Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9609447792,
+                "load_duration": 14821708,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47287000,
+                "eval_count": 220,
+                "eval_duration": 9546269000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:15:20.268133Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9613394750,
+                "load_duration": 14514292,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47227000,
+                "eval_count": 220,
+                "eval_duration": 9550129000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:15:29.877499Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9605045125,
+                "load_duration": 14615541,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47225000,
+                "eval_count": 220,
+                "eval_duration": 9542143000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:15:39.484159Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9602488208,
+                "load_duration": 15188333,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47209000,
+                "eval_count": 220,
+                "eval_duration": 9539097000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:15:49.115039Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9626743208,
+                "load_duration": 14322833,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 48668000,
+                "eval_count": 220,
+                "eval_duration": 9562228000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:15:58.754607Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9635536041,
+                "load_duration": 14826875,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47359000,
+                "eval_count": 220,
+                "eval_duration": 9572294000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:16:08.383578Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9624485334,
+                "load_duration": 14766625,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47268000,
+                "eval_count": 220,
+                "eval_duration": 9561047000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:16:18.010353Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9622774792,
+                "load_duration": 14357875,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47472000,
+                "eval_count": 220,
+                "eval_duration": 9559889000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:16:27.621176Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9606415542,
+                "load_duration": 15069625,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47277000,
+                "eval_count": 220,
+                "eval_duration": 9543004000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:16:37.229036Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9603934959,
+                "load_duration": 14637417,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 48061000,
+                "eval_count": 220,
+                "eval_duration": 9539691000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:16:46.961846Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9728828708,
+                "load_duration": 14517125,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47261000,
+                "eval_count": 220,
+                "eval_duration": 9665984000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:16:56.845916Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9881099875,
+                "load_duration": 14064958,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 49419000,
+                "eval_count": 220,
+                "eval_duration": 9816103000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:17:06.713576Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9865772625,
+                "load_duration": 15334875,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47860000,
+                "eval_count": 220,
+                "eval_duration": 9801337000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:17:16.591124Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9873673958,
+                "load_duration": 15054417,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 48785000,
+                "eval_count": 220,
+                "eval_duration": 9808719000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:17:26.401651Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9808980000,
+                "load_duration": 14575625,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 46819000,
+                "eval_count": 220,
+                "eval_duration": 9746072000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:17:36.300655Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9894300541,
+                "load_duration": 14526250,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47353000,
+                "eval_count": 220,
+                "eval_duration": 9831127000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:17:46.082007Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9778001000,
+                "load_duration": 14539083,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47023000,
+                "eval_count": 220,
+                "eval_duration": 9714658000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:17:55.83882Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9753079750,
+                "load_duration": 14953333,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 46624000,
+                "eval_count": 220,
+                "eval_duration": 9690473000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:18:05.857221Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 10014886666,
+                "load_duration": 15283583,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 46903000,
+                "eval_count": 220,
+                "eval_duration": 9951808000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:18:15.723287Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9864085708,
+                "load_duration": 14810708,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 49740000,
+                "eval_count": 220,
+                "eval_duration": 9798205000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:18:25.456955Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9730510291,
+                "load_duration": 15001583,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 48040000,
+                "eval_count": 220,
+                "eval_duration": 9666412000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:18:35.173577Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9712569541,
+                "load_duration": 14881000,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 47025000,
+                "eval_count": 220,
+                "eval_duration": 9649010000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:18:44.894242Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most experience on both front-end and back-end development.\n\nOn the front-end side:\n\n* He worked as a Front-End Developer at ABC Tech from May 2020 to Present.\n* He developed and maintained the user interface for a large-scale e-commerce platform using React.js and Redux.\n* He collaborated closely with UX/UI designers to implement responsive and accessible web designs, improving user engagement by 20%.\n\nOn the back-end side:\n\n* He worked as a Full-Stack Developer at Innovatech from June 2020 to Present.\n* He developed full-stack web applications using Node.js, Express, and React, reducing development time by 30%.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with C# and .NET), Alex Williams' resume shows a broader range of experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9716057583,
+                "load_duration": 14389167,
+                "prompt_eval_count": 1816,
+                "prompt_eval_duration": 48343000,
+                "eval_count": 220,
+                "eval_duration": 9652235000
+            }
+        }
+    ]
+}

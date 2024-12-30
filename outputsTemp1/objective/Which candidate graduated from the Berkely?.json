@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Jane Doe (Resume 1) graduated from the University of California, Berkeley.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:24.756944Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Jane Doe (Resume 1) graduated from the University of California, Berkeley."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 893173125,
+                "load_duration": 14711625,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 177673000,
+                "eval_count": 17,
+                "eval_duration": 699573000
+            }
+        },
+        {
+            "Content": "According to Resume 1: Jane Doe, she graduated from:\n\n\"University of California, Berkeley | Berkeley, CA\n2014 \u2013 2018\"\n\nSo, Jane Doe is the candidate who graduated from Berkeley.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:26.755292Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1: Jane Doe, she graduated from:\n\n\"University of California, Berkeley | Berkeley, CA\n2014 \u2013 2018\"\n\nSo, Jane Doe is the candidate who graduated from Berkeley."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1995888209,
+                "load_duration": 15090042,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47470000,
+                "eval_count": 44,
+                "eval_duration": 1932289000
+            }
+        },
+        {
+            "Content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:28.015302Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1255978833,
+                "load_duration": 14479167,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 48144000,
+                "eval_count": 28,
+                "eval_duration": 1191754000
+            }
+        },
+        {
+            "Content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley (Berkeley) in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:29.614863Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley (Berkeley) in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1597441584,
+                "load_duration": 14224709,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47049000,
+                "eval_count": 36,
+                "eval_duration": 1535171000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, the answer is:\n\nResume 1: Jane Doe\n\nShe graduated from the University of California, Berkeley with a B.S. in Computer Science (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:31.479582Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, the answer is:\n\nResume 1: Jane Doe\n\nShe graduated from the University of California, Berkeley with a B.S. in Computer Science (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1860925625,
+                "load_duration": 14581916,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 46670000,
+                "eval_count": 42,
+                "eval_duration": 1798016000
+            }
+        },
+        {
+            "Content": "The answer is:\n\nResume 1: Jane Doe \n\nShe graduated from the University of California, Berkeley with a B.S. in Computer Science (2014 - 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:33.128323Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "The answer is:\n\nResume 1: Jane Doe \n\nShe graduated from the University of California, Berkeley with a B.S. in Computer Science (2014 - 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1644385709,
+                "load_duration": 14790792,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47831000,
+                "eval_count": 37,
+                "eval_duration": 1580565000
+            }
+        },
+        {
+            "Content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from:\n\nUniversity of California, Berkeley | Berkeley, CA (2014 - 2018)",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:34.906382Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from:\n\nUniversity of California, Berkeley | Berkeley, CA (2014 - 2018)"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1774462083,
+                "load_duration": 15231583,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47539000,
+                "eval_count": 39,
+                "eval_duration": 1710628000
+            }
+        },
+        {
+            "Content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:36.168541Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1258665417,
+                "load_duration": 14593125,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47539000,
+                "eval_count": 28,
+                "eval_duration": 1194662000
+            }
+        },
+        {
+            "Content": "Jane Doe (Resume 1) graduated from the University of California, Berkeley with a B.S. in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:37.290096Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Jane Doe (Resume 1) graduated from the University of California, Berkeley with a B.S. in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1119202792,
+                "load_duration": 14567000,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47625000,
+                "eval_count": 25,
+                "eval_duration": 1055988000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Jane Doe (Resume 1) is the candidate who graduated from the University of California, Berkeley with a B.S. in Computer Science (2014 - 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:39.153937Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Jane Doe (Resume 1) is the candidate who graduated from the University of California, Berkeley with a B.S. in Computer Science (2014 - 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1861337417,
+                "load_duration": 14262250,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47156000,
+                "eval_count": 42,
+                "eval_duration": 1798129000
+            }
+        },
+        {
+            "Content": "According to Resume 1 (Jane Doe), she graduated with a B.S. in Computer Science from the University of California, Berkeley.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:40.409706Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1 (Jane Doe), she graduated with a B.S. in Computer Science from the University of California, Berkeley."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1252993791,
+                "load_duration": 14578166,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 46139000,
+                "eval_count": 28,
+                "eval_duration": 1191219000
+            }
+        },
+        {
+            "Content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley (Berkeley) in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:42.013696Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley (Berkeley) in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1602247000,
+                "load_duration": 15165542,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47051000,
+                "eval_count": 36,
+                "eval_duration": 1539018000
+            }
+        },
+        {
+            "Content": "Jane Doe (Resume 1) graduated from the University of California, Berkeley with a B.S. in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:43.156564Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Jane Doe (Resume 1) graduated from the University of California, Berkeley with a B.S. in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1138369042,
+                "load_duration": 14523208,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 48096000,
+                "eval_count": 25,
+                "eval_duration": 1073918000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe graduated from the University of California, Berkeley with a B.S. in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:44.516282Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe graduated from the University of California, Berkeley with a B.S. in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1357437083,
+                "load_duration": 14795042,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 48116000,
+                "eval_count": 30,
+                "eval_duration": 1293489000
+            }
+        },
+        {
+            "Content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley (Berkeley, CA) in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:46.220487Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1: Jane Doe, she graduated with a B.S. in Computer Science from the University of California, Berkeley (Berkeley, CA) in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1700937958,
+                "load_duration": 14119083,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 48003000,
+                "eval_count": 38,
+                "eval_duration": 1636980000
+            }
+        },
+        {
+            "Content": "The answer is Resume 1: Jane Doe.\n\nShe graduated with a B.S. in Computer Science from University of California, Berkeley (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:47.748379Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "The answer is Resume 1: Jane Doe.\n\nShe graduated with a B.S. in Computer Science from University of California, Berkeley (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1523462625,
+                "load_duration": 14890667,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47995000,
+                "eval_count": 34,
+                "eval_duration": 1459544000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe is the one who graduated from the University of California, Berkeley with a B.S. in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:49.276433Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe is the one who graduated from the University of California, Berkeley with a B.S. in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1525920875,
+                "load_duration": 14808292,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 46996000,
+                "eval_count": 34,
+                "eval_duration": 1463100000
+            }
+        },
+        {
+            "Content": "Jane Doe (Resume 1) is the one who graduated from the University of California, Berkeley.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:50.226785Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Jane Doe (Resume 1) is the one who graduated from the University of California, Berkeley."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 947848750,
+                "load_duration": 14246292,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 48149000,
+                "eval_count": 21,
+                "eval_duration": 884130000
+            }
+        },
+        {
+            "Content": "Resume 1: Jane Doe, a Front-End Developer, lists her education as:\n\n\"B.S. in Computer Science\nUniversity of California, Berkeley | Berkeley, CA\n2014 \u2013 2018\"",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:52.153218Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 1: Jane Doe, a Front-End Developer, lists her education as:\n\n\"B.S. in Computer Science\nUniversity of California, Berkeley | Berkeley, CA\n2014 \u2013 2018\""
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1924156250,
+                "load_duration": 14402583,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47868000,
+                "eval_count": 43,
+                "eval_duration": 1860862000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: Jane Doe is the candidate who graduated from the University of California, Berkeley (B.S. in Computer Science).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:53.630836Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: Jane Doe is the candidate who graduated from the University of California, Berkeley (B.S. in Computer Science)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1475529042,
+                "load_duration": 16052334,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 46907000,
+                "eval_count": 33,
+                "eval_duration": 1410614000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes:\n\n* Resume 1: Jane Doe graduated from the University of California, Berkeley with a B.S. in Computer Science.\n\nTherefore, the answer is Jane Doe (Resume 1).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:55.545513Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes:\n\n* Resume 1: Jane Doe graduated from the University of California, Berkeley with a B.S. in Computer Science.\n\nTherefore, the answer is Jane Doe (Resume 1)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1911870500,
+                "load_duration": 14389583,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 48415000,
+                "eval_count": 43,
+                "eval_duration": 1848120000
+            }
+        },
+        {
+            "Content": "The candidate who graduated from Berkeley is Jane Doe (Resume 1). She completed her Bachelor of Science degree in Computer Science at the University of California, Berkeley.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:57.0241Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "The candidate who graduated from Berkeley is Jane Doe (Resume 1). She completed her Bachelor of Science degree in Computer Science at the University of California, Berkeley."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1475857167,
+                "load_duration": 14974792,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 48793000,
+                "eval_count": 33,
+                "eval_duration": 1411051000
+            }
+        },
+        {
+            "Content": "According to Resume 1: Jane Doe, she graduated from:\n\n\"University of California, Berkeley | Berkeley, CA\"\n\nSo, Jane Doe is the candidate who graduated from Berkeley.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:17:58.681657Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1: Jane Doe, she graduated from:\n\n\"University of California, Berkeley | Berkeley, CA\"\n\nSo, Jane Doe is the candidate who graduated from Berkeley."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1655461916,
+                "load_duration": 14116291,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47251000,
+                "eval_count": 37,
+                "eval_duration": 1592435000
+            }
+        },
+        {
+            "Content": "The answer is Resume 1: Jane Doe.\n\nAccording to her resume, she graduated with a B.S. in Computer Science from the University of California, Berkeley (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:18:00.471703Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "The answer is Resume 1: Jane Doe.\n\nAccording to her resume, she graduated with a B.S. in Computer Science from the University of California, Berkeley (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1786443041,
+                "load_duration": 14541708,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 46333000,
+                "eval_count": 40,
+                "eval_duration": 1724583000
+            }
+        },
+        {
+            "Content": "Resume 1: Jane Doe, a Front-End Developer, graduated from:\n\nB.S. in Computer Science\nUniversity of California, Berkeley | Berkeley, CA\n2014 \u2013 2018------------------------------",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:18:02.341271Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 1: Jane Doe, a Front-End Developer, graduated from:\n\nB.S. in Computer Science\nUniversity of California, Berkeley | Berkeley, CA\n2014 \u2013 2018------------------------------"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1867053666,
+                "load_duration": 14812875,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47374000,
+                "eval_count": 42,
+                "eval_duration": 1803032000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Jane Doe (Resume 1) is the one who graduated from the University of California, Berkeley, with a B.S. in Computer Science, from 2014 to 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:18:04.352097Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Jane Doe (Resume 1) is the one who graduated from the University of California, Berkeley, with a B.S. in Computer Science, from 2014 to 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2007683917,
+                "load_duration": 14626667,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47832000,
+                "eval_count": 45,
+                "eval_duration": 1944057000
+            }
+        },
+        {
+            "Content": "According to Resume 1 (Jane Doe), she graduated with a B.S. in Computer Science from the University of California, Berkeley in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:18:05.792686Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1 (Jane Doe), she graduated with a B.S. in Computer Science from the University of California, Berkeley in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1437351209,
+                "load_duration": 15156375,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47602000,
+                "eval_count": 32,
+                "eval_duration": 1373580000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1 (Jane Doe) is the one who mentions graduating from the University of California, Berkeley with a B.S. in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:18:07.404096Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1 (Jane Doe) is the one who mentions graduating from the University of California, Berkeley with a B.S. in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1609024750,
+                "load_duration": 14144083,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47516000,
+                "eval_count": 36,
+                "eval_duration": 1545617000
+            }
+        },
+        {
+            "Content": "According to Resume 1: Jane Doe, she graduated from the University of California, Berkeley with a B.S. in Computer Science (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:18:08.916274Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 1: Jane Doe, she graduated from the University of California, Berkeley with a B.S. in Computer Science (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1509452208,
+                "load_duration": 14501250,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 46858000,
+                "eval_count": 34,
+                "eval_duration": 1446871000
+            }
+        },
+        {
+            "Content": "Resume 1: Jane Doe\n\nJane Doe graduated from the University of California, Berkeley with a B.S. in Computer Science (2014 - 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Jane",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:18:10.438187Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 1: Jane Doe\n\nJane Doe graduated from the University of California, Berkeley with a B.S. in Computer Science (2014 - 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1518052625,
+                "load_duration": 14378583,
+                "prompt_eval_count": 1811,
+                "prompt_eval_duration": 47691000,
+                "eval_count": 34,
+                "eval_duration": 1454150000
+            }
+        }
+    ]
+}

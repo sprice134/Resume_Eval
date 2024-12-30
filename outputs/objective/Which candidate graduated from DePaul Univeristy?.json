@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Emily Brown, from Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:40.225515Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown, from Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1432310708,
+                "load_duration": 15082666,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 205677000,
+                "eval_count": 29,
+                "eval_duration": 1210451000
+            }
+        },
+        {
+            "Content": "Emily Brown, the candidate whose resume is Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:41.676505Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown, the candidate whose resume is Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1446787083,
+                "load_duration": 14441791,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47577000,
+                "eval_count": 33,
+                "eval_duration": 1383163000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:42.651716Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 971629458,
+                "load_duration": 14445333,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47076000,
+                "eval_count": 22,
+                "eval_duration": 908760000
+            }
+        },
+        {
+            "Content": "Resume 5: Emily Brown \n\nShe graduated from DePaul University with a B.S. in Information Technology (2012 \u2013 2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:43.97105Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 5: Emily Brown \n\nShe graduated from DePaul University with a B.S. in Information Technology (2012 \u2013 2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1315545750,
+                "load_duration": 13960875,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46325000,
+                "eval_count": 30,
+                "eval_duration": 1253705000
+            }
+        },
+        {
+            "Content": "According to Resume 5: Emily Brown, she graduated from:\n\nDePaul University (with a B.S. in Information Technology) from 2012-2016.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:45.509745Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5: Emily Brown, she graduated from:\n\nDePaul University (with a B.S. in Information Technology) from 2012-2016."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1535092666,
+                "load_duration": 14710000,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47048000,
+                "eval_count": 35,
+                "eval_duration": 1472260000
+            }
+        },
+        {
+            "Content": "Emily Brown, the candidate listed on Resume 5, graduated from DePaul University with a B.S. in Information Technology in 2016.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:46.830164Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown, the candidate listed on Resume 5, graduated from DePaul University with a B.S. in Information Technology in 2016."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1316768291,
+                "load_duration": 14587291,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46583000,
+                "eval_count": 30,
+                "eval_duration": 1254591000
+            }
+        },
+        {
+            "Content": "According to Resume 5: Emily Brown, she graduated from DePaul University with a B.S. in Information Technology from 2012-2016.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:48.235872Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5: Emily Brown, she graduated from DePaul University with a B.S. in Information Technology from 2012-2016."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1401941042,
+                "load_duration": 13946000,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46284000,
+                "eval_count": 32,
+                "eval_duration": 1340191000
+            }
+        },
+        {
+            "Content": "According to Resume 5: Emily Brown, she graduated from:\n\nB.S. in Information Technology\nDePaul University | Chicago, IL\n2012 \u2013 2016\n\nSo, the answer is Emily Brown.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:50.159453Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5: Emily Brown, she graduated from:\n\nB.S. in Information Technology\nDePaul University | Chicago, IL\n2012 \u2013 2016\n\nSo, the answer is Emily Brown."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1920017375,
+                "load_duration": 13931708,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46259000,
+                "eval_count": 44,
+                "eval_duration": 1858791000
+            }
+        },
+        {
+            "Content": "According to Resume 5 (Emily Brown), she graduated from:\n\n* B.S. in Information Technology\n* DePaul University | Chicago, IL\n* 2012 \u2013 2016",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:51.863327Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5 (Emily Brown), she graduated from:\n\n* B.S. in Information Technology\n* DePaul University | Chicago, IL\n* 2012 \u2013 2016"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1699890042,
+                "load_duration": 14289417,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 45991000,
+                "eval_count": 39,
+                "eval_duration": 1638252000
+            }
+        },
+        {
+            "Content": "According to Resume 5: Emily Brown, she graduated from DePaul University with a B.S. in Information Technology (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:53.226413Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5: Emily Brown, she graduated from DePaul University with a B.S. in Information Technology (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1358991667,
+                "load_duration": 14181459,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46931000,
+                "eval_count": 31,
+                "eval_duration": 1296837000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 5: Emily Brown graduated from DePaul University with a B.S. in Information Technology (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:54.676235Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 5: Emily Brown graduated from DePaul University with a B.S. in Information Technology (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1445565041,
+                "load_duration": 14712333,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46451000,
+                "eval_count": 33,
+                "eval_duration": 1383398000
+            }
+        },
+        {
+            "Content": "According to Resume 5: Emily Brown, she graduated from:\n\nDePaul University with a B.S. in Information Technology (2012 \u2013 2016)",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:56.123322Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5: Emily Brown, she graduated from:\n\nDePaul University with a B.S. in Information Technology (2012 \u2013 2016)"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1443484625,
+                "load_duration": 13907583,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46304000,
+                "eval_count": 33,
+                "eval_duration": 1381819000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:57.099738Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 971721375,
+                "load_duration": 14344500,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47108000,
+                "eval_count": 22,
+                "eval_duration": 909159000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University, where she earned a B.S. in Information Technology between 2012 and 2016.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:58.551023Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University, where she earned a B.S. in Information Technology between 2012 and 2016."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1447691958,
+                "load_duration": 14111167,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47081000,
+                "eval_count": 33,
+                "eval_duration": 1384665000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:59.524386Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 969262292,
+                "load_duration": 14272833,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46111000,
+                "eval_count": 22,
+                "eval_duration": 907865000
+            }
+        },
+        {
+            "Content": "According to Resume 5 (Emily Brown), Emily graduated with a B.S. in Information Technology from DePaul University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:00.629299Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5 (Emily Brown), Emily graduated with a B.S. in Information Technology from DePaul University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1100813583,
+                "load_duration": 14788583,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46236000,
+                "eval_count": 25,
+                "eval_duration": 1038793000
+            }
+        },
+        {
+            "Content": "Emily Brown, as indicated by Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:01.996076Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown, as indicated by Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1363171375,
+                "load_duration": 14163959,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46550000,
+                "eval_count": 31,
+                "eval_duration": 1300989000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:02.970707Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 970451083,
+                "load_duration": 14203041,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46462000,
+                "eval_count": 22,
+                "eval_duration": 908707000
+            }
+        },
+        {
+            "Content": "Emily Brown, as per Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:04.292771Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown, as per Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1317734792,
+                "load_duration": 13962959,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46295000,
+                "eval_count": 30,
+                "eval_duration": 1255856000
+            }
+        },
+        {
+            "Content": "According to Resume 5 (Emily Brown), she graduated with a B.S. in Information Technology from DePaul University in Chicago, IL, from 2012-2016.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:05.92222Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5 (Emily Brown), she graduated with a B.S. in Information Technology from DePaul University in Chicago, IL, from 2012-2016."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1625208875,
+                "load_duration": 14110375,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46207000,
+                "eval_count": 37,
+                "eval_duration": 1563838000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University, where she earned a B.S. in Information Technology (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:07.287228Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University, where she earned a B.S. in Information Technology (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1361114334,
+                "load_duration": 14725167,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47390000,
+                "eval_count": 31,
+                "eval_duration": 1297889000
+            }
+        },
+        {
+            "Content": "Resume 5: Emily Brown \n\nShe graduated with a B.S. in Information Technology from DePaul University in Chicago, IL (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:08.73908Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 5: Emily Brown \n\nShe graduated with a B.S. in Information Technology from DePaul University in Chicago, IL (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1448430250,
+                "load_duration": 14323875,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46273000,
+                "eval_count": 33,
+                "eval_duration": 1386337000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:09.981911Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1239085916,
+                "load_duration": 14581708,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46916000,
+                "eval_count": 28,
+                "eval_duration": 1176228000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology from 2012 to 2016.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:11.31237Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology from 2012 to 2016."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1326549625,
+                "load_duration": 14571542,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47428000,
+                "eval_count": 30,
+                "eval_duration": 1262915000
+            }
+        },
+        {
+            "Content": "According to Resume 5: Emily Brown, she graduated from DePaul University with a B.S. in Information Technology (2012 - 2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:12.721342Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5: Emily Brown, she graduated from DePaul University with a B.S. in Information Technology (2012 - 2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1404707250,
+                "load_duration": 15000000,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47283000,
+                "eval_count": 32,
+                "eval_duration": 1341340000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology from the years 2012-2016.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:14.086889Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology from the years 2012-2016."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1361402708,
+                "load_duration": 15051458,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47184000,
+                "eval_count": 31,
+                "eval_duration": 1297870000
+            }
+        },
+        {
+            "Content": "According to Resume 5: Emily Brown, she graduated from:\n\nDePaul University | Chicago, IL\n2012 \u2013 2016",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:15.320189Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 5: Emily Brown, she graduated from:\n\nDePaul University | Chicago, IL\n2012 \u2013 2016"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1229657458,
+                "load_duration": 14256166,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46244000,
+                "eval_count": 28,
+                "eval_duration": 1167742000
+            }
+        },
+        {
+            "Content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:16.294208Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown (Resume 5) graduated from DePaul University with a B.S. in Information Technology."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 970471041,
+                "load_duration": 14579250,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46426000,
+                "eval_count": 22,
+                "eval_duration": 908420000
+            }
+        },
+        {
+            "Content": "Resume 5: Emily Brown graduated from DePaul University with a B.S. in Information Technology (2012-2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:17.519598Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 5: Emily Brown graduated from DePaul University with a B.S. in Information Technology (2012-2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1221325042,
+                "load_duration": 14881334,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 67565000,
+                "eval_count": 27,
+                "eval_duration": 1130302000
+            }
+        },
+        {
+            "Content": "Emily Brown, the candidate whose resume is Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012 - 2016).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:43:19.011941Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Emily Brown, the candidate whose resume is Resume 5, graduated from DePaul University with a B.S. in Information Technology (2012 - 2016)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1488346791,
+                "load_duration": 14368416,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47251000,
+                "eval_count": 34,
+                "eval_duration": 1425606000
+            }
+        }
+    ]
+}

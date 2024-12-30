@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI/CD pipelines.\n\nIn his current role as Full-Stack Developer at Innovatech (Resume 4), he mentions implementing CI/CD pipelines using Jenkins and Docker, which improved deployment efficiency and reduced downtime. He also notes that this implementation resulted in a 25% cost reduction.\n\nAdditionally, in his previous role as Software Engineer at Tech Innovations (Resume 4), he developed APIs and microservices in Node.js and Express, which implies some level of CI/CD experience.\n\nWhile the other resumes mention tools related to CI/CD such as Jenkins or Docker, they do not provide specific details about implementing CI/CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:37:14.888628Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI/CD pipelines.\n\nIn his current role as Full-Stack Developer at Innovatech (Resume 4), he mentions implementing CI/CD pipelines using Jenkins and Docker, which improved deployment efficiency and reduced downtime. He also notes that this implementation resulted in a 25% cost reduction.\n\nAdditionally, in his previous role as Software Engineer at Tech Innovations (Resume 4), he developed APIs and microservices in Node.js and Express, which implies some level of CI/CD experience.\n\nWhile the other resumes mention tools related to CI/CD such as Jenkins or Docker, they do not provide specific details about implementing CI/CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6789409250,
+                "load_duration": 30196709,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 369652000,
+                "eval_count": 146,
+                "eval_duration": 6387998000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 4 (Alex Williams) has the most experience with CI/CD pipelines.\n\nFrom his Experience section:\n\n* \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nWhile other candidates may have some familiarity or basic understanding of CI/CD concepts, Alex's resume explicitly highlights his experience in implementing and utilizing CI/CD pipelines as part of his job responsibilities.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:37:18.683605Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 4 (Alex Williams) has the most experience with CI/CD pipelines.\n\nFrom his Experience section:\n\n* \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nWhile other candidates may have some familiarity or basic understanding of CI/CD concepts, Alex's resume explicitly highlights his experience in implementing and utilizing CI/CD pipelines as part of his job responsibilities."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3789867625,
+                "load_duration": 15299750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 48141000,
+                "eval_count": 86,
+                "eval_duration": 3724683000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 4: Alex Williams stands out as the candidate with the most experience with CI-CD pipelines.\n\nHere's why:\n\n* In his role as Full-Stack Developer at Innovatech (Resume 4), he managed cloud infrastructure on AWS and implemented CI/CD pipelines using Jenkins and Docker. He mentions that this resulted in improved deployment efficiency and reduced downtime.\n* Similarly, in his previous role as Software Engineer at Tech Innovations (Resume 4), he worked closely with QA teams to ensure the robustness and reliability of web applications, which likely involved CI-CD pipelines.\n\nWhile other candidates may have some experience with CI-CD pipelines, Alex Williams' resume explicitly highlights his extensive work in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:37:25.302166Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 4: Alex Williams stands out as the candidate with the most experience with CI-CD pipelines.\n\nHere's why:\n\n* In his role as Full-Stack Developer at Innovatech (Resume 4), he managed cloud infrastructure on AWS and implemented CI/CD pipelines using Jenkins and Docker. He mentions that this resulted in improved deployment efficiency and reduced downtime.\n* Similarly, in his previous role as Software Engineer at Tech Innovations (Resume 4), he worked closely with QA teams to ensure the robustness and reliability of web applications, which likely involved CI-CD pipelines.\n\nWhile other candidates may have some experience with CI-CD pipelines, Alex Williams' resume explicitly highlights his extensive work in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6614428791,
+                "load_duration": 15039583,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47530000,
+                "eval_count": 150,
+                "eval_duration": 6550662000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams and Resume 2: John Smith both have some experience with CI/CD pipelines.\n\nHowever, Resume 4: Alex Williams specifically mentions implementing CI/CD pipelines using Jenkins and Docker, resulting in \"improving deployment efficiency and reducing downtime.\" This suggests that Alex has hands-on experience with setting up and managing CI/CD pipelines, including using Jenkins and Docker.\n\nResume 2: John Smith also mentions having some experience with CI/CD pipelines, but it's not as detailed. He mentions implementing code reviews and using tools like Jenkins, but he doesn't provide specific examples of using CI/CD pipelines in his projects.\n\nTherefore, based on the information provided, I would say that Alex Williams (Resume 4) has the most experience with CI/CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:37:32.715764Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams and Resume 2: John Smith both have some experience with CI/CD pipelines.\n\nHowever, Resume 4: Alex Williams specifically mentions implementing CI/CD pipelines using Jenkins and Docker, resulting in \"improving deployment efficiency and reducing downtime.\" This suggests that Alex has hands-on experience with setting up and managing CI/CD pipelines, including using Jenkins and Docker.\n\nResume 2: John Smith also mentions having some experience with CI/CD pipelines, but it's not as detailed. He mentions implementing code reviews and using tools like Jenkins, but he doesn't provide specific examples of using CI/CD pipelines in his projects.\n\nTherefore, based on the information provided, I would say that Alex Williams (Resume 4) has the most experience with CI/CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7410584291,
+                "load_duration": 14892625,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46639000,
+                "eval_count": 167,
+                "eval_duration": 7347545000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes:\n\nResume 4: Alex Williams has the most experience with CI/CD pipelines.\n\n* In his role as Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. \n\nThe other candidates do not have similar experiences mentioned in their resumes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:37:35.728673Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes:\n\nResume 4: Alex Williams has the most experience with CI/CD pipelines.\n\n* In his role as Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. \n\nThe other candidates do not have similar experiences mentioned in their resumes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3008914500,
+                "load_duration": 14504084,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47092000,
+                "eval_count": 69,
+                "eval_duration": 2946209000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams and Resume 1: Jane Doe both mention implementing CI/CD pipelines using Jenkins and Docker. However, Alex Williams' experience in this area is more extensive and dates back to his previous role at Tech Innovations (July 2018 \u2013 May 2020), where he \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nTherefore, based on the information provided, I would say that Alex Williams has the most experience with CI-CD pipelines among all the candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:37:40.706214Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams and Resume 1: Jane Doe both mention implementing CI/CD pipelines using Jenkins and Docker. However, Alex Williams' experience in this area is more extensive and dates back to his previous role at Tech Innovations (July 2018 \u2013 May 2020), where he \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nTherefore, based on the information provided, I would say that Alex Williams has the most experience with CI-CD pipelines among all the candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4972609750,
+                "load_duration": 14825208,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47145000,
+                "eval_count": 114,
+                "eval_duration": 4909534000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams and Resume 2: John Smith both have some experience with CI/CD pipelines. However, Resume 4: Alex Williams seems to have more extensive experience with CI/CD pipelines.\n\nAccording to his resume, Alex has implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. He also managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile John Smith's resume mentions using Docker and Kubernetes, which are related to CI/CD pipelines, his specific experience with CI/CD seems more focused on managing databases and integrating third-party services rather than implementing pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:37:46.970924Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams and Resume 2: John Smith both have some experience with CI/CD pipelines. However, Resume 4: Alex Williams seems to have more extensive experience with CI/CD pipelines.\n\nAccording to his resume, Alex has implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. He also managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n\nWhile John Smith's resume mentions using Docker and Kubernetes, which are related to CI/CD pipelines, his specific experience with CI/CD seems more focused on managing databases and integrating third-party services rather than implementing pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6260625209,
+                "load_duration": 14334750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47127000,
+                "eval_count": 144,
+                "eval_duration": 6197423000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nHere are his relevant experiences:\n\n* \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n* \"Managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\" (This also implies familiarity with AWS-related CI/CD tools)\n\nWhile other candidates may have experience with related tools or methodologies, Alex Williams' resume highlights the most comprehensive and recent experience with CI/CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:37:52.106697Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nHere are his relevant experiences:\n\n* \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n* \"Managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\" (This also implies familiarity with AWS-related CI/CD tools)\n\nWhile other candidates may have experience with related tools or methodologies, Alex Williams' resume highlights the most comprehensive and recent experience with CI/CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5130753166,
+                "load_duration": 14790583,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47031000,
+                "eval_count": 118,
+                "eval_duration": 5067863000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both have experience with CI/CD pipelines.\n\nHowever, Alex Williams (Resume 4) has more extensive experience with CI/CD pipelines:\n\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n* He implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nWhile Jane Doe (Resume 1) also mentions utilizing automated testing tools (Jest, Cypress), there is no clear indication that she has worked with CI/CD pipelines beyond testing.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:37:57.904614Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both have experience with CI/CD pipelines.\n\nHowever, Alex Williams (Resume 4) has more extensive experience with CI/CD pipelines:\n\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, resulting in a 25% cost reduction.\n* He implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nWhile Jane Doe (Resume 1) also mentions utilizing automated testing tools (Jest, Cypress), there is no clear indication that she has worked with CI/CD pipelines beyond testing."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5793644833,
+                "load_duration": 14828208,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47113000,
+                "eval_count": 133,
+                "eval_duration": 5730197000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI/CD pipelines.\n\nAccording to his resume:\n\n* As a Full-Stack Developer at Innovatech (June 2020 \u2013 Present), he managed cloud infrastructure on AWS, including EC2, S3, and Lambda, which implies he also set up CI/CD pipelines.\n* He implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nWhile the other resumes mention use of tools like Git, Azure DevOps, or Jira, Resume 4: Alex Williams is the one who explicitly mentions implementing CI/CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:03.619427Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI/CD pipelines.\n\nAccording to his resume:\n\n* As a Full-Stack Developer at Innovatech (June 2020 \u2013 Present), he managed cloud infrastructure on AWS, including EC2, S3, and Lambda, which implies he also set up CI/CD pipelines.\n* He implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nWhile the other resumes mention use of tools like Git, Azure DevOps, or Jira, Resume 4: Alex Williams is the one who explicitly mentions implementing CI/CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5710207459,
+                "load_duration": 14688709,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46578000,
+                "eval_count": 131,
+                "eval_duration": 5647879000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both have experience with CI/CD pipelines.\n\nHowever, if I had to pick one candidate who has the most experience with CI/CD pipelines, it would be Alex Williams from Resume 4. According to his resume, he implemented CI/CD pipelines using Jenkins and Docker at Innovatech, resulting in improved deployment efficiency and reduced downtime.\n\nIn contrast, Jane Doe (Resume 1) also implemented automated testing tools like Jest and Cypress, but there is no mention of her working with CI/CD pipelines specifically.\n\nTherefore, I would conclude that Alex Williams from Resume 4 has the most experience with CI-CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:10.024531Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both have experience with CI/CD pipelines.\n\nHowever, if I had to pick one candidate who has the most experience with CI/CD pipelines, it would be Alex Williams from Resume 4. According to his resume, he implemented CI/CD pipelines using Jenkins and Docker at Innovatech, resulting in improved deployment efficiency and reduced downtime.\n\nIn contrast, Jane Doe (Resume 1) also implemented automated testing tools like Jest and Cypress, but there is no mention of her working with CI/CD pipelines specifically.\n\nTherefore, I would conclude that Alex Williams from Resume 4 has the most experience with CI-CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6400161708,
+                "load_duration": 15019250,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47083000,
+                "eval_count": 147,
+                "eval_duration": 6337006000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nAs mentioned in his resume:\n\n* In his current role as Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, which also involves setting up CI/CD pipelines.\n\nThis indicates that Alex has hands-on experience with setting up and managing CI/CD pipelines, making him a strong candidate for this specific skill.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:15.280327Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nAs mentioned in his resume:\n\n* In his current role as Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n* He managed cloud infrastructure on AWS, including EC2, S3, and Lambda, which also involves setting up CI/CD pipelines.\n\nThis indicates that Alex has hands-on experience with setting up and managing CI/CD pipelines, making him a strong candidate for this specific skill."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5251577958,
+                "load_duration": 14371875,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46935000,
+                "eval_count": 119,
+                "eval_duration": 5188673000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nAccording to his resume:\n\n* He managed cloud infrastructure on AWS and implemented CI/CD pipelines using Jenkins and Docker.\n* This resulted in a deployment efficiency improvement and reduced downtime.\n\nThe other candidates do not have similar experience or mention CI/CD pipelines in their resumes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:18.664364Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nAccording to his resume:\n\n* He managed cloud infrastructure on AWS and implemented CI/CD pipelines using Jenkins and Docker.\n* This resulted in a deployment efficiency improvement and reduced downtime.\n\nThe other candidates do not have similar experience or mention CI/CD pipelines in their resumes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3379730417,
+                "load_duration": 15100958,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46269000,
+                "eval_count": 77,
+                "eval_duration": 3317202000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes:\n\n* Resume 4 (Alex Williams) mentions implementing CI/CD pipelines using Jenkins and Docker.\n* Resume 1 (Jane Doe) does not mention any specific experience with CI/CD pipelines.\n* Resume 2 (John Smith), Resume 3 (Sarah Johnson), Resume 5 (Emily Brown) do not mention any specific experience with CI-CD pipelines.\n\nSo, Alex Williams from Resume 4 has the most experience with CI-CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:22.970811Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes:\n\n* Resume 4 (Alex Williams) mentions implementing CI/CD pipelines using Jenkins and Docker.\n* Resume 1 (Jane Doe) does not mention any specific experience with CI/CD pipelines.\n* Resume 2 (John Smith), Resume 3 (Sarah Johnson), Resume 5 (Emily Brown) do not mention any specific experience with CI-CD pipelines.\n\nSo, Alex Williams from Resume 4 has the most experience with CI-CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4302879875,
+                "load_duration": 14252625,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46782000,
+                "eval_count": 98,
+                "eval_duration": 4240157000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) mention implementing CI/CD pipelines using Jenkins and Docker, but Alex Williams provides more specific details about his experience:\n\n* Managed cloud infrastructure on AWS, including EC2, S3, and Lambda.\n* Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nResume 4 has the most experience with CI-CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:27.021014Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) mention implementing CI/CD pipelines using Jenkins and Docker, but Alex Williams provides more specific details about his experience:\n\n* Managed cloud infrastructure on AWS, including EC2, S3, and Lambda.\n* Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nResume 4 has the most experience with CI-CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4046613833,
+                "load_duration": 14294333,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46267000,
+                "eval_count": 92,
+                "eval_duration": 3984916000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 5 (Emily Brown) have mentioned implementing CI/CD pipelines in their experiences.\n\nHowever, if I had to choose one candidate who has the most experience with CI/CD pipelines, it would be Alex Williams from Resume 4. In his experience as a Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nWhile Emily Brown also mentioned implementing CI/CD pipelines in her resume, her focus was more on the project management side of it, whereas Alex Williams' experience is more technical.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:32.732086Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 5 (Emily Brown) have mentioned implementing CI/CD pipelines in their experiences.\n\nHowever, if I had to choose one candidate who has the most experience with CI/CD pipelines, it would be Alex Williams from Resume 4. In his experience as a Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nWhile Emily Brown also mentioned implementing CI/CD pipelines in her resume, her focus was more on the project management side of it, whereas Alex Williams' experience is more technical."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5707995250,
+                "load_duration": 15300750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 48059000,
+                "eval_count": 130,
+                "eval_duration": 5643596000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI-CD pipelines.\n\nAccording to his resume, Alex implemented CI/CD pipelines using Jenkins and Docker as a Full-Stack Developer at Innovatech, resulting in improved deployment efficiency and reduced downtime. This experience is listed under his \"Experience\" section for that company.\n\nTherefore, if you're looking for the candidate with the most experience with CI-CD pipelines, Resume 4: Alex Williams would be your best choice.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:37.265034Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI-CD pipelines.\n\nAccording to his resume, Alex implemented CI/CD pipelines using Jenkins and Docker as a Full-Stack Developer at Innovatech, resulting in improved deployment efficiency and reduced downtime. This experience is listed under his \"Experience\" section for that company.\n\nTherefore, if you're looking for the candidate with the most experience with CI-CD pipelines, Resume 4: Alex Williams would be your best choice."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4528666417,
+                "load_duration": 14651209,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46911000,
+                "eval_count": 103,
+                "eval_duration": 4465392000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams appears to have the most experience with CI/CD pipelines.\n\nAccording to his resume, as a Full-Stack Developer at Innovatech, he:\n\n* Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nThis suggests that he has hands-on experience in setting up and managing CI/CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:40.736023Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams appears to have the most experience with CI/CD pipelines.\n\nAccording to his resume, as a Full-Stack Developer at Innovatech, he:\n\n* Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nThis suggests that he has hands-on experience in setting up and managing CI/CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3467268125,
+                "load_duration": 14657625,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47394000,
+                "eval_count": 79,
+                "eval_duration": 3403982000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI-CD pipelines.\n\nAccording to his resume:\n\n* In his current role as Full-Stack Developer at Innovatech (2020-Present), he implemented CI/CD pipelines using Jenkins and Docker.\n* In a previous role as Software Engineer at Tech Innovations (2018-2020), there is no mention of him working with CI-CD pipelines.\n\nTherefore, Alex Williams has experience working with CI-CD pipelines in both his current and previous roles.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:45.612516Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI-CD pipelines.\n\nAccording to his resume:\n\n* In his current role as Full-Stack Developer at Innovatech (2020-Present), he implemented CI/CD pipelines using Jenkins and Docker.\n* In a previous role as Software Engineer at Tech Innovations (2018-2020), there is no mention of him working with CI-CD pipelines.\n\nTherefore, Alex Williams has experience working with CI-CD pipelines in both his current and previous roles."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4872592958,
+                "load_duration": 13811000,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46900000,
+                "eval_count": 111,
+                "eval_duration": 4810535000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nAccording to his resume, as a Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. This experience is mentioned in both his summary and experience sections.\n\nWhile other candidates may have some experience with CI/CD pipelines, Alex Williams' specific mention of implementing them using Jenkins and Docker suggests that he has the most relevant experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:50.312722Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nAccording to his resume, as a Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. This experience is mentioned in both his summary and experience sections.\n\nWhile other candidates may have some experience with CI/CD pipelines, Alex Williams' specific mention of implementing them using Jenkins and Docker suggests that he has the most relevant experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4695866250,
+                "load_duration": 14448208,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47273000,
+                "eval_count": 107,
+                "eval_duration": 4633145000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 4: Alex Williams** appears to have the most experience with CI/CD pipelines. \n\nAs a Full-Stack Developer at Innovatech (from June 2020 - Present), he implemented CI/CD pipelines using Jenkins and Docker, which improved deployment efficiency and reduced downtime.\n\nAdditionally, in his previous role as Software Engineer at Tech Innovations (July 2018 - May 2020), he likely gained further experience with CI/CD practices, although this is not explicitly mentioned in the resume.\n\nWhile other candidates may have some exposure to CI/CD pipelines or related tools, Alex Williams' specific experience and achievements make him stand out as having the most relevant background in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:38:56.833309Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 4: Alex Williams** appears to have the most experience with CI/CD pipelines. \n\nAs a Full-Stack Developer at Innovatech (from June 2020 - Present), he implemented CI/CD pipelines using Jenkins and Docker, which improved deployment efficiency and reduced downtime.\n\nAdditionally, in his previous role as Software Engineer at Tech Innovations (July 2018 - May 2020), he likely gained further experience with CI/CD practices, although this is not explicitly mentioned in the resume.\n\nWhile other candidates may have some exposure to CI/CD pipelines or related tools, Alex Williams' specific experience and achievements make him stand out as having the most relevant background in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6516715625,
+                "load_duration": 15105625,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46080000,
+                "eval_count": 148,
+                "eval_duration": 6454450000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 4: Alex Williams** has the most experience with CI/CD pipelines.\n\nAccording to his resume, as a Full-Stack Developer at Innovatech (June 2020 \u2013 Present), he:\n\n* Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nThis is a significant mention of experience with CI/CD pipelines, whereas the other resumes do not have a similar level of detail about this specific skill.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:01.145611Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 4: Alex Williams** has the most experience with CI/CD pipelines.\n\nAccording to his resume, as a Full-Stack Developer at Innovatech (June 2020 \u2013 Present), he:\n\n* Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\n\nThis is a significant mention of experience with CI/CD pipelines, whereas the other resumes do not have a similar level of detail about this specific skill."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4307785791,
+                "load_duration": 14784458,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47070000,
+                "eval_count": 98,
+                "eval_duration": 4244178000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nIn his current role as a Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. This indicates that he has hands-on experience with setting up and managing CI/CD pipelines in an enterprise environment.\n\nWhile John Smith (Resume 2) mentions working with Jenkins and Docker, it's not clear if he has extensive experience with implementing and managing CI/CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:06.080915Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nIn his current role as a Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. This indicates that he has hands-on experience with setting up and managing CI/CD pipelines in an enterprise environment.\n\nWhile John Smith (Resume 2) mentions working with Jenkins and Docker, it's not clear if he has extensive experience with implementing and managing CI/CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4930599375,
+                "load_duration": 14822208,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46176000,
+                "eval_count": 112,
+                "eval_duration": 4868461000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I can see that:\n\n* Alex Williams (Resume 4) has experience with implementing CI/CD pipelines using Jenkins and Docker.\n* Emily Brown (Resume 5) does not have any explicit experience with CI/CD pipelines.\n* Jane Doe (Resume 1) does not mention CI/CD pipelines.\n* John Smith (Resume 2) mentions using Jenkins, but it's not related to CI/CD pipelines.\n* Sarah Johnson (Resume 3) and Resume 6 (not provided) do not have any experience with CI-CD pipelines.\n\nTherefore, Alex Williams (Resume 4) has the most experience with CI-CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:12.162944Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I can see that:\n\n* Alex Williams (Resume 4) has experience with implementing CI/CD pipelines using Jenkins and Docker.\n* Emily Brown (Resume 5) does not have any explicit experience with CI/CD pipelines.\n* Jane Doe (Resume 1) does not mention CI/CD pipelines.\n* John Smith (Resume 2) mentions using Jenkins, but it's not related to CI/CD pipelines.\n* Sarah Johnson (Resume 3) and Resume 6 (not provided) do not have any experience with CI-CD pipelines.\n\nTherefore, Alex Williams (Resume 4) has the most experience with CI-CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6079391958,
+                "load_duration": 14285750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47147000,
+                "eval_count": 138,
+                "eval_duration": 6016456000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 4: Alex Williams and Resume 5: Emily Brown both mention experience with CI/CD pipelines.\n\nResume 4 mentions:\n\"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nResume 5 mentions:\n\"[No specific experience mentioned, but has tools listed including Jira, Git, and Azure DevOps which could be related to CI/CD]\"\n\nHowever, Resume 4: Alex Williams is the most experienced with implementing CI/CD pipelines using Jenkins and Docker.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:17.014474Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 4: Alex Williams and Resume 5: Emily Brown both mention experience with CI/CD pipelines.\n\nResume 4 mentions:\n\"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nResume 5 mentions:\n\"[No specific experience mentioned, but has tools listed including Jira, Git, and Azure DevOps which could be related to CI/CD]\"\n\nHowever, Resume 4: Alex Williams is the most experienced with implementing CI/CD pipelines using Jenkins and Docker."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4848404958,
+                "load_duration": 14208208,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46819000,
+                "eval_count": 110,
+                "eval_duration": 4786352000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nAs mentioned in his Resume, as a Full-Stack Developer at Innovatech, he:\n\n* \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nThis suggests that he has hands-on experience with setting up and managing CI/CD pipelines using popular tools like Jenkins and Docker.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:20.847403Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most experience with CI/CD pipelines.\n\nAs mentioned in his Resume, as a Full-Stack Developer at Innovatech, he:\n\n* \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nThis suggests that he has hands-on experience with setting up and managing CI/CD pipelines using popular tools like Jenkins and Docker."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3829873542,
+                "load_duration": 15195250,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47324000,
+                "eval_count": 87,
+                "eval_duration": 3766282000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI/CD pipelines.\n\nAccording to his resume:\n\n* As a Full-Stack Developer at Innovatech (June 2020 \u2013 Present), he \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nThis is the only mention of CI/CD pipelines in any of the resumes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:24.457969Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams has the most experience with CI/CD pipelines.\n\nAccording to his resume:\n\n* As a Full-Stack Developer at Innovatech (June 2020 \u2013 Present), he \"Implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime.\"\n\nThis is the only mention of CI/CD pipelines in any of the resumes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3606032500,
+                "load_duration": 14164125,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46937000,
+                "eval_count": 82,
+                "eval_duration": 3543237000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4 (Alex Williams) has the most experience with CI/CD pipelines.\n\nAccording to his resume, Alex implemented CI/CD pipelines using Jenkins and Docker at Innovatech, resulting in improved deployment efficiency and reduced downtime. This suggests that he has hands-on experience with setting up and managing CI/CD pipelines, which is a valuable skill for a software developer or engineer.\n\nIn contrast, the other resumes do not mention specific experience with CI/CD pipelines.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:28.862863Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4 (Alex Williams) has the most experience with CI/CD pipelines.\n\nAccording to his resume, Alex implemented CI/CD pipelines using Jenkins and Docker at Innovatech, resulting in improved deployment efficiency and reduced downtime. This suggests that he has hands-on experience with setting up and managing CI/CD pipelines, which is a valuable skill for a software developer or engineer.\n\nIn contrast, the other resumes do not mention specific experience with CI/CD pipelines."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4400308333,
+                "load_duration": 14255333,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46668000,
+                "eval_count": 100,
+                "eval_duration": 4338161000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 4 (Alex Williams) appears to have the most experience with CI/CD pipelines. According to his resume:\n\n* In his current role as a Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, resulting in improved deployment efficiency and reduced downtime.\n\nAdditionally, this experience is also mentioned under his previous role as Software Engineer at Tech Innovations.\n\nThis suggests that Alex has hands-on experience with implementing CI/CD pipelines using different tools like Jenkins and Docker.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:33.618718Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 4 (Alex Williams) appears to have the most experience with CI/CD pipelines. According to his resume:\n\n* In his current role as a Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, resulting in improved deployment efficiency and reduced downtime.\n\nAdditionally, this experience is also mentioned under his previous role as Software Engineer at Tech Innovations.\n\nThis suggests that Alex has hands-on experience with implementing CI/CD pipelines using different tools like Jenkins and Docker."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4752714333,
+                "load_duration": 14237750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46271000,
+                "eval_count": 108,
+                "eval_duration": 4690529000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4 (Alex Williams) has the most experience with CI-CD pipelines.\n\nIn his role as Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. This indicates a strong understanding of CI-CD concepts and practices.\n\nWhile other candidates may have some experience with CI-CD or related tools, Alex Williams has the most direct and extensive experience in implementing CI-CD pipelines in his role at Innovatech.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:38.291665Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4 (Alex Williams) has the most experience with CI-CD pipelines.\n\nIn his role as Full-Stack Developer at Innovatech, he implemented CI/CD pipelines using Jenkins and Docker, improving deployment efficiency and reducing downtime. This indicates a strong understanding of CI-CD concepts and practices.\n\nWhile other candidates may have some experience with CI-CD or related tools, Alex Williams has the most direct and extensive experience in implementing CI-CD pipelines in his role at Innovatech."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4669748917,
+                "load_duration": 14754708,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47283000,
+                "eval_count": 106,
+                "eval_duration": 4606611000
+            }
+        }
+    ]
+}

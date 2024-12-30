@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the provided resumes, Resume 4: Alex Williams has the most full-stack experience.\n\nAlex has worked as a Full-Stack Developer at Innovatech for the past 3 years, where he developed full-stack web applications using React, Node.js, and Express. He also managed cloud infrastructure on AWS, implemented CI/CD pipelines using Jenkins and Docker, and collaborated with product managers and designers to define project requirements.\n\nAdditionally, Alex previously worked as a Software Engineer at Tech Innovations for 2 years, where he built and maintained APIs and microservices in Node.js and Express, developed dynamic, responsive front-end components using React and Redux, and worked closely with QA teams to ensure the robustness and reliability of web applications.\n\nThis suggests that Alex has a strong background in both front-end and back-end development, making him a full-stack developer.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:44:18.108191Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 4: Alex Williams has the most full-stack experience.\n\nAlex has worked as a Full-Stack Developer at Innovatech for the past 3 years, where he developed full-stack web applications using React, Node.js, and Express. He also managed cloud infrastructure on AWS, implemented CI/CD pipelines using Jenkins and Docker, and collaborated with product managers and designers to define project requirements.\n\nAdditionally, Alex previously worked as a Software Engineer at Tech Innovations for 2 years, where he built and maintained APIs and microservices in Node.js and Express, developed dynamic, responsive front-end components using React and Redux, and worked closely with QA teams to ensure the robustness and reliability of web applications.\n\nThis suggests that Alex has a strong background in both front-end and back-end development, making him a full-stack developer."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 15641439041,
+                "load_duration": 1873797458,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 6162082000,
+                "eval_count": 172,
+                "eval_duration": 7602459000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Alex Williams (Resume 4) appears to have the most full-stack experience.\n\nHere's a breakdown of his experience:\n\n* Full-Stack Developer at Innovatech: Developed full-stack web applications using React, Node.js, and Express.\n* Managed cloud infrastructure on AWS, including EC2, S3, and Lambda.\n* Implemented CI/CD pipelines using Jenkins and Docker.\n\nAs a full-stack developer, Alex has experience in both front-end (React) and back-end development (Node.js, Express), as well as DevOps skills. His role at Innovatech involved managing cloud infrastructure on AWS, which further expands his full-stack capabilities.\n\nWhile other candidates have full-stack experience as well, Alex's resume highlights a more comprehensive range of full-stack skills and experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:44:25.351123Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Alex Williams (Resume 4) appears to have the most full-stack experience.\n\nHere's a breakdown of his experience:\n\n* Full-Stack Developer at Innovatech: Developed full-stack web applications using React, Node.js, and Express.\n* Managed cloud infrastructure on AWS, including EC2, S3, and Lambda.\n* Implemented CI/CD pipelines using Jenkins and Docker.\n\nAs a full-stack developer, Alex has experience in both front-end (React) and back-end development (Node.js, Express), as well as DevOps skills. His role at Innovatech involved managing cloud infrastructure on AWS, which further expands his full-stack capabilities.\n\nWhile other candidates have full-stack experience as well, Alex's resume highlights a more comprehensive range of full-stack skills and experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7239953209,
+                "load_duration": 16140084,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47716000,
+                "eval_count": 162,
+                "eval_duration": 7174326000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nHe lists himself as a \"Versatile Full-Stack Developer\" and has experience with both front-end (React, Node.js, Express) and back-end (Node.js, AWS) development. He also mentions managing cloud infrastructure on AWS, implementing CI/CD pipelines using Jenkins and Docker, and collaborating with product managers and designers.\n\nIn contrast, while other candidates may have some full-stack experience, Alex Williams' resume suggests that he has the most comprehensive and extensive experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:44:30.547516Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nHe lists himself as a \"Versatile Full-Stack Developer\" and has experience with both front-end (React, Node.js, Express) and back-end (Node.js, AWS) development. He also mentions managing cloud infrastructure on AWS, implementing CI/CD pipelines using Jenkins and Docker, and collaborating with product managers and designers.\n\nIn contrast, while other candidates may have some full-stack experience, Alex Williams' resume suggests that he has the most comprehensive and extensive experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5193514125,
+                "load_duration": 15397333,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48015000,
+                "eval_count": 118,
+                "eval_duration": 5128928000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer for Innovatech and developed full-stack web applications using React, Node.js, and Express.\n* As a Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express, indicating his proficiency in both front-end and back-end development.\n* He has also managed cloud infrastructure on AWS and implemented CI/CD pipelines using Jenkins and Docker.\n\nWhile other candidates may have experience with multiple technologies, Alex Williams' resume indicates a strong background in full-stack development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:44:36.445006Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer for Innovatech and developed full-stack web applications using React, Node.js, and Express.\n* As a Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express, indicating his proficiency in both front-end and back-end development.\n* He has also managed cloud infrastructure on AWS and implemented CI/CD pipelines using Jenkins and Docker.\n\nWhile other candidates may have experience with multiple technologies, Alex Williams' resume indicates a strong background in full-stack development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5894200083,
+                "load_duration": 15371666,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47344000,
+                "eval_count": 133,
+                "eval_duration": 5830304000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 4: Alex Williams** appears to have the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech (June 2020 \u2013 Present) and has experience in both front-end and back-end development.\n* His skills include languages like JavaScript, TypeScript, HTML, and CSS, frameworks/libraries like React, Node.js, Express, Redux, databases like MySQL and MongoDB, and tools like AWS, Docker, Jenkins, and Git.\n* He also has experience with DevOps, including CI/CD pipelines using Jenkins and Docker.\n\nWhile other candidates have full-stack experience as well (e.g., Emily Brown in Resume 5), Alex Williams' resume highlights his extensive experience and skills in both front-end and back-end development, making him the strongest candidate for a full-stack position.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:44:44.37849Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 4: Alex Williams** appears to have the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech (June 2020 \u2013 Present) and has experience in both front-end and back-end development.\n* His skills include languages like JavaScript, TypeScript, HTML, and CSS, frameworks/libraries like React, Node.js, Express, Redux, databases like MySQL and MongoDB, and tools like AWS, Docker, Jenkins, and Git.\n* He also has experience with DevOps, including CI/CD pipelines using Jenkins and Docker.\n\nWhile other candidates have full-stack experience as well (e.g., Emily Brown in Resume 5), Alex Williams' resume highlights his extensive experience and skills in both front-end and back-end development, making him the strongest candidate for a full-stack position."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7931833209,
+                "load_duration": 14785417,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 49032000,
+                "eval_count": 177,
+                "eval_duration": 7866630000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* Alex has worked as a Full-Stack Developer at Innovatech for the past 2 years (June 2020 \u2013 Present), which suggests he has hands-on experience with both front-end and back-end development.\n* His experience includes developing full-stack web applications using React, Node.js, and Express, managing cloud infrastructure on AWS, and implementing CI/CD pipelines using Jenkins and Docker.\n* He also worked as a Software Engineer at Tech Innovations for 2 years (July 2018 \u2013 May 2020), where he built and maintained APIs and microservices in Node.js and Express, developed dynamic front-end components using React and Redux, and ensured the robustness and reliability of web applications.\n\nWhile other candidates have experience with full-stack development as well, Alex's current role at Innovatech seems to be a more senior position, and his resume highlights a broader range of full-stack experiences.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:44:53.829664Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* Alex has worked as a Full-Stack Developer at Innovatech for the past 2 years (June 2020 \u2013 Present), which suggests he has hands-on experience with both front-end and back-end development.\n* His experience includes developing full-stack web applications using React, Node.js, and Express, managing cloud infrastructure on AWS, and implementing CI/CD pipelines using Jenkins and Docker.\n* He also worked as a Software Engineer at Tech Innovations for 2 years (July 2018 \u2013 May 2020), where he built and maintained APIs and microservices in Node.js and Express, developed dynamic front-end components using React and Redux, and ensured the robustness and reliability of web applications.\n\nWhile other candidates have experience with full-stack development as well, Alex's current role at Innovatech seems to be a more senior position, and his resume highlights a broader range of full-stack experiences."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9449721375,
+                "load_duration": 14622417,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47342000,
+                "eval_count": 212,
+                "eval_duration": 9386623000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both have significant full-stack experience. However, if we had to choose one candidate with the most full-stack experience, it would be Alex Williams.\n\nHere's why:\n\n* Alex has worked as a Full-Stack Developer for Innovatech since June 2020, which means he has been working on both front-end and back-end development for at least 2 years.\n* Before that, he was a Software Engineer at Tech Innovations from July 2018 to May 2020, where he also worked on full-stack development tasks.\n* In his previous role as Full-Stack Developer, Alex developed full-stack web applications using React, Node.js, and Express, managed cloud infrastructure on AWS, and implemented CI/CD pipelines using Jenkins and Docker.\n\nWhile Jane Doe (Resume 1) has experience in front-end development with React, her resume doesn't indicate the same level of depth in back-end development as Alex's does.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:45:03.146548Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both have significant full-stack experience. However, if we had to choose one candidate with the most full-stack experience, it would be Alex Williams.\n\nHere's why:\n\n* Alex has worked as a Full-Stack Developer for Innovatech since June 2020, which means he has been working on both front-end and back-end development for at least 2 years.\n* Before that, he was a Software Engineer at Tech Innovations from July 2018 to May 2020, where he also worked on full-stack development tasks.\n* In his previous role as Full-Stack Developer, Alex developed full-stack web applications using React, Node.js, and Express, managed cloud infrastructure on AWS, and implemented CI/CD pipelines using Jenkins and Docker.\n\nWhile Jane Doe (Resume 1) has experience in front-end development with React, her resume doesn't indicate the same level of depth in back-end development as Alex's does."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9314647083,
+                "load_duration": 14758458,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 50169000,
+                "eval_count": 209,
+                "eval_duration": 9248581000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nAlex's resume shows that he has experience with both front-end and back-end development:\n\n* As a Full-Stack Developer at Innovatech, he developed full-stack web applications using React, Node.js, and Express.\n* In his previous role as Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express.\n\nAlex's skills also reflect this full-stack experience, with proficiency in both front-end (JavaScript, HTML, CSS) and back-end (Node.js, Express, AWS) technologies.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:45:08.994128Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nAlex's resume shows that he has experience with both front-end and back-end development:\n\n* As a Full-Stack Developer at Innovatech, he developed full-stack web applications using React, Node.js, and Express.\n* In his previous role as Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express.\n\nAlex's skills also reflect this full-stack experience, with proficiency in both front-end (JavaScript, HTML, CSS) and back-end (Node.js, Express, AWS) technologies."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5845134500,
+                "load_duration": 14852667,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47197000,
+                "eval_count": 132,
+                "eval_duration": 5781941000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has listed \"Full-Stack Developer\" as his current job title.\n* His experience section shows a mix of front-end and back-end development skills, with projects involving React, Node.js, Express, AWS, CI/CD pipelines, and more.\n* Under the \"Skills\" section, he lists languages, frameworks/libraries, databases, tools, and DevOps skills that are all relevant to full-stack development.\n\nIn comparison, while other candidates have experience in multiple areas, they tend to specialize in either front-end (Jane Doe, Resume 1) or back-end (John Smith, Resume 2), with less overlap between the two. Emily Brown (Resume 5) has some full-stack experience as a Software Engineer, but her skills and experience are more focused on enterprise-level applications rather than web development specifically.\n\nTherefore, based on the information provided, Alex Williams appears to have the most comprehensive full-stack experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:45:18.456934Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has listed \"Full-Stack Developer\" as his current job title.\n* His experience section shows a mix of front-end and back-end development skills, with projects involving React, Node.js, Express, AWS, CI/CD pipelines, and more.\n* Under the \"Skills\" section, he lists languages, frameworks/libraries, databases, tools, and DevOps skills that are all relevant to full-stack development.\n\nIn comparison, while other candidates have experience in multiple areas, they tend to specialize in either front-end (Jane Doe, Resume 1) or back-end (John Smith, Resume 2), with less overlap between the two. Emily Brown (Resume 5) has some full-stack experience as a Software Engineer, but her skills and experience are more focused on enterprise-level applications rather than web development specifically.\n\nTherefore, based on the information provided, Alex Williams appears to have the most comprehensive full-stack experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9461341458,
+                "load_duration": 15138500,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47194000,
+                "eval_count": 215,
+                "eval_duration": 9397973000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for 3 years, where he developed full-stack web applications using React, Node.js, and Express.\n* In this role, he also managed cloud infrastructure on AWS, implemented CI/CD pipelines using Jenkins and Docker, and collaborated with product managers and designers to define project requirements.\n* Prior to that, he worked as a Software Engineer at Tech Innovations for 2 years, where he built and maintained APIs and microservices in Node.js and Express.\n\nOverall, Alex Williams has demonstrated a strong ability to work on both front-end and back-end development, making him the candidate with the most full-stack experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:45:25.737692Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for 3 years, where he developed full-stack web applications using React, Node.js, and Express.\n* In this role, he also managed cloud infrastructure on AWS, implemented CI/CD pipelines using Jenkins and Docker, and collaborated with product managers and designers to define project requirements.\n* Prior to that, he worked as a Software Engineer at Tech Innovations for 2 years, where he built and maintained APIs and microservices in Node.js and Express.\n\nOverall, Alex Williams has demonstrated a strong ability to work on both front-end and back-end development, making him the candidate with the most full-stack experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7276789500,
+                "load_duration": 15324167,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47514000,
+                "eval_count": 165,
+                "eval_duration": 7212378000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams appears to have the most full-stack experience.\n\nHere's why:\n\n* He has 5 years of experience in both front-end and back-end development.\n* His current role as a Full-Stack Developer at Innovatech involves developing full-stack web applications using React, Node.js, and Express.\n* In his previous role as Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express, developed dynamic front-end components using React and Redux, and worked closely with QA teams to ensure the robustness and reliability of web applications.\n\nIn contrast, while the other candidates have experience in specific areas (e.g., Emily Brown has experience in software development and project management, Jane Doe has experience in front-end development, etc.), Alex Williams' resume shows a broader range of full-stack experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:45:33.550933Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams appears to have the most full-stack experience.\n\nHere's why:\n\n* He has 5 years of experience in both front-end and back-end development.\n* His current role as a Full-Stack Developer at Innovatech involves developing full-stack web applications using React, Node.js, and Express.\n* In his previous role as Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express, developed dynamic front-end components using React and Redux, and worked closely with QA teams to ensure the robustness and reliability of web applications.\n\nIn contrast, while the other candidates have experience in specific areas (e.g., Emily Brown has experience in software development and project management, Jane Doe has experience in front-end development, etc.), Alex Williams' resume shows a broader range of full-stack experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7810166958,
+                "load_duration": 14959792,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 46551000,
+                "eval_count": 177,
+                "eval_duration": 7747532000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, **Resume 4: Alex Williams** appears to have the most full-stack experience.\n\nHere's why:\n\n* Resume 4 lists \"Full-Stack Developer\" as their current job title and experience.\n* They mention proficiency in both front-end (JavaScript, HTML, CSS) and back-end (Node.js, Express, AWS) technologies.\n* Their work experience at Innovatech includes developing full-stack web applications using React, Node.js, and Express, managing cloud infrastructure on AWS, and implementing CI/CD pipelines.\n\nWhile other candidates have some full-stack experience, Alex Williams' resume indicates a broader range of full-stack skills and experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:45:39.638263Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, **Resume 4: Alex Williams** appears to have the most full-stack experience.\n\nHere's why:\n\n* Resume 4 lists \"Full-Stack Developer\" as their current job title and experience.\n* They mention proficiency in both front-end (JavaScript, HTML, CSS) and back-end (Node.js, Express, AWS) technologies.\n* Their work experience at Innovatech includes developing full-stack web applications using React, Node.js, and Express, managing cloud infrastructure on AWS, and implementing CI/CD pipelines.\n\nWhile other candidates have some full-stack experience, Alex Williams' resume indicates a broader range of full-stack skills and experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6085896208,
+                "load_duration": 14634458,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47313000,
+                "eval_count": 135,
+                "eval_duration": 6022514000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams appears to have the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for the past 3 years, where he developed full-stack web applications using React, Node.js, and Express.\n* He also previously worked as a Software Engineer at Tech Innovations, where he built and maintained APIs and microservices in Node.js and Express, and developed dynamic front-end components using React and Redux.\n\nIn contrast, while other candidates may have experience with both front-end and back-end development, Alex's resume specifically highlights his full-stack experience and skills across multiple programming languages, frameworks, and tools.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:45:45.965799Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams appears to have the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for the past 3 years, where he developed full-stack web applications using React, Node.js, and Express.\n* He also previously worked as a Software Engineer at Tech Innovations, where he built and maintained APIs and microservices in Node.js and Express, and developed dynamic front-end components using React and Redux.\n\nIn contrast, while other candidates may have experience with both front-end and back-end development, Alex's resume specifically highlights his full-stack experience and skills across multiple programming languages, frameworks, and tools."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6324537208,
+                "load_duration": 14767083,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48223000,
+                "eval_count": 142,
+                "eval_duration": 6260461000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nAlex's resume shows that he has:\n\n* Experience as a Full-Stack Developer at Innovatech, where he developed full-stack web applications using React, Node.js, and Express.\n* A background in both front-end and back-end development, with skills in JavaScript, Node.js, React, and AWS.\n* Experience with both client-side (front-end) and server-side (back-end) technologies.\n\nWhile other candidates may have experience with some full-stack aspects, Alex's resume demonstrates a more comprehensive full-stack skillset.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:45:51.721166Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nAlex's resume shows that he has:\n\n* Experience as a Full-Stack Developer at Innovatech, where he developed full-stack web applications using React, Node.js, and Express.\n* A background in both front-end and back-end development, with skills in JavaScript, Node.js, React, and AWS.\n* Experience with both client-side (front-end) and server-side (back-end) technologies.\n\nWhile other candidates may have experience with some full-stack aspects, Alex's resume demonstrates a more comprehensive full-stack skillset."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5750973334,
+                "load_duration": 14794000,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48193000,
+                "eval_count": 126,
+                "eval_duration": 5686668000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams appears to have the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech (June 2020 \u2013 Present), which implies that he is responsible for both front-end and back-end development.\n* His experience includes developing full-stack web applications using React, Node.js, and Express (Resume 4: Alex Williams).\n* He also has experience with cloud infrastructure on AWS, including EC2, S3, and Lambda, as well as CI/CD pipelines using Jenkins and Docker.\n\nWhile the other candidates have some full-stack experience, they do not appear to have as comprehensive of a background in full-stack development as Alex Williams.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:45:58.350582Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams appears to have the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech (June 2020 \u2013 Present), which implies that he is responsible for both front-end and back-end development.\n* His experience includes developing full-stack web applications using React, Node.js, and Express (Resume 4: Alex Williams).\n* He also has experience with cloud infrastructure on AWS, including EC2, S3, and Lambda, as well as CI/CD pipelines using Jenkins and Docker.\n\nWhile the other candidates have some full-stack experience, they do not appear to have as comprehensive of a background in full-stack development as Alex Williams."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6626151625,
+                "load_duration": 14716083,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47709000,
+                "eval_count": 150,
+                "eval_duration": 6561942000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, I would say that Resume 4: Alex Williams has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for the past 2 years, where he developed full-stack web applications using React, Node.js, and Express.\n* Before that, he was a Software Engineer at Tech Innovations for 2 years, where he built and maintained APIs and microservices in Node.js and Express, and also developed dynamic front-end components using React and Redux.\n\nAlex has experience with both front-end (React) and back-end (Node.js, Express) technologies, as well as cloud infrastructure management on AWS. His resume shows a clear emphasis on full-stack development, making him the strongest candidate for this category.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with .NET and SQL), none of them have as comprehensive a background in full-stack development as Alex Williams.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:46:07.00984Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, I would say that Resume 4: Alex Williams has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for the past 2 years, where he developed full-stack web applications using React, Node.js, and Express.\n* Before that, he was a Software Engineer at Tech Innovations for 2 years, where he built and maintained APIs and microservices in Node.js and Express, and also developed dynamic front-end components using React and Redux.\n\nAlex has experience with both front-end (React) and back-end (Node.js, Express) technologies, as well as cloud infrastructure management on AWS. His resume shows a clear emphasis on full-stack development, making him the strongest candidate for this category.\n\nWhile other candidates have experience in specific areas (e.g., Emily Brown has experience with .NET and SQL), none of them have as comprehensive a background in full-stack development as Alex Williams."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8655785083,
+                "load_duration": 14661333,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47409000,
+                "eval_count": 198,
+                "eval_duration": 8592634000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has experience in both front-end and back-end development, as evident from his work at Innovatech where he developed full-stack web applications using React, Node.js, and Express.\n* His skills list includes proficiency in JavaScript, Node.js, React, and AWS, which indicates a strong background in full-stack development.\n* He has worked on CI/CD pipelines using Jenkins and Docker, which demonstrates his expertise in DevOps, another key aspect of full-stack development.\n\nWhile the other candidates have experience in specific areas like front-end or back-end development, Alex Williams' breadth of experience across both domains makes him a strong candidate for having the most full-stack experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:46:14.247566Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has experience in both front-end and back-end development, as evident from his work at Innovatech where he developed full-stack web applications using React, Node.js, and Express.\n* His skills list includes proficiency in JavaScript, Node.js, React, and AWS, which indicates a strong background in full-stack development.\n* He has worked on CI/CD pipelines using Jenkins and Docker, which demonstrates his expertise in DevOps, another key aspect of full-stack development.\n\nWhile the other candidates have experience in specific areas like front-end or back-end development, Alex Williams' breadth of experience across both domains makes him a strong candidate for having the most full-stack experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7233232375,
+                "load_duration": 14320875,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47388000,
+                "eval_count": 163,
+                "eval_duration": 7169700000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 4: Alex Williams** and **Resume 1: Jane Doe** both have the most full-stack experience.\n\nHowever, if I had to choose one candidate with the most full-stack experience, it would be **Alex Williams (Resume 4)**. Here's why:\n\n* He has a clear distinction between front-end and back-end development in his summary.\n* His experience as a Full-Stack Developer at Innovatech lists responsibilities that involve both front-end and back-end development.\n* His skills section shows proficiency in a wide range of technologies, including React, Node.js, Express, AWS, JavaScript, TypeScript, HTML, CSS, MySQL, MongoDB, and Docker.\n\nWhile Jane Doe (Resume 1) also has full-stack experience, her role is more focused on front-end development as a Front-End Developer.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:46:22.06032Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 4: Alex Williams** and **Resume 1: Jane Doe** both have the most full-stack experience.\n\nHowever, if I had to choose one candidate with the most full-stack experience, it would be **Alex Williams (Resume 4)**. Here's why:\n\n* He has a clear distinction between front-end and back-end development in his summary.\n* His experience as a Full-Stack Developer at Innovatech lists responsibilities that involve both front-end and back-end development.\n* His skills section shows proficiency in a wide range of technologies, including React, Node.js, Express, AWS, JavaScript, TypeScript, HTML, CSS, MySQL, MongoDB, and Docker.\n\nWhile Jane Doe (Resume 1) also has full-stack experience, her role is more focused on front-end development as a Front-End Developer."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7810580416,
+                "load_duration": 14608041,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47819000,
+                "eval_count": 174,
+                "eval_duration": 7747178000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* His work experience includes Full-Stack Developer at Innovatech and Software Engineer at Tech Innovations, both of which involved working on both front-end and back-end development.\n* His skills include proficiency in JavaScript, Node.js, React, and AWS, as well as languages like TypeScript, HTML, and CSS.\n* He has experience with full-stack frameworks like Express and has worked with databases like MySQL and MongoDB.\n\nWhile the other candidates have some level of expertise in multiple areas, Alex's resume shows a consistent focus on full-stack development over his 5-year career.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:46:28.382132Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* His work experience includes Full-Stack Developer at Innovatech and Software Engineer at Tech Innovations, both of which involved working on both front-end and back-end development.\n* His skills include proficiency in JavaScript, Node.js, React, and AWS, as well as languages like TypeScript, HTML, and CSS.\n* He has experience with full-stack frameworks like Express and has worked with databases like MySQL and MongoDB.\n\nWhile the other candidates have some level of expertise in multiple areas, Alex's resume shows a consistent focus on full-stack development over his 5-year career."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6318663083,
+                "load_duration": 15833375,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 49972000,
+                "eval_count": 143,
+                "eval_duration": 6251606000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nAs a Full-Stack Developer at Innovatech, he has developed full-stack web applications using React, Node.js, and Express, managed cloud infrastructure on AWS, implemented CI/CD pipelines using Jenkins and Docker, and collaborated with product managers and designers to define project requirements.\n\nIn his previous role as Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express, developed dynamic, responsive front-end components using React and Redux, and worked closely with QA teams to ensure the robustness and reliability of web applications.\n\nThis suggests that Alex has a strong background in both front-end and back-end development, making him a full-stack developer.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:46:35.19103Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nAs a Full-Stack Developer at Innovatech, he has developed full-stack web applications using React, Node.js, and Express, managed cloud infrastructure on AWS, implemented CI/CD pipelines using Jenkins and Docker, and collaborated with product managers and designers to define project requirements.\n\nIn his previous role as Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express, developed dynamic, responsive front-end components using React and Redux, and worked closely with QA teams to ensure the robustness and reliability of web applications.\n\nThis suggests that Alex has a strong background in both front-end and back-end development, making him a full-stack developer."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6804447458,
+                "load_duration": 14744791,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47371000,
+                "eval_count": 155,
+                "eval_duration": 6740618000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both have front-end and back-end development experience. However, if we consider \"full-stack\" to mean experience in both front-end and back-end development, as well as proficiency in cloud infrastructure management and CI/CD pipelines, then Alex Williams from Resume 4 has the most full-stack experience.\n\nAlex's resume shows experience in:\n\n* Front-end development with React\n* Back-end development with Node.js, Express, and AWS\n* Cloud infrastructure management on AWS (EC2, S3, Lambda)\n* CI/CD pipelines using Jenkins and Docker\n\nIn contrast, while Jane Doe from Resume 1 has front-end and back-end experience, her resume does not mention cloud infrastructure management or CI/CD pipelines.\n\nTherefore, Alex Williams is the candidate with the most full-stack experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:46:43.156643Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both have front-end and back-end development experience. However, if we consider \"full-stack\" to mean experience in both front-end and back-end development, as well as proficiency in cloud infrastructure management and CI/CD pipelines, then Alex Williams from Resume 4 has the most full-stack experience.\n\nAlex's resume shows experience in:\n\n* Front-end development with React\n* Back-end development with Node.js, Express, and AWS\n* Cloud infrastructure management on AWS (EC2, S3, Lambda)\n* CI/CD pipelines using Jenkins and Docker\n\nIn contrast, while Jane Doe from Resume 1 has front-end and back-end experience, her resume does not mention cloud infrastructure management or CI/CD pipelines.\n\nTherefore, Alex Williams is the candidate with the most full-stack experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7961058291,
+                "load_duration": 14731958,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47591000,
+                "eval_count": 179,
+                "eval_duration": 7897642000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for the past 3 years (June 2020 \u2013 Present), which suggests that he has experience with both front-end and back-end development.\n* In his previous role at Tech Innovations, he also handled front-end and back-end tasks, building APIs and microservices in Node.js and Express, and developing dynamic front-end components using React and Redux.\n\nWhile other candidates (e.g., Resume 1: Jane Doe, Resume 2: John Smith) have experience with specific areas of full-stack development (front-end or back-end), Alex Williams' resume suggests that he has a broader range of full-stack experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:46:50.478318Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for the past 3 years (June 2020 \u2013 Present), which suggests that he has experience with both front-end and back-end development.\n* In his previous role at Tech Innovations, he also handled front-end and back-end tasks, building APIs and microservices in Node.js and Express, and developing dynamic front-end components using React and Redux.\n\nWhile other candidates (e.g., Resume 1: Jane Doe, Resume 2: John Smith) have experience with specific areas of full-stack development (front-end or back-end), Alex Williams' resume suggests that he has a broader range of full-stack experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7318486000,
+                "load_duration": 14413500,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 49279000,
+                "eval_count": 164,
+                "eval_duration": 7253336000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* He has experience in both front-end and back-end development, with proficiency in JavaScript, Node.js, React, and AWS.\n* His job titles are Full-Stack Developer at Innovatech and Software Engineer (which implies a broad range of skills) at Tech Innovations.\n* He has worked on full-stack projects, managing cloud infrastructure on AWS, implementing CI/CD pipelines using Jenkins and Docker, and collaborating with product managers and designers to define project requirements.\n* His skill set includes languages (JavaScript), frameworks/libraries (React, Node.js, Express), databases (MySQL, MongoDB), tools (AWS, Docker, Jenkins, Git), and DevOps skills (CI/CD, AWS, Docker).\n\nWhile other candidates have some full-stack experience or have worked on related aspects of development, Alex Williams' resume shows the most comprehensive and varied experience in both front-end and back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:46:59.733379Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* He has experience in both front-end and back-end development, with proficiency in JavaScript, Node.js, React, and AWS.\n* His job titles are Full-Stack Developer at Innovatech and Software Engineer (which implies a broad range of skills) at Tech Innovations.\n* He has worked on full-stack projects, managing cloud infrastructure on AWS, implementing CI/CD pipelines using Jenkins and Docker, and collaborating with product managers and designers to define project requirements.\n* His skill set includes languages (JavaScript), frameworks/libraries (React, Node.js, Express), databases (MySQL, MongoDB), tools (AWS, Docker, Jenkins, Git), and DevOps skills (CI/CD, AWS, Docker).\n\nWhile other candidates have some full-stack experience or have worked on related aspects of development, Alex Williams' resume shows the most comprehensive and varied experience in both front-end and back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9250716250,
+                "load_duration": 14500416,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47275000,
+                "eval_count": 209,
+                "eval_duration": 9187527000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* He has 5 years of experience in both front-end and back-end development.\n* His experience includes developing full-stack web applications using React, Node.js, and Express.\n* He has managed cloud infrastructure on AWS, which implies a strong understanding of server-side technology.\n* He has also implemented CI/CD pipelines using Jenkins and Docker, which shows his expertise in automating the deployment process.\n\nWhile other candidates may have some experience with full-stack development, Alex Williams' resume suggests that he has a broad range of skills and experience in both front-end and back-end technologies.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:47:06.092124Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* He has 5 years of experience in both front-end and back-end development.\n* His experience includes developing full-stack web applications using React, Node.js, and Express.\n* He has managed cloud infrastructure on AWS, which implies a strong understanding of server-side technology.\n* He has also implemented CI/CD pipelines using Jenkins and Docker, which shows his expertise in automating the deployment process.\n\nWhile other candidates may have some experience with full-stack development, Alex Williams' resume suggests that he has a broad range of skills and experience in both front-end and back-end technologies."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6354311625,
+                "load_duration": 15162333,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47394000,
+                "eval_count": 145,
+                "eval_duration": 6290702000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) and Jane Doe (Resume 1) have the most full-stack experience.\n\nBoth of them have:\n\n* Experience with both front-end and back-end development\n* Proficiency in multiple programming languages and frameworks (e.g., JavaScript, Node.js, React for Alex; HTML, CSS, JavaScript, React for Jane)\n* Familiarity with cloud infrastructure and deployment tools (e.g., AWS for Alex; no specific mention of cloud infrastructure for Jane, but she mentions using automated testing tools like Jest and Cypress)\n\nHowever, if I had to choose one candidate who has the most full-stack experience, I would say that Alex Williams (Resume 4) stands out. His resume highlights his expertise in both front-end and back-end development, with specific examples of projects he's worked on that involve both areas. He also mentions his proficiency in a wide range of programming languages, frameworks, and tools, making him a strong candidate for full-stack development positions.\n\nIn contrast, while Jane Doe (Resume 1) has some experience with front-end development, her resume doesn't show the same level of depth and breadth as Alex's when it comes to full-stack experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:47:17.565783Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) and Jane Doe (Resume 1) have the most full-stack experience.\n\nBoth of them have:\n\n* Experience with both front-end and back-end development\n* Proficiency in multiple programming languages and frameworks (e.g., JavaScript, Node.js, React for Alex; HTML, CSS, JavaScript, React for Jane)\n* Familiarity with cloud infrastructure and deployment tools (e.g., AWS for Alex; no specific mention of cloud infrastructure for Jane, but she mentions using automated testing tools like Jest and Cypress)\n\nHowever, if I had to choose one candidate who has the most full-stack experience, I would say that Alex Williams (Resume 4) stands out. His resume highlights his expertise in both front-end and back-end development, with specific examples of projects he's worked on that involve both areas. He also mentions his proficiency in a wide range of programming languages, frameworks, and tools, making him a strong candidate for full-stack development positions.\n\nIn contrast, while Jane Doe (Resume 1) has some experience with front-end development, her resume doesn't show the same level of depth and breadth as Alex's when it comes to full-stack experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11471155583,
+                "load_duration": 14944666,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48966000,
+                "eval_count": 250,
+                "eval_duration": 11405718000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He lists himself as a \"Versatile Full-Stack Developer\" in his summary.\n* His work experience at Innovatech includes developing full-stack web applications using React, Node.js, and Express, managing cloud infrastructure on AWS, and implementing CI/CD pipelines using Jenkins and Docker. This suggests that he has expertise in both front-end (React) and back-end (Node.js, Express, AWS) development.\n* He also mentions his experience as a Software Engineer at Tech Innovations, where he built and maintained APIs and microservices in Node.js and Express.\n\nIn contrast, the other candidates have more specialized experience:\n\n* Emily Brown (Resume 5) has experience with enterprise-level applications using C# and .NET, but her expertise is more focused on back-end development.\n* Jane Doe (Resume 1) has experience as a Front-End Developer, specializing in React and Vue.js.\n* John Smith (Resume 2) has experience as a Back-End Developer, specializing in Python, Java, and databases.\n* Sarah Johnson (Resume 3) is a Machine Learning Engineer, with expertise in data science and machine learning techniques.\n\nOverall, Alex Williams' resume suggests that he has the most comprehensive full-stack experience among the candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:47:29.706272Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He lists himself as a \"Versatile Full-Stack Developer\" in his summary.\n* His work experience at Innovatech includes developing full-stack web applications using React, Node.js, and Express, managing cloud infrastructure on AWS, and implementing CI/CD pipelines using Jenkins and Docker. This suggests that he has expertise in both front-end (React) and back-end (Node.js, Express, AWS) development.\n* He also mentions his experience as a Software Engineer at Tech Innovations, where he built and maintained APIs and microservices in Node.js and Express.\n\nIn contrast, the other candidates have more specialized experience:\n\n* Emily Brown (Resume 5) has experience with enterprise-level applications using C# and .NET, but her expertise is more focused on back-end development.\n* Jane Doe (Resume 1) has experience as a Front-End Developer, specializing in React and Vue.js.\n* John Smith (Resume 2) has experience as a Back-End Developer, specializing in Python, Java, and databases.\n* Sarah Johnson (Resume 3) is a Machine Learning Engineer, with expertise in data science and machine learning techniques.\n\nOverall, Alex Williams' resume suggests that he has the most comprehensive full-stack experience among the candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 12136231042,
+                "load_duration": 15367375,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47697000,
+                "eval_count": 276,
+                "eval_duration": 12071985000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* He has experience in both front-end and back-end development, with a background in JavaScript, Node.js, React, and AWS.\n* His current role at Innovatech is specifically listed as a Full-Stack Developer, indicating that he works on both front-end and back-end projects.\n* In his previous role at Tech Innovations, he worked on building APIs and microservices in Node.js and Express, which suggests that he has experience with server-side development.\n* He also mentions working with cloud infrastructure on AWS, which implies that he has a good understanding of both front-end and back-end development.\n\nWhile the other candidates have some full-stack experience as well, Alex Williams' resume indicates a stronger focus on full-stack development throughout his career.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:47:37.770576Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that **Resume 4: Alex Williams** has the most full-stack experience.\n\nHere's why:\n\n* He has experience in both front-end and back-end development, with a background in JavaScript, Node.js, React, and AWS.\n* His current role at Innovatech is specifically listed as a Full-Stack Developer, indicating that he works on both front-end and back-end projects.\n* In his previous role at Tech Innovations, he worked on building APIs and microservices in Node.js and Express, which suggests that he has experience with server-side development.\n* He also mentions working with cloud infrastructure on AWS, which implies that he has a good understanding of both front-end and back-end development.\n\nWhile the other candidates have some full-stack experience as well, Alex Williams' resume indicates a stronger focus on full-stack development throughout his career."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8059758250,
+                "load_duration": 14574042,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47627000,
+                "eval_count": 179,
+                "eval_duration": 7995836000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, **Resume 4: Alex Williams** appears to have the most full-stack experience.\n\nAlex's experience includes:\n\n* Full-Stack Developer at Innovatech (June 2020 \u2013 Present): Developing full-stack web applications using React, Node.js, and Express.\n* Software Engineer at Tech Innovations (July 2018 \u2013 May 2020): Building and maintaining APIs and microservices in Node.js and Express, as well as developing dynamic front-end components using React and Redux.\n\nAlex's skills also reflect a strong background in full-stack development, with proficiency in languages like JavaScript, TypeScript, HTML, and CSS; frameworks/libraries like React, Node.js, Express, and Redux; and tools like AWS, Docker, Jenkins, and Git.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:47:44.654166Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, **Resume 4: Alex Williams** appears to have the most full-stack experience.\n\nAlex's experience includes:\n\n* Full-Stack Developer at Innovatech (June 2020 \u2013 Present): Developing full-stack web applications using React, Node.js, and Express.\n* Software Engineer at Tech Innovations (July 2018 \u2013 May 2020): Building and maintaining APIs and microservices in Node.js and Express, as well as developing dynamic front-end components using React and Redux.\n\nAlex's skills also reflect a strong background in full-stack development, with proficiency in languages like JavaScript, TypeScript, HTML, and CSS; frameworks/libraries like React, Node.js, Express, and Redux; and tools like AWS, Docker, Jenkins, and Git."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6879414666,
+                "load_duration": 14592958,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47379000,
+                "eval_count": 157,
+                "eval_duration": 6816307000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has 5 years of experience in both front-end and back-end development.\n* His current role at Innovatech is Full-Stack Developer, which suggests that he works on both client-side (front-end) and server-side (back-end) aspects of web applications.\n* In his previous role at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express, developed dynamic front-end components using React and Redux, and worked closely with QA teams to ensure the robustness and reliability of web applications.\n\nWhile other candidates have experience in specific areas (e.g., Jane Doe has expertise in front-end development, John Smith has expertise in back-end development), Alex Williams is the only one who consistently works on both sides of the stack.\n\nTherefore, I would say that Alex Williams has the most full-stack experience among the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:47:53.597992Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has 5 years of experience in both front-end and back-end development.\n* His current role at Innovatech is Full-Stack Developer, which suggests that he works on both client-side (front-end) and server-side (back-end) aspects of web applications.\n* In his previous role at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express, developed dynamic front-end components using React and Redux, and worked closely with QA teams to ensure the robustness and reliability of web applications.\n\nWhile other candidates have experience in specific areas (e.g., Jane Doe has expertise in front-end development, John Smith has expertise in back-end development), Alex Williams is the only one who consistently works on both sides of the stack.\n\nTherefore, I would say that Alex Williams has the most full-stack experience among the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8940762292,
+                "load_duration": 15722000,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47452000,
+                "eval_count": 201,
+                "eval_duration": 8876514000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for over 2 years, where he developed full-stack web applications using React, Node.js, and Express.\n* He also worked as a Software Engineer at Tech Innovations, where he built and maintained APIs and microservices in Node.js and Express.\n* His skills include both front-end (JavaScript, HTML, CSS) and back-end (Node.js, Express, databases like MySQL and MongoDB) technologies.\n* Additionally, his resume highlights his experience with cloud infrastructure on AWS, CI/CD pipelines using Jenkins and Docker, and DevOps practices.\n\nWhile the other candidates have experience in full-stack development as well, Alex Williams' resume suggests a stronger emphasis on full-stack skills and experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-11T14:48:01.475144Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that Alex Williams (Resume 4) has the most full-stack experience.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech for over 2 years, where he developed full-stack web applications using React, Node.js, and Express.\n* He also worked as a Software Engineer at Tech Innovations, where he built and maintained APIs and microservices in Node.js and Express.\n* His skills include both front-end (JavaScript, HTML, CSS) and back-end (Node.js, Express, databases like MySQL and MongoDB) technologies.\n* Additionally, his resume highlights his experience with cloud infrastructure on AWS, CI/CD pipelines using Jenkins and Docker, and DevOps practices.\n\nWhile the other candidates have experience in full-stack development as well, Alex Williams' resume suggests a stronger emphasis on full-stack skills and experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7873202458,
+                "load_duration": 14626292,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47315000,
+                "eval_count": 180,
+                "eval_duration": 7809314000
+            }
+        }
+    ]
+}

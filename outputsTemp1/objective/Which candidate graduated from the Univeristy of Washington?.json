@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "According to Resume 4: Alex Williams, he graduated from the University of Washington with a B.S. in Computer Science (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:15.98386Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4: Alex Williams, he graduated from the University of Washington with a B.S. in Computer Science (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 10082057916,
+                "load_duration": 1822117791,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 6843362000,
+                "eval_count": 32,
+                "eval_duration": 1415109000
+            }
+        },
+        {
+            "Content": "According to Resume 4 (Alex Williams), Alex graduated from the University of Washington with a B.S. in Computer Science (2014 - 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:17.474041Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4 (Alex Williams), Alex graduated from the University of Washington with a B.S. in Computer Science (2014 - 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1487699917,
+                "load_duration": 15786000,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 49316000,
+                "eval_count": 33,
+                "eval_duration": 1420759000
+            }
+        },
+        {
+            "Content": "According to Resume 4 (Alex Williams), Alex has a Bachelor's degree in Computer Science from the University of Washington, Seattle.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:18.696416Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4 (Alex Williams), Alex has a Bachelor's degree in Computer Science from the University of Washington, Seattle."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1219961041,
+                "load_duration": 14973083,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47577000,
+                "eval_count": 27,
+                "eval_duration": 1156405000
+            }
+        },
+        {
+            "Content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:20.322586Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1623844000,
+                "load_duration": 14830000,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47696000,
+                "eval_count": 36,
+                "eval_duration": 1560376000
+            }
+        },
+        {
+            "Content": "The answer is Resume 4: Alex Williams.\n\nAccording to Resume 4, Alex Williams has a B.S. in Computer Science from the University of Washington (2014 \u2013 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:22.151844Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "The answer is Resume 4: Alex Williams.\n\nAccording to Resume 4, Alex Williams has a B.S. in Computer Science from the University of Washington (2014 \u2013 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1827699834,
+                "load_duration": 14569125,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48867000,
+                "eval_count": 40,
+                "eval_duration": 1762757000
+            }
+        },
+        {
+            "Content": "According to Resume 4 (Alex Williams), he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA, from 2014 to 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:23.914226Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4 (Alex Williams), he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA, from 2014 to 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1758140042,
+                "load_duration": 14438875,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 49473000,
+                "eval_count": 39,
+                "eval_duration": 1693105000
+            }
+        },
+        {
+            "Content": "According to Resume 4 (Alex Williams), they graduated with a B.S. in Computer Science from the University of Washington.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:25.104904Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4 (Alex Williams), they graduated with a B.S. in Computer Science from the University of Washington."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1187219167,
+                "load_duration": 15140584,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47911000,
+                "eval_count": 26,
+                "eval_duration": 1122317000
+            }
+        },
+        {
+            "Content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:26.301908Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1195534291,
+                "load_duration": 15209625,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 49203000,
+                "eval_count": 26,
+                "eval_duration": 1129938000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams states that he graduated with a B.S. in Computer Science from the University of Washington (Seattle, WA) in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:27.815437Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams states that he graduated with a B.S. in Computer Science from the University of Washington (Seattle, WA) in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1511584125,
+                "load_duration": 15446083,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48036000,
+                "eval_count": 34,
+                "eval_duration": 1447022000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams - B.S. in Computer Science \n\nUniversity of Washington | Seattle, WA \n2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:29.166216Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams - B.S. in Computer Science \n\nUniversity of Washington | Seattle, WA \n2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1348338875,
+                "load_duration": 14839916,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 50403000,
+                "eval_count": 29,
+                "eval_duration": 1281728000
+            }
+        },
+        {
+            "Content": "The answer is Resume 4: Alex Williams. According to his resume, he graduated with a B.S. in Computer Science from the University of Washington (Seattle, WA) in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:31.040266Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "The answer is Resume 4: Alex Williams. According to his resume, he graduated with a B.S. in Computer Science from the University of Washington (Seattle, WA) in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1872173500,
+                "load_duration": 14626667,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47996000,
+                "eval_count": 41,
+                "eval_duration": 1808394000
+            }
+        },
+        {
+            "Content": "According to Resume 4 (Alex Williams), he graduated from the University of Washington with a B.S. in Computer Science from 2014-2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:32.507199Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4 (Alex Williams), he graduated from the University of Washington with a B.S. in Computer Science from 2014-2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1464484875,
+                "load_duration": 14499041,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48170000,
+                "eval_count": 33,
+                "eval_duration": 1399960000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams graduated from the University of Washington with a B.S. in Computer Science (2014 \u2013 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:34.144136Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams graduated from the University of Washington with a B.S. in Computer Science (2014 \u2013 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1633739917,
+                "load_duration": 14344334,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47787000,
+                "eval_count": 35,
+                "eval_duration": 1570463000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Alex Williams (Resume 4) is the only candidate that mentions graduating from the University of Washington, with a B.S. in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:35.756812Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Alex Williams (Resume 4) is the only candidate that mentions graduating from the University of Washington, with a B.S. in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1611393750,
+                "load_duration": 15125000,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 52513000,
+                "eval_count": 36,
+                "eval_duration": 1542659000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams mentions that he graduated with a B.S. in Computer Science from the University of Washington.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:36.866782Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams mentions that he graduated with a B.S. in Computer Science from the University of Washington."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1107196417,
+                "load_duration": 14598417,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47032000,
+                "eval_count": 25,
+                "eval_duration": 1044013000
+            }
+        },
+        {
+            "Content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014 \u2013 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:38.505196Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014 \u2013 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1635509541,
+                "load_duration": 14302583,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46904000,
+                "eval_count": 37,
+                "eval_duration": 1573166000
+            }
+        },
+        {
+            "Content": "Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both list the University of Washington as their alma mater.\n\nSo, I'd say either Alex or Jane is a possible answer, depending on whether you're looking for one specific candidate. \n\nHowever, if you only want to highlight one candidate, it's not clear which one you should choose based on this information alone!",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:42.055553Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4 (Alex Williams) and Resume 1 (Jane Doe) both list the University of Washington as their alma mater.\n\nSo, I'd say either Alex or Jane is a possible answer, depending on whether you're looking for one specific candidate. \n\nHowever, if you only want to highlight one candidate, it's not clear which one you should choose based on this information alone!"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3549101667,
+                "load_duration": 14902208,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 50441000,
+                "eval_count": 79,
+                "eval_duration": 3481971000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams\nAccording to Resume 4, Alex Williams graduated with a B.S. in Computer Science from the University of Washington.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:43.473081Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams\nAccording to Resume 4, Alex Williams graduated with a B.S. in Computer Science from the University of Washington."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1416217250,
+                "load_duration": 14586750,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48895000,
+                "eval_count": 31,
+                "eval_duration": 1351636000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams graduated from the University of Washington with a B.S. in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:44.478208Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams graduated from the University of Washington with a B.S. in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1003166500,
+                "load_duration": 15363792,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48535000,
+                "eval_count": 22,
+                "eval_duration": 938223000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams \n\nGraduated from the B.S. in Computer Science \nUniversity of Washington | Seattle, WA \n2014 \u2013 2018------------------------------",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:46.096424Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams \n\nGraduated from the B.S. in Computer Science \nUniversity of Washington | Seattle, WA \n2014 \u2013 2018------------------------------"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1616756834,
+                "load_duration": 14387500,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 49387000,
+                "eval_count": 35,
+                "eval_duration": 1551359000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams \n\nEducation \nB.S. in Computer Science\nUniversity of Washington | Seattle, WA\n2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:47.521512Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams \n\nEducation \nB.S. in Computer Science\nUniversity of Washington | Seattle, WA\n2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1423851583,
+                "load_duration": 14426000,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 50053000,
+                "eval_count": 31,
+                "eval_duration": 1358312000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 4: Alex Williams states that he graduated with a B.S. in Computer Science from the University of Washington.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:48.956422Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 4: Alex Williams states that he graduated with a B.S. in Computer Science from the University of Washington."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1432850666,
+                "load_duration": 19527750,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 54516000,
+                "eval_count": 31,
+                "eval_duration": 1355328000
+            }
+        },
+        {
+            "Content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014 \u2013 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:50.601735Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014 \u2013 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1643261584,
+                "load_duration": 14550792,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47540000,
+                "eval_count": 37,
+                "eval_duration": 1580044000
+            }
+        },
+        {
+            "Content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014 \u2013 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:52.250251Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014 \u2013 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1645809625,
+                "load_duration": 14477042,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47505000,
+                "eval_count": 37,
+                "eval_duration": 1582922000
+            }
+        },
+        {
+            "Content": "The answer is Alex Williams from Resume 4. He graduated with a B.S. in Computer Science from the University of Washington.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:53.472231Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "The answer is Alex Williams from Resume 4. He graduated with a B.S. in Computer Science from the University of Washington."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1219785917,
+                "load_duration": 14418709,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47972000,
+                "eval_count": 27,
+                "eval_duration": 1156116000
+            }
+        },
+        {
+            "Content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:55.080721Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington in Seattle, WA (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1607242250,
+                "load_duration": 14094083,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47383000,
+                "eval_count": 36,
+                "eval_duration": 1544716000
+            }
+        },
+        {
+            "Content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:56.255873Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4: Alex Williams, he graduated with a B.S. in Computer Science from the University of Washington."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1173898834,
+                "load_duration": 14751917,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48100000,
+                "eval_count": 26,
+                "eval_duration": 1109303000
+            }
+        },
+        {
+            "Content": "Resume 4: Alex Williams graduated from the University of Washington with a B.S. in Computer Science (2014 \u2013 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:57.556068Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 4: Alex Williams graduated from the University of Washington with a B.S. in Computer Science (2014 \u2013 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1297654875,
+                "load_duration": 14383834,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47576000,
+                "eval_count": 29,
+                "eval_duration": 1234573000
+            }
+        },
+        {
+            "Content": "According to Resume 4 (Alex Williams), he graduated from the University of Washington with a B.S. in Computer Science from 2014-2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T03:59:59.088066Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 4 (Alex Williams), he graduated from the University of Washington with a B.S. in Computer Science from 2014-2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1528963584,
+                "load_duration": 15161042,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47669000,
+                "eval_count": 33,
+                "eval_duration": 1464894000
+            }
+        },
+        {
+            "Content": "The answer is Alex Williams (Resume 4). According to his resume, he holds a B.S. degree in Computer Science from the University of Washington.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:00:00.638168Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "The answer is Alex Williams (Resume 4). According to his resume, he holds a B.S. degree in Computer Science from the University of Washington."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1548672167,
+                "load_duration": 16920667,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 56289000,
+                "eval_count": 32,
+                "eval_duration": 1473580000
+            }
+        }
+    ]
+}

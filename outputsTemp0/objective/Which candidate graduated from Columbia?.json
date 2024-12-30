@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:43.288154Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1501479708,
+                "load_duration": 15110541,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 142654000,
+                "eval_count": 31,
+                "eval_duration": 1342135000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:44.70237Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1412016083,
+                "load_duration": 15095416,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48671000,
+                "eval_count": 31,
+                "eval_duration": 1347229000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:46.08304Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1376171417,
+                "load_duration": 14544500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47590000,
+                "eval_count": 31,
+                "eval_duration": 1312374000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:47.455041Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1368439791,
+                "load_duration": 14797833,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47673000,
+                "eval_count": 31,
+                "eval_duration": 1304565000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:48.816679Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1357957458,
+                "load_duration": 14828833,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46138000,
+                "eval_count": 31,
+                "eval_duration": 1296008000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:50.183284Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1362119333,
+                "load_duration": 14600125,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 45774000,
+                "eval_count": 31,
+                "eval_duration": 1300333000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:51.559063Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1373395375,
+                "load_duration": 14544250,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47315000,
+                "eval_count": 31,
+                "eval_duration": 1310435000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:52.960718Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1397790541,
+                "load_duration": 14916291,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47443000,
+                "eval_count": 31,
+                "eval_duration": 1333670000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:54.334851Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1372092458,
+                "load_duration": 14490166,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47293000,
+                "eval_count": 31,
+                "eval_duration": 1309064000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:55.737575Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1399559167,
+                "load_duration": 15219667,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48618000,
+                "eval_count": 31,
+                "eval_duration": 1334765000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:57.127392Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1387274125,
+                "load_duration": 14732208,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46807000,
+                "eval_count": 31,
+                "eval_duration": 1324081000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:58.498355Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1368794834,
+                "load_duration": 14536875,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47348000,
+                "eval_count": 31,
+                "eval_duration": 1305631000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:03:59.863401Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1362131292,
+                "load_duration": 14603833,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47240000,
+                "eval_count": 31,
+                "eval_duration": 1298535000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:01.24189Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1374403167,
+                "load_duration": 14810000,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47912000,
+                "eval_count": 31,
+                "eval_duration": 1310549000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:02.616615Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1371774417,
+                "load_duration": 15782750,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46874000,
+                "eval_count": 31,
+                "eval_duration": 1308050000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:03.988792Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1368819417,
+                "load_duration": 15126584,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47705000,
+                "eval_count": 31,
+                "eval_duration": 1304560000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:05.359944Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1368989250,
+                "load_duration": 14674292,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46315000,
+                "eval_count": 31,
+                "eval_duration": 1306979000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:06.724526Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1360508000,
+                "load_duration": 14637166,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47050000,
+                "eval_count": 31,
+                "eval_duration": 1297186000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:08.100464Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1372355209,
+                "load_duration": 14913500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47360000,
+                "eval_count": 31,
+                "eval_duration": 1308935000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:09.509382Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1405767833,
+                "load_duration": 15085416,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48010000,
+                "eval_count": 31,
+                "eval_duration": 1341518000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:10.910861Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1400162417,
+                "load_duration": 14853792,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48614000,
+                "eval_count": 31,
+                "eval_duration": 1335406000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:12.301198Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1386837708,
+                "load_duration": 15225833,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48465000,
+                "eval_count": 31,
+                "eval_duration": 1321911000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:13.667224Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1363285750,
+                "load_duration": 14697083,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47184000,
+                "eval_count": 31,
+                "eval_duration": 1299879000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:15.04319Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1372920542,
+                "load_duration": 14366875,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47098000,
+                "eval_count": 31,
+                "eval_duration": 1310428000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:16.419294Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1372388958,
+                "load_duration": 15229208,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46814000,
+                "eval_count": 31,
+                "eval_duration": 1309313000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:17.789947Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1366845000,
+                "load_duration": 14532792,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46694000,
+                "eval_count": 31,
+                "eval_duration": 1304062000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:19.174194Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1381676750,
+                "load_duration": 14685250,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47507000,
+                "eval_count": 31,
+                "eval_duration": 1318260000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:20.560119Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1383077709,
+                "load_duration": 14453417,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47140000,
+                "eval_count": 31,
+                "eval_duration": 1320015000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:21.931286Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1367284500,
+                "load_duration": 14589375,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47288000,
+                "eval_count": 31,
+                "eval_duration": 1304200000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T21:04:23.296478Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1361141042,
+                "load_duration": 14978000,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47074000,
+                "eval_count": 31,
+                "eval_duration": 1297975000
+            }
+        }
+    ]
+}

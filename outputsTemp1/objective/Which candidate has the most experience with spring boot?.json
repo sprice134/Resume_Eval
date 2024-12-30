@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the resumes provided, Candidate 2: John Smith has the most experience with Spring Boot.\n\nSpecifically:\n\n* Resume 2: John Smith (Back-End Developer) mentions that he:\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems.\n\nHowever, it's worth noting that while John Smith has experience with Spring Boot, Resume 4: Alex Williams also mentions working with Spring Boot in the context of Express.js:\n\n* Resume 4: Alex Williams (Full-Stack Developer) mentions that he:\n\t+ Developed full-stack web applications using React, Node.js, and Express, which included integrating with Java-based microservices.\n\t+ Managed cloud infrastructure on AWS, including EC2, S3, and Lambda.\n\nSo while John Smith has dedicated experience with Spring Boot, Alex Williams also has relevant experience working with Spring Boot in a broader full-stack context.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:27:21.984096Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Candidate 2: John Smith has the most experience with Spring Boot.\n\nSpecifically:\n\n* Resume 2: John Smith (Back-End Developer) mentions that he:\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems.\n\nHowever, it's worth noting that while John Smith has experience with Spring Boot, Resume 4: Alex Williams also mentions working with Spring Boot in the context of Express.js:\n\n* Resume 4: Alex Williams (Full-Stack Developer) mentions that he:\n\t+ Developed full-stack web applications using React, Node.js, and Express, which included integrating with Java-based microservices.\n\t+ Managed cloud infrastructure on AWS, including EC2, S3, and Lambda.\n\nSo while John Smith has dedicated experience with Spring Boot, Alex Williams also has relevant experience working with Spring Boot in a broader full-stack context."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9274699834,
+                "load_duration": 14630542,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 156832000,
+                "eval_count": 207,
+                "eval_duration": 9101317000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nIn his current role as Back-End Developer at TechCorp Solutions in Austin, TX, he implemented RESTful APIs using Python and Java (Spring Boot), integrating third-party services and APIs, and collaborated with front-end developers to define and implement API contracts. \n\nIn addition, his previous role as Software Engineer at NextGen Software also involved developing and maintaining microservices architecture using Java and Docker. While this does not explicitly mention Spring Boot, it is likely that he used Spring Boot as part of the overall Java-based development environment.\n\nTherefore, I conclude that John Smith has the most experience with Spring Boot among all the candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:27:28.456582Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nIn his current role as Back-End Developer at TechCorp Solutions in Austin, TX, he implemented RESTful APIs using Python and Java (Spring Boot), integrating third-party services and APIs, and collaborated with front-end developers to define and implement API contracts. \n\nIn addition, his previous role as Software Engineer at NextGen Software also involved developing and maintaining microservices architecture using Java and Docker. While this does not explicitly mention Spring Boot, it is likely that he used Spring Boot as part of the overall Java-based development environment.\n\nTherefore, I conclude that John Smith has the most experience with Spring Boot among all the candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6469438750,
+                "load_duration": 14483458,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47589000,
+                "eval_count": 146,
+                "eval_duration": 6406360000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, it appears that:\n\n* Resume 1 (Jane Doe) does not mention Spring Boot at all.\n* Resume 2 (John Smith) mentions working as a Back-End Developer using Java and Spring Boot at TechCorp Solutions from April 2020 to Present. However, he also worked with Python and Django/Flask in the same role.\n\nHowever, Resume 5 (Emily Brown) does not mention Spring Boot either.\n\nSo, between Resume 1 and Resume 2, John Smith (Resume 2) has the most experience with Spring Boot as a Back-End Developer.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:27:33.972102Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, it appears that:\n\n* Resume 1 (Jane Doe) does not mention Spring Boot at all.\n* Resume 2 (John Smith) mentions working as a Back-End Developer using Java and Spring Boot at TechCorp Solutions from April 2020 to Present. However, he also worked with Python and Django/Flask in the same role.\n\nHowever, Resume 5 (Emily Brown) does not mention Spring Boot either.\n\nSo, between Resume 1 and Resume 2, John Smith (Resume 2) has the most experience with Spring Boot as a Back-End Developer."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5511393542,
+                "load_duration": 14726750,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 48170000,
+                "eval_count": 125,
+                "eval_duration": 5446788000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 2: John Smith has the most experience with Spring Boot.\n\nAccording to his resume, while working at TechCorp Solutions (April 2020 \u2013 Present), John Smith designed and implemented RESTful APIs using Java (Spring Boot) for various web applications. He also mentions that he integrated third-party services and APIs, ensuring secure data exchange between systems.\n\nAdditionally, during his time at NextGen Software (August 2018 \u2013 March 2020), he developed and maintained microservices architecture using Java and Docker, but there is no mention of Spring Boot in this experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:27:39.328259Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 2: John Smith has the most experience with Spring Boot.\n\nAccording to his resume, while working at TechCorp Solutions (April 2020 \u2013 Present), John Smith designed and implemented RESTful APIs using Java (Spring Boot) for various web applications. He also mentions that he integrated third-party services and APIs, ensuring secure data exchange between systems.\n\nAdditionally, during his time at NextGen Software (August 2018 \u2013 March 2020), he developed and maintained microservices architecture using Java and Docker, but there is no mention of Spring Boot in this experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5353045875,
+                "load_duration": 14357000,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47733000,
+                "eval_count": 122,
+                "eval_duration": 5289899000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot. According to his experience section, he worked as a Back-End Developer at TechCorp Solutions from April 2020 to Present and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot). This indicates that he has hands-on experience with Spring Boot.\n\nHowever, it's worth noting that Alex Williams (Resume 4) also mentions Node.js and Express as tools he is proficient in, which are similar technologies used for back-end development. But since John Smith specifically mentions Spring Boot in the context of his work experience, I would say that John Smith has the most experience with Spring Boot.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:27:45.73212Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot. According to his experience section, he worked as a Back-End Developer at TechCorp Solutions from April 2020 to Present and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot). This indicates that he has hands-on experience with Spring Boot.\n\nHowever, it's worth noting that Alex Williams (Resume 4) also mentions Node.js and Express as tools he is proficient in, which are similar technologies used for back-end development. But since John Smith specifically mentions Spring Boot in the context of his work experience, I would say that John Smith has the most experience with Spring Boot."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6400256750,
+                "load_duration": 15243875,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46867000,
+                "eval_count": 145,
+                "eval_duration": 6337071000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Candidate Resume 2: John Smith (Resume 2) and Candidate Resume 5: Emily Brown (Resume 4 are not directly related, however I assume you meant Resume 2: John Smith)",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:27:47.853574Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Candidate Resume 2: John Smith (Resume 2) and Candidate Resume 5: Emily Brown (Resume 4 are not directly related, however I assume you meant Resume 2: John Smith)"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2116910125,
+                "load_duration": 14494417,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47522000,
+                "eval_count": 48,
+                "eval_duration": 2053049000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, John Smith (Resume 2) is the candidate with the most experience with Spring Boot.\n\nIn his current role as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he implemented RESTful APIs using Java (Spring Boot) for various web applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:27:50.626286Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, John Smith (Resume 2) is the candidate with the most experience with Spring Boot.\n\nIn his current role as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he implemented RESTful APIs using Java (Spring Boot) for various web applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2768571041,
+                "load_duration": 13928583,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47496000,
+                "eval_count": 63,
+                "eval_duration": 2706119000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nIn his experience as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he:\n\n* \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n\nThis indicates that John Smith has hands-on experience with Spring Boot, making him the candidate with the most experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:27:54.93489Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nIn his experience as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he:\n\n* \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n\nThis indicates that John Smith has hands-on experience with Spring Boot, making him the candidate with the most experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4305775250,
+                "load_duration": 14864792,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47488000,
+                "eval_count": 97,
+                "eval_duration": 4241613000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nAccording to his resume:\n\n* As a Back-End Developer at TechCorp Solutions, he \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n* He also managed to implement authentication and authorization mechanisms using OAuth2 and JWT, enhancing security.\n\nThis indicates that John Smith has hands-on experience with Spring Boot, making him the candidate with the most experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:27:59.853216Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nAccording to his resume:\n\n* As a Back-End Developer at TechCorp Solutions, he \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n* He also managed to implement authentication and authorization mechanisms using OAuth2 and JWT, enhancing security.\n\nThis indicates that John Smith has hands-on experience with Spring Boot, making him the candidate with the most experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4915221958,
+                "load_duration": 14866292,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47862000,
+                "eval_count": 110,
+                "eval_duration": 4851570000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 2: John Smith appears to have the most experience with Spring Boot.\n\nIn his Experience section under Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), it is mentioned that he:\n\n* Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\n* Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications, improving query efficiency by 40%.\n* Integrated third-party services and APIs, ensuring secure data exchange between systems.\n\nWhile it is not explicitly stated that John Smith has the most experience with Spring Boot compared to other frameworks/libraries he works with, his role under TechCorp Solutions indicates significant hands-on work with the framework.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:06.819886Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 2: John Smith appears to have the most experience with Spring Boot.\n\nIn his Experience section under Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), it is mentioned that he:\n\n* Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\n* Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications, improving query efficiency by 40%.\n* Integrated third-party services and APIs, ensuring secure data exchange between systems.\n\nWhile it is not explicitly stated that John Smith has the most experience with Spring Boot compared to other frameworks/libraries he works with, his role under TechCorp Solutions indicates significant hands-on work with the framework."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6964249666,
+                "load_duration": 15400083,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 48055000,
+                "eval_count": 155,
+                "eval_duration": 6899867000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot. He lists it as one of his skill sets under \"Frameworks\" and mentions that he used Spring Boot while working as a Back-End Developer at TechCorp Solutions from April 2020 to Present.\n\nHere is the relevant information from his resume:\n\n* Frameworks: Django, Flask, Spring Boot\n* Experience:\n\t+ Back-End Developer, TechCorp Solutions (April 2020 \u2013 Present)\n\t\t- Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:12.592244Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot. He lists it as one of his skill sets under \"Frameworks\" and mentions that he used Spring Boot while working as a Back-End Developer at TechCorp Solutions from April 2020 to Present.\n\nHere is the relevant information from his resume:\n\n* Frameworks: Django, Flask, Spring Boot\n* Experience:\n\t+ Back-End Developer, TechCorp Solutions (April 2020 \u2013 Present)\n\t\t- Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5768793333,
+                "load_duration": 14566750,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47152000,
+                "eval_count": 131,
+                "eval_duration": 5705139000
+            }
+        },
+        {
+            "Content": "According to Resume 2 (John Smith), he has experience with Spring Boot as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:14.104004Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2 (John Smith), he has experience with Spring Boot as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1506496708,
+                "load_duration": 14657417,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47290000,
+                "eval_count": 34,
+                "eval_duration": 1443392000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes:\n\nResume 1 (Jane Doe) does not mention Spring Boot.\nResume 2 (John Smith) mentions Python and Java as primary languages with no specific emphasis or extensive description of Spring Boot, implying limited experience.\nResume 3 (Sarah Johnson), Resume 4 (Alex Williams), Resume 5 (Emily Brown) do not have Spring Boot mentioned.\n\nOnly John Smith has a mention of Spring Boot in his resume.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:18.088519Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes:\n\nResume 1 (Jane Doe) does not mention Spring Boot.\nResume 2 (John Smith) mentions Python and Java as primary languages with no specific emphasis or extensive description of Spring Boot, implying limited experience.\nResume 3 (Sarah Johnson), Resume 4 (Alex Williams), Resume 5 (Emily Brown) do not have Spring Boot mentioned.\n\nOnly John Smith has a mention of Spring Boot in his resume."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3981251416,
+                "load_duration": 14894083,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47693000,
+                "eval_count": 90,
+                "eval_duration": 3916747000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 7: John Smith** (I assume you meant Resume 8 is not available, so I looked at others) actually has the most experience with Spring Boot.\n\nAccording to his resume, as a Back-End Developer at TechCorp Solutions:\n\n* April 2020 \u2013 Present:\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\nThis shows that John Smith has experience working with Spring Boot since April 2020.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:22.713518Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 7: John Smith** (I assume you meant Resume 8 is not available, so I looked at others) actually has the most experience with Spring Boot.\n\nAccording to his resume, as a Back-End Developer at TechCorp Solutions:\n\n* April 2020 \u2013 Present:\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\nThis shows that John Smith has experience working with Spring Boot since April 2020."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4621083166,
+                "load_duration": 14386125,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46807000,
+                "eval_count": 105,
+                "eval_duration": 4558995000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nAccording to his resume:\n\n* In his current role as Back-End Developer at TechCorp Solutions, he:\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot).\n* In his previous role as Software Engineer at NextGen Software, he:\n\t+ Developed and maintained microservices architecture using Java and Docker.\n\nWhile John Smith's experience with Spring Boot is not exclusively with this framework, it is the only candidate among the five whose resume mentions Spring Boot.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:28.153322Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nAccording to his resume:\n\n* In his current role as Back-End Developer at TechCorp Solutions, he:\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot).\n* In his previous role as Software Engineer at NextGen Software, he:\n\t+ Developed and maintained microservices architecture using Java and Docker.\n\nWhile John Smith's experience with Spring Boot is not exclusively with this framework, it is the only candidate among the five whose resume mentions Spring Boot."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5436714625,
+                "load_duration": 15236458,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47549000,
+                "eval_count": 123,
+                "eval_duration": 5372966000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Candidate 7 (John Smith) has the most experience with Spring Boot.\n\nAccording to Resume 2: John Smith:\n\n* In his current role as Back-End Developer at TechCorp Solutions:\n\t+ April 2020 \u2013 Present: Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\n* In a previous role as Software Engineer at NextGen Software:\n\t+ August 2018 \u2013 March 2020: Developed and maintained microservices architecture using Java and Docker.\n\nThis suggests that John Smith has experience with Spring Boot in both his current and previous roles, making him the candidate with the most experience with Spring Boot.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:34.645515Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Candidate 7 (John Smith) has the most experience with Spring Boot.\n\nAccording to Resume 2: John Smith:\n\n* In his current role as Back-End Developer at TechCorp Solutions:\n\t+ April 2020 \u2013 Present: Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\n* In a previous role as Software Engineer at NextGen Software:\n\t+ August 2018 \u2013 March 2020: Developed and maintained microservices architecture using Java and Docker.\n\nThis suggests that John Smith has experience with Spring Boot in both his current and previous roles, making him the candidate with the most experience with Spring Boot."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6488509166,
+                "load_duration": 14519458,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47400000,
+                "eval_count": 146,
+                "eval_duration": 6424843000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot. As mentioned in his resume, during his time as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\" This indicates that John Smith has hands-on experience with Spring Boot.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:38.5668Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot. As mentioned in his resume, during his time as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\" This indicates that John Smith has hands-on experience with Spring Boot."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3916720959,
+                "load_duration": 14734417,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47552000,
+                "eval_count": 89,
+                "eval_duration": 3853658000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 2: John Smith appears to have the most experience with Spring Boot. His work experience includes being a Back-End Developer at TechCorp Solutions, where he worked from April 2020 to Present and was responsible for:\n\n* Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n* Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\nThis indicates that John Smith has hands-on experience with Spring Boot as part of his job responsibilities.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:43.383737Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 2: John Smith appears to have the most experience with Spring Boot. His work experience includes being a Back-End Developer at TechCorp Solutions, where he worked from April 2020 to Present and was responsible for:\n\n* Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n* Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\nThis indicates that John Smith has hands-on experience with Spring Boot as part of his job responsibilities."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4814010458,
+                "load_duration": 14628458,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47410000,
+                "eval_count": 109,
+                "eval_duration": 4751166000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 2: John Smith** has the most experience with Spring Boot.\n\nAccording to his resume:\n\n* In his current role as Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he designed and implemented RESTful APIs using Java (Spring Boot) for various web applications.\n* In his previous role as Software Engineer at NextGen Software (August 2018 \u2013 March 2020), he developed and maintained microservices architecture using Java, including Spring Boot.\n\nWhile the other resumes mention Java or Spring Boot in passing, John Smith's experience with Spring Boot is explicitly stated in multiple roles.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:49.23525Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 2: John Smith** has the most experience with Spring Boot.\n\nAccording to his resume:\n\n* In his current role as Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he designed and implemented RESTful APIs using Java (Spring Boot) for various web applications.\n* In his previous role as Software Engineer at NextGen Software (August 2018 \u2013 March 2020), he developed and maintained microservices architecture using Java, including Spring Boot.\n\nWhile the other resumes mention Java or Spring Boot in passing, John Smith's experience with Spring Boot is explicitly stated in multiple roles."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5848704875,
+                "load_duration": 14626709,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46549000,
+                "eval_count": 131,
+                "eval_duration": 5786710000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 2: John Smith** appears to have the most experience with Spring Boot.\n\nIn his role as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), John lists \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications\" among his key responsibilities. This suggests that he has significant experience working with Spring Boot.\n\nIn contrast, the other candidates do not appear to have explicit mentions of working with Spring Boot in their resumes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:54.225126Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 2: John Smith** appears to have the most experience with Spring Boot.\n\nIn his role as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), John lists \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications\" among his key responsibilities. This suggests that he has significant experience working with Spring Boot.\n\nIn contrast, the other candidates do not appear to have explicit mentions of working with Spring Boot in their resumes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4988518500,
+                "load_duration": 14539666,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 48173000,
+                "eval_count": 113,
+                "eval_duration": 4925072000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 2: John Smith is the candidate with the most experience with Spring Boot.\n\nIn his Experience section, under Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he mentions that he \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\" \n\nAdditionally, in another role as Software Engineer at NextGen Software (August 2018 \u2013 March 2020), he also worked with Spring Boot by implementing microservices architecture.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:28:59.173557Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 2: John Smith is the candidate with the most experience with Spring Boot.\n\nIn his Experience section, under Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he mentions that he \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\" \n\nAdditionally, in another role as Software Engineer at NextGen Software (August 2018 \u2013 March 2020), he also worked with Spring Boot by implementing microservices architecture."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4946559250,
+                "load_duration": 14985667,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 45931000,
+                "eval_count": 112,
+                "eval_duration": 4884829000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most experience with Spring Boot.\n\nHere is a snippet from his resume:\n\nExperience\nBack-End Developer\nTechCorp Solutions | Austin, TX\nApril 2020 \u2013 Present\n\nDesigned and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\n\nNote that he specifically mentions working with Spring Boot in this role, suggesting that he has significant experience with the framework.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:29:03.724368Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most experience with Spring Boot.\n\nHere is a snippet from his resume:\n\nExperience\nBack-End Developer\nTechCorp Solutions | Austin, TX\nApril 2020 \u2013 Present\n\nDesigned and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\n\nNote that he specifically mentions working with Spring Boot in this role, suggesting that he has significant experience with the framework."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4547605166,
+                "load_duration": 14236583,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47740000,
+                "eval_count": 102,
+                "eval_duration": 4484763000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) is the candidate with the most experience with Spring Boot.\n\nAccording to his resume, as a Back-End Developer at TechCorp Solutions, he managed and optimized databases for high-performance applications using Spring Boot. Specifically, it mentions that he \"Implemented authentication and authorization mechanisms using OAuth2 and JWT\" which implies that he used Spring Security in conjunction with Spring Boot.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:29:07.505669Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) is the candidate with the most experience with Spring Boot.\n\nAccording to his resume, as a Back-End Developer at TechCorp Solutions, he managed and optimized databases for high-performance applications using Spring Boot. Specifically, it mentions that he \"Implemented authentication and authorization mechanisms using OAuth2 and JWT\" which implies that he used Spring Security in conjunction with Spring Boot."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3777305458,
+                "load_duration": 14419333,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 48097000,
+                "eval_count": 85,
+                "eval_duration": 3713195000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 2: John Smith** and **Resume 3: Sarah Johnson** do not have any direct experience with Spring Boot.\n\nHowever, **John Smith (Resume 2)** does mention \"Java (Spring Boot)\" as one of his skills, indicating that he has some familiarity with Spring Boot. But it's unclear from the resume if this is a significant amount of experience.\n\nIt seems like there is no candidate who has explicit experience working directly on Spring Boot projects for an extended period.\n\nHowever, I should mention that **Resume 2: John Smith** does have experience as Back-End Developer at TechCorp Solutions | Austin, TX (April 2020 \u2013 Present) where he mentioned designing and implementing RESTful APIs using Java and Docker.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:29:14.459588Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 2: John Smith** and **Resume 3: Sarah Johnson** do not have any direct experience with Spring Boot.\n\nHowever, **John Smith (Resume 2)** does mention \"Java (Spring Boot)\" as one of his skills, indicating that he has some familiarity with Spring Boot. But it's unclear from the resume if this is a significant amount of experience.\n\nIt seems like there is no candidate who has explicit experience working directly on Spring Boot projects for an extended period.\n\nHowever, I should mention that **Resume 2: John Smith** does have experience as Back-End Developer at TechCorp Solutions | Austin, TX (April 2020 \u2013 Present) where he mentioned designing and implementing RESTful APIs using Java and Docker."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6950173708,
+                "load_duration": 14485583,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47792000,
+                "eval_count": 158,
+                "eval_duration": 6886927000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Candidate Resume 2 (John Smith) has the most experience with Spring Boot.\n\nIn his role as a Back-End Developer at TechCorp Solutions, John mentions that he:\n\n\"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n\nThis suggests that John has hands-on experience working with Spring Boot, although the specific details of his projects are not provided.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:29:18.507261Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Candidate Resume 2 (John Smith) has the most experience with Spring Boot.\n\nIn his role as a Back-End Developer at TechCorp Solutions, John mentions that he:\n\n\"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n\nThis suggests that John has hands-on experience working with Spring Boot, although the specific details of his projects are not provided."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4043168750,
+                "load_duration": 14424292,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47435000,
+                "eval_count": 92,
+                "eval_duration": 3979412000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nHere's a snippet from his resume:\n\n* Back-End Developer at TechCorp Solutions | Austin, TX\n\t+ April 2020 \u2013 Present\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:29:22.025791Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nHere's a snippet from his resume:\n\n* Back-End Developer at TechCorp Solutions | Austin, TX\n\t+ April 2020 \u2013 Present\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3515851167,
+                "load_duration": 14377250,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47357000,
+                "eval_count": 80,
+                "eval_duration": 3453161000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nIn his current role as Back-End Developer at TechCorp Solutions (April 2020 - Present), he is mentioned to have designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications. \n\nAdditionally, in his previous role as Software Engineer at NextGen Software (August 2018 \u2013 March 2020), he developed and maintained microservices architecture using Java and Docker, which also implies experience with Spring Boot.\n\nTherefore, I would conclude that John Smith has the most experience with Spring Boot among all the candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:29:28.232982Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most experience with Spring Boot.\n\nIn his current role as Back-End Developer at TechCorp Solutions (April 2020 - Present), he is mentioned to have designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications. \n\nAdditionally, in his previous role as Software Engineer at NextGen Software (August 2018 \u2013 March 2020), he developed and maintained microservices architecture using Java and Docker, which also implies experience with Spring Boot.\n\nTherefore, I would conclude that John Smith has the most experience with Spring Boot among all the candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6202682375,
+                "load_duration": 15024250,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47894000,
+                "eval_count": 138,
+                "eval_duration": 6138741000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 2: John Smith** has the most experience with Spring Boot.\n\nAccording to his resume, in his role as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he designed and implemented RESTful APIs using Java (Spring Boot) for various web applications. This indicates that he has hands-on experience with Spring Boot, which is a popular framework for building enterprise-level applications.\n\nTherefore, John Smith appears to be the candidate with the most experience with Spring Boot among the resumes provided.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:29:33.112102Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 2: John Smith** has the most experience with Spring Boot.\n\nAccording to his resume, in his role as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he designed and implemented RESTful APIs using Java (Spring Boot) for various web applications. This indicates that he has hands-on experience with Spring Boot, which is a popular framework for building enterprise-level applications.\n\nTherefore, John Smith appears to be the candidate with the most experience with Spring Boot among the resumes provided."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4875166417,
+                "load_duration": 14598459,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47982000,
+                "eval_count": 111,
+                "eval_duration": 4811085000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 1: John Smith (Resume 2) has the most experience with Spring Boot. In his current role as a Back-End Developer at TechCorp Solutions in Austin, TX, he mentions that he \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n\nWhile John Smith does mention working with Java and Spring Boot, Resume 3: Sarah Johnson's colleague doesn't.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:29:37.438646Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 1: John Smith (Resume 2) has the most experience with Spring Boot. In his current role as a Back-End Developer at TechCorp Solutions in Austin, TX, he mentions that he \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n\nWhile John Smith does mention working with Java and Spring Boot, Resume 3: Sarah Johnson's colleague doesn't."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4322625875,
+                "load_duration": 14584959,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47597000,
+                "eval_count": 98,
+                "eval_duration": 4259408000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) is the candidate who has the most experience with Spring Boot.\n\nAs a Back-End Developer at TechCorp Solutions, he mentions that:\n\n* \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n* \"Integrated third-party services and APIs, ensuring secure data exchange between systems.\"\n* He also collaborated with front-end developers to define and implement API contracts.\n\nWhile Spring Boot is not his primary focus in the resume, it's mentioned alongside other technologies like Django and Flask, suggesting that he has experience working with Spring Boot.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:29:43.247391Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) is the candidate who has the most experience with Spring Boot.\n\nAs a Back-End Developer at TechCorp Solutions, he mentions that:\n\n* \"Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot) for various web applications.\"\n* \"Integrated third-party services and APIs, ensuring secure data exchange between systems.\"\n* He also collaborated with front-end developers to define and implement API contracts.\n\nWhile Spring Boot is not his primary focus in the resume, it's mentioned alongside other technologies like Django and Flask, suggesting that he has experience working with Spring Boot."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5804243625,
+                "load_duration": 14765625,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47774000,
+                "eval_count": 132,
+                "eval_duration": 5739929000
+            }
+        }
+    ]
+}

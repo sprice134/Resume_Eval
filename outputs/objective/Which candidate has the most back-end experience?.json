@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the provided resumes, John Smith (Resume 2) appears to have the most back-end experience.\n\nHere's why:\n\n* His work experience as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present) indicates extensive experience in designing and maintaining scalable server-side applications.\n* He has expertise in Python, Java, and databases like PostgreSQL and MongoDB, which are all commonly used for back-end development.\n* In his previous role as a Software Engineer at NextGen Software (August 2018 \u2013 March 2020), he developed and maintained microservices architecture using Java and Docker, indicating a strong focus on back-end development.\n\nWhile other candidates may have some experience with back-end development, John Smith's specific job titles, skills, and work experiences suggest that he has the most extensive background in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:53.075934Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, John Smith (Resume 2) appears to have the most back-end experience.\n\nHere's why:\n\n* His work experience as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present) indicates extensive experience in designing and maintaining scalable server-side applications.\n* He has expertise in Python, Java, and databases like PostgreSQL and MongoDB, which are all commonly used for back-end development.\n* In his previous role as a Software Engineer at NextGen Software (August 2018 \u2013 March 2020), he developed and maintained microservices architecture using Java and Docker, indicating a strong focus on back-end development.\n\nWhile other candidates may have some experience with back-end development, John Smith's specific job titles, skills, and work experiences suggest that he has the most extensive background in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7553323833,
+                "load_duration": 14674208,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 174015000,
+                "eval_count": 168,
+                "eval_duration": 7363254000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a summary of his relevant experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present)\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020)\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith's experience shows a strong focus on back-end development, with expertise in multiple programming languages, frameworks, and databases. He also has experience with DevOps tools like Docker and Kubernetes.\n\nWhile other candidates have some back-end experience, John Smith stands out as the most experienced in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:18:02.113286Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a summary of his relevant experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present)\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020)\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith's experience shows a strong focus on back-end development, with expertise in multiple programming languages, frameworks, and databases. He also has experience with DevOps tools like Docker and Kubernetes.\n\nWhile other candidates have some back-end experience, John Smith stands out as the most experienced in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9033822625,
+                "load_duration": 14478500,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 46763000,
+                "eval_count": 205,
+                "eval_duration": 8971001000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 1: John Smith** and **Resume 5: Emily Brown** have similar back-end experience. However, **Resume 1: John Smith** is more specific about his back-end development skills.\n\nHere are their experiences in detail:\n\n* Resume 1 (John Smith):\n\t+ Back-End Developer at TechCorp Solutions | Austin, TX\n\t\t- Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t\t- Managed and optimized databases (PostgreSQL, MongoDB)\n\t\t- Integrated third-party services and APIs\n* Resume 5 (Emily Brown):\n\t+ Software Engineer at Enterprise Solutions Inc. | Chicago, IL\n\t\t- Developed enterprise-level applications using C# and .NET\n\t\t- Integrated with SQL Server databases\n\nHowever, **Resume 1: John Smith** has more experience in designing and implementing RESTful APIs, managing and optimizing databases, and integrating third-party services and APIs.\n\nTherefore, **John Smith** (Resume 2) is the candidate who has the most back-end experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:18:12.131644Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 1: John Smith** and **Resume 5: Emily Brown** have similar back-end experience. However, **Resume 1: John Smith** is more specific about his back-end development skills.\n\nHere are their experiences in detail:\n\n* Resume 1 (John Smith):\n\t+ Back-End Developer at TechCorp Solutions | Austin, TX\n\t\t- Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t\t- Managed and optimized databases (PostgreSQL, MongoDB)\n\t\t- Integrated third-party services and APIs\n* Resume 5 (Emily Brown):\n\t+ Software Engineer at Enterprise Solutions Inc. | Chicago, IL\n\t\t- Developed enterprise-level applications using C# and .NET\n\t\t- Integrated with SQL Server databases\n\nHowever, **Resume 1: John Smith** has more experience in designing and implementing RESTful APIs, managing and optimizing databases, and integrating third-party services and APIs.\n\nTherefore, **John Smith** (Resume 2) is the candidate who has the most back-end experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 10013665834,
+                "load_duration": 14547209,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47734000,
+                "eval_count": 227,
+                "eval_duration": 9950391000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, John Smith (Resume 2) and Sarah Johnson is not among the back-end developers. However, based solely on the back-end experience in Resume 2:\n\nJohn Smith (Resume 2):\n\n* Experience:\n\t+ Back-End Developer\n\t\t- Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t\t- Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t\t- Integrated third-party services and APIs, ensuring secure data exchange between systems\n\nHas the most back-end experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:18:17.45604Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, John Smith (Resume 2) and Sarah Johnson is not among the back-end developers. However, based solely on the back-end experience in Resume 2:\n\nJohn Smith (Resume 2):\n\n* Experience:\n\t+ Back-End Developer\n\t\t- Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t\t- Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t\t- Integrated third-party services and APIs, ensuring secure data exchange between systems\n\nHas the most back-end experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5320072917,
+                "load_duration": 14832334,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47213000,
+                "eval_count": 121,
+                "eval_duration": 5256278000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of approximately 5 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:18:25.164781Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of approximately 5 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7704421125,
+                "load_duration": 14683667,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47072000,
+                "eval_count": 175,
+                "eval_duration": 7641695000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, **Resume 3: Sarah Johnson** is not a strong contender for having the most back-end experience since her primary expertise lies in Machine Learning.\n\nAmong the other candidates, John Smith (Resume 2) and Emily Brown (Resume 5) have significant experience with server-side technologies, but their expertise isn't exclusively limited to back-end development. They both have diverse backgrounds that include front-end and full-stack development as well.\n\nHowever, if we consider back-end experience alone, then **John Smith (Resume 2)** is the strongest candidate. His background includes working extensively in Python, Java, and databases like PostgreSQL and MongoDB, which are all back-end related technologies. He has also managed and optimized databases for high-performance applications, implemented RESTful APIs using various frameworks, and collaborated with front-end developers to define and implement API contracts.\n\nWhile John Smith's experience is impressive, it's essential to remember that the concept of \"most back-end experience\" can vary depending on specific job requirements or industry standards.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:18:34.364857Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, **Resume 3: Sarah Johnson** is not a strong contender for having the most back-end experience since her primary expertise lies in Machine Learning.\n\nAmong the other candidates, John Smith (Resume 2) and Emily Brown (Resume 5) have significant experience with server-side technologies, but their expertise isn't exclusively limited to back-end development. They both have diverse backgrounds that include front-end and full-stack development as well.\n\nHowever, if we consider back-end experience alone, then **John Smith (Resume 2)** is the strongest candidate. His background includes working extensively in Python, Java, and databases like PostgreSQL and MongoDB, which are all back-end related technologies. He has also managed and optimized databases for high-performance applications, implemented RESTful APIs using various frameworks, and collaborated with front-end developers to define and implement API contracts.\n\nWhile John Smith's experience is impressive, it's essential to remember that the concept of \"most back-end experience\" can vary depending on specific job requirements or industry standards."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9195728250,
+                "load_duration": 15016583,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47506000,
+                "eval_count": 208,
+                "eval_duration": 9132202000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) and Alex Williams (Resume 4) have significant back-end experience. However, among the top contenders, Alex Williams stands out with more extensive back-end experience.\n\nHere are some key indicators of his back-end expertise:\n\n* He has worked as a Full-Stack Developer at Innovatech, where he developed full-stack web applications using Node.js and managed cloud infrastructure on AWS.\n* His previous role as Software Engineer at Tech Innovations also involved building APIs and microservices in Node.js and Express.\n\nWhile John Smith (Resume 2) also has significant back-end experience, his roles have been more focused on RESTful APIs and database management.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:18:40.61792Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) and Alex Williams (Resume 4) have significant back-end experience. However, among the top contenders, Alex Williams stands out with more extensive back-end experience.\n\nHere are some key indicators of his back-end expertise:\n\n* He has worked as a Full-Stack Developer at Innovatech, where he developed full-stack web applications using Node.js and managed cloud infrastructure on AWS.\n* His previous role as Software Engineer at Tech Innovations also involved building APIs and microservices in Node.js and Express.\n\nWhile John Smith (Resume 2) also has significant back-end experience, his roles have been more focused on RESTful APIs and database management."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6248565500,
+                "load_duration": 14718292,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47553000,
+                "eval_count": 142,
+                "eval_duration": 6184528000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience. He has been working as a Back-End Developer for TechCorp Solutions since April 2020 and has experience with languages like Python, Java, and databases like PostgreSQL and MongoDB.\n\nIn particular:\n\n* As a Back-End Developer at TechCorp Solutions, he designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot).\n* He managed and optimized databases for high-performance applications.\n* He integrated third-party services and APIs to ensure secure data exchange between systems.\n* In his previous role as Software Engineer at NextGen Software, he developed and maintained microservices architecture using Java and Docker.\n\nHis skills also reflect a strong focus on back-end development, with experience in frameworks like Django, Flask, and Spring Boot, as well as databases like PostgreSQL and MongoDB.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:18:48.501118Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience. He has been working as a Back-End Developer for TechCorp Solutions since April 2020 and has experience with languages like Python, Java, and databases like PostgreSQL and MongoDB.\n\nIn particular:\n\n* As a Back-End Developer at TechCorp Solutions, he designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot).\n* He managed and optimized databases for high-performance applications.\n* He integrated third-party services and APIs to ensure secure data exchange between systems.\n* In his previous role as Software Engineer at NextGen Software, he developed and maintained microservices architecture using Java and Docker.\n\nHis skills also reflect a strong focus on back-end development, with experience in frameworks like Django, Flask, and Spring Boot, as well as databases like PostgreSQL and MongoDB."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7878692875,
+                "load_duration": 14322250,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47452000,
+                "eval_count": 179,
+                "eval_duration": 7815836000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience.\n\nAs a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot), managed and optimized databases (PostgreSQL, MongoDB), integrated third-party services and APIs, and collaborated with front-end developers to define and implement API contracts.\n\nAdditionally, his previous role as a Software Engineer at NextGen Software (August 2018 \u2013 March 2020) involved developing and maintaining microservices architecture using Java and Docker, implementing authentication and authorization mechanisms using OAuth2 and JWT, and conducting code reviews and providing mentorship to junior developers.\n\nWhile other candidates may have some back-end experience, John Smith's resume suggests the most extensive and relevant experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:18:56.251061Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience.\n\nAs a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), he designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot), managed and optimized databases (PostgreSQL, MongoDB), integrated third-party services and APIs, and collaborated with front-end developers to define and implement API contracts.\n\nAdditionally, his previous role as a Software Engineer at NextGen Software (August 2018 \u2013 March 2020) involved developing and maintaining microservices architecture using Java and Docker, implementing authentication and authorization mechanisms using OAuth2 and JWT, and conducting code reviews and providing mentorship to junior developers.\n\nWhile other candidates may have some back-end experience, John Smith's resume suggests the most extensive and relevant experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7745427333,
+                "load_duration": 14492083,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 46731000,
+                "eval_count": 176,
+                "eval_duration": 7682530000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 3: Sarah Johnson** (Machine Learning Engineer) and **Resume 2: John Smith** (Back-End Developer) seem to have a significant amount of back-end experience.\n\nHowever, if we compare them, **John Smith's** experience is more focused on traditional back-end development with technologies like Python, Java, PostgreSQL, MongoDB, etc. He has worked as a Back-End Developer for TechCorp Solutions and as a Software Engineer at NextGen Software, where he developed and maintained microservices architecture using Java and Docker.\n\nIn contrast, **Sarah Johnson's** experience is more focused on machine learning and data science with technologies like Python, TensorFlow, Spark, etc. While she does have some back-end experience, her primary focus has been on applying machine learning techniques to solve real-world business problems.\n\nTherefore, based on the provided information, I would say that **John Smith (Resume 2)** has the most traditional back-end development experience among the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:19:05.257937Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 3: Sarah Johnson** (Machine Learning Engineer) and **Resume 2: John Smith** (Back-End Developer) seem to have a significant amount of back-end experience.\n\nHowever, if we compare them, **John Smith's** experience is more focused on traditional back-end development with technologies like Python, Java, PostgreSQL, MongoDB, etc. He has worked as a Back-End Developer for TechCorp Solutions and as a Software Engineer at NextGen Software, where he developed and maintained microservices architecture using Java and Docker.\n\nIn contrast, **Sarah Johnson's** experience is more focused on machine learning and data science with technologies like Python, TensorFlow, Spark, etc. While she does have some back-end experience, her primary focus has been on applying machine learning techniques to solve real-world business problems.\n\nTherefore, based on the provided information, I would say that **John Smith (Resume 2)** has the most traditional back-end development experience among the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9002554583,
+                "load_duration": 14206291,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47410000,
+                "eval_count": 204,
+                "eval_duration": 8939889000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 3: John Smith** appears to have the most back-end experience.\n\nHere are some key points from his resume that indicate extensive back-end experience:\n\n* He has worked as a Back-End Developer at TechCorp Solutions for over 2 years.\n* His responsibilities include designing and implementing RESTful APIs using Python (Django, Flask) and Java (Spring Boot), which is primarily a back-end task.\n* He has also managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications, indicating experience with database administration.\n\nWhile other candidates may have some back-end experience, John Smith's resume suggests that he has the most significant amount of experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:19:11.59102Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 3: John Smith** appears to have the most back-end experience.\n\nHere are some key points from his resume that indicate extensive back-end experience:\n\n* He has worked as a Back-End Developer at TechCorp Solutions for over 2 years.\n* His responsibilities include designing and implementing RESTful APIs using Python (Django, Flask) and Java (Spring Boot), which is primarily a back-end task.\n* He has also managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications, indicating experience with database administration.\n\nWhile other candidates may have some back-end experience, John Smith's resume suggests that he has the most significant amount of experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6328670416,
+                "load_duration": 14859625,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 46986000,
+                "eval_count": 144,
+                "eval_duration": 6265707000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that John Smith (Resume 2) has the most back-end experience.\n\nHere are some indicators of his extensive back-end experience:\n\n* His job title is \"Back-End Developer\", which suggests a primary focus on server-side development.\n* He has experience with multiple programming languages (Python, Java), frameworks (Django, Flask, Spring Boot), and databases (PostgreSQL, MongoDB).\n* He has implemented authentication and authorization mechanisms using OAuth2 and JWT, suggesting a strong understanding of security best practices for back-end systems.\n* His work involves designing and implementing RESTful APIs, managing databases, and integrating third-party services, which are all critical aspects of back-end development.\n\nIn comparison to the other candidates, John Smith's resume suggests that he has a stronger focus on back-end development, with a broader range of skills and experiences in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:19:19.514885Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that John Smith (Resume 2) has the most back-end experience.\n\nHere are some indicators of his extensive back-end experience:\n\n* His job title is \"Back-End Developer\", which suggests a primary focus on server-side development.\n* He has experience with multiple programming languages (Python, Java), frameworks (Django, Flask, Spring Boot), and databases (PostgreSQL, MongoDB).\n* He has implemented authentication and authorization mechanisms using OAuth2 and JWT, suggesting a strong understanding of security best practices for back-end systems.\n* His work involves designing and implementing RESTful APIs, managing databases, and integrating third-party services, which are all critical aspects of back-end development.\n\nIn comparison to the other candidates, John Smith's resume suggests that he has a stronger focus on back-end development, with a broader range of skills and experiences in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7919868833,
+                "load_duration": 14367125,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47711000,
+                "eval_count": 180,
+                "eval_duration": 7856520000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience.\n\nHere are some indicators of his extensive back-end experience:\n\n* He has worked as a Back-End Developer at TechCorp Solutions for over 3 years, designing and implementing RESTful APIs using Python and Java.\n* His experience includes managing and optimizing databases for high-performance applications, integrating third-party services and APIs, and collaborating with front-end developers to define API contracts.\n* His skillset is heavily focused on back-end development technologies such as Python, Java, Django, Flask, Spring Boot, PostgreSQL, MongoDB, Docker, and Kubernetes.\n\nWhile other candidates may have some experience with back-end development, John Smith's extensive experience and specialized skills make him the strongest candidate for a back-end development position.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:19:26.655309Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience.\n\nHere are some indicators of his extensive back-end experience:\n\n* He has worked as a Back-End Developer at TechCorp Solutions for over 3 years, designing and implementing RESTful APIs using Python and Java.\n* His experience includes managing and optimizing databases for high-performance applications, integrating third-party services and APIs, and collaborating with front-end developers to define API contracts.\n* His skillset is heavily focused on back-end development technologies such as Python, Java, Django, Flask, Spring Boot, PostgreSQL, MongoDB, Docker, and Kubernetes.\n\nWhile other candidates may have some experience with back-end development, John Smith's extensive experience and specialized skills make him the strongest candidate for a back-end development position."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7136131500,
+                "load_duration": 14356666,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47301000,
+                "eval_count": 162,
+                "eval_duration": 7073352000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes:\n\nResume 1 (Jane Doe) is primarily a Front-End Developer with some experience using React and Redux.\n\nResume 2 (John Smith) has extensive Back-End experience, particularly in Python, Java, Django, Flask, Spring Boot, PostgreSQL, MongoDB, and Docker. He worked as a Back-End Developer and Software Engineer for several companies.\n\nResume 3 (Sarah Johnson), although labeled a Machine Learning Engineer, does not have significant back-end development experience according to the provided information.\n\nResume 4 (Alex Williams) is a Full-Stack Developer with both front-end and back-end experience using React, Node.js, Express, and AWS. However, his back-end experience is more focused on cloud infrastructure management than traditional back-end development.\n\nResume 5 (Emily Brown) is primarily a Software Engineer with experience in C#, .NET, SQL, and Agile project management, but her background doesn't lean heavily towards traditional back-end development.\n\nConsidering the provided information, Resume 2 (John Smith) has the most Back-End experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:19:36.259539Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes:\n\nResume 1 (Jane Doe) is primarily a Front-End Developer with some experience using React and Redux.\n\nResume 2 (John Smith) has extensive Back-End experience, particularly in Python, Java, Django, Flask, Spring Boot, PostgreSQL, MongoDB, and Docker. He worked as a Back-End Developer and Software Engineer for several companies.\n\nResume 3 (Sarah Johnson), although labeled a Machine Learning Engineer, does not have significant back-end development experience according to the provided information.\n\nResume 4 (Alex Williams) is a Full-Stack Developer with both front-end and back-end experience using React, Node.js, Express, and AWS. However, his back-end experience is more focused on cloud infrastructure management than traditional back-end development.\n\nResume 5 (Emily Brown) is primarily a Software Engineer with experience in C#, .NET, SQL, and Agile project management, but her background doesn't lean heavily towards traditional back-end development.\n\nConsidering the provided information, Resume 2 (John Smith) has the most Back-End experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9600943166,
+                "load_duration": 14678500,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 46450000,
+                "eval_count": 217,
+                "eval_duration": 9538532000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 3: Sarah Johnson** is not a good fit for this question as she is a Machine Learning Engineer.\n\nThe candidate with the most back-end experience is actually **Resume 2: John Smith**, who is a Skilled Back-End Developer with 5 years of experience in designing and maintaining scalable server-side applications. He has expertise in Python, Java, and databases like PostgreSQL and MongoDB.\n\nHowever, if we consider Resume 4: Alex Williams, he also has significant back-end experience as a Full-Stack Developer, having developed full-stack web applications using React, Node.js, and Express, managed cloud infrastructure on AWS, and implemented CI/CD pipelines using Jenkins and Docker. \n\nSo, while John Smith has more traditional back-end experience, both John and Alex have substantial back-end expertise in their respective roles.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:19:43.887051Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 3: Sarah Johnson** is not a good fit for this question as she is a Machine Learning Engineer.\n\nThe candidate with the most back-end experience is actually **Resume 2: John Smith**, who is a Skilled Back-End Developer with 5 years of experience in designing and maintaining scalable server-side applications. He has expertise in Python, Java, and databases like PostgreSQL and MongoDB.\n\nHowever, if we consider Resume 4: Alex Williams, he also has significant back-end experience as a Full-Stack Developer, having developed full-stack web applications using React, Node.js, and Express, managed cloud infrastructure on AWS, and implemented CI/CD pipelines using Jenkins and Docker. \n\nSo, while John Smith has more traditional back-end experience, both John and Alex have substantial back-end expertise in their respective roles."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7623906209,
+                "load_duration": 14478042,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47534000,
+                "eval_count": 173,
+                "eval_duration": 7560987000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere are some indicators of his extensive back-end experience:\n\n* His job title is \"Back-End Developer\".\n* He has experience with multiple programming languages: Python, Java, and SQL.\n* He is proficient in various frameworks: Django, Flask, Spring Boot.\n* He has experience with databases: PostgreSQL, MongoDB, MySQL.\n* He has worked on projects that involve designing and implementing RESTful APIs, managing and optimizing databases for high-performance applications, integrating third-party services and APIs, and collaborating with front-end developers to define and implement API contracts.\n\nWhile other candidates may have some back-end experience, John Smith's resume suggests that he has the most comprehensive and extensive experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:19:50.884313Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere are some indicators of his extensive back-end experience:\n\n* His job title is \"Back-End Developer\".\n* He has experience with multiple programming languages: Python, Java, and SQL.\n* He is proficient in various frameworks: Django, Flask, Spring Boot.\n* He has experience with databases: PostgreSQL, MongoDB, MySQL.\n* He has worked on projects that involve designing and implementing RESTful APIs, managing and optimizing databases for high-performance applications, integrating third-party services and APIs, and collaborating with front-end developers to define and implement API contracts.\n\nWhile other candidates may have some back-end experience, John Smith's resume suggests that he has the most comprehensive and extensive experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6992680750,
+                "load_duration": 15021833,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 46884000,
+                "eval_count": 159,
+                "eval_duration": 6929660000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) and Sarah Johnson (Resume 3) are both skilled back-end developers. However, John Smith has more extensive back-end experience.\n\nHere's a brief summary of their back-end experience:\n\n**John Smith**\n\n* Back-End Developer at TechCorp Solutions from April 2020 to Present\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software from August 2018 to March 2020\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\n**Sarah Johnson**\n\n* Machine Learning Engineer at Data Insights Corp from March 2020 to Present (Note: While this role is focused on machine learning, it also involves deploying models in production environments, which requires some back-end experience)\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems\n\nHowever, John Smith's resume clearly highlights more extensive back-end experience, including developing and maintaining microservices architecture, optimizing databases, and implementing authentication mechanisms. Therefore, I would say that **John Smith (Resume 2)** has the most back-end experience among the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:20:04.69712Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) and Sarah Johnson (Resume 3) are both skilled back-end developers. However, John Smith has more extensive back-end experience.\n\nHere's a brief summary of their back-end experience:\n\n**John Smith**\n\n* Back-End Developer at TechCorp Solutions from April 2020 to Present\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software from August 2018 to March 2020\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\n**Sarah Johnson**\n\n* Machine Learning Engineer at Data Insights Corp from March 2020 to Present (Note: While this role is focused on machine learning, it also involves deploying models in production environments, which requires some back-end experience)\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems\n\nHowever, John Smith's resume clearly highlights more extensive back-end experience, including developing and maintaining microservices architecture, optimizing databases, and implementing authentication mechanisms. Therefore, I would say that **John Smith (Resume 2)** has the most back-end experience among the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 13808510583,
+                "load_duration": 14723625,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47319000,
+                "eval_count": 310,
+                "eval_duration": 13745009000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Resume 3: Sarah Johnson (Machine Learning Engineer)** is not the correct answer as she is a Machine Learning Engineer with more front-end and data science experience.\n\n**Resume 1: Jane Doe (Front-End Developer)** is also not the correct answer as she is a Front-End Developer with little to no back-end experience.\n\nHowever, **Resume 2: John Smith (Back-End Developer)** has the most back-end experience among all candidates. He has worked extensively on designing and maintaining scalable server-side applications using Python, Java, and databases like PostgreSQL and MongoDB. His skills also include working with microservices architecture, authentication and authorization mechanisms, and database management.\n\nHowever, another candidate who could be considered is **Resume 5: Emily Brown (Software Engineer)**. While she is a Software Engineer with experience in C#, .NET, and SQL, her role is more of an Enterprise Software Engineer rather than just Back-end Developer. She has managed teams, worked on project requirements, and developed enterprise-level applications.\n\nHowever, the most back-end experienced candidate among all would be **Resume 2: John Smith (Back-End Developer)**.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:20:15.34431Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Resume 3: Sarah Johnson (Machine Learning Engineer)** is not the correct answer as she is a Machine Learning Engineer with more front-end and data science experience.\n\n**Resume 1: Jane Doe (Front-End Developer)** is also not the correct answer as she is a Front-End Developer with little to no back-end experience.\n\nHowever, **Resume 2: John Smith (Back-End Developer)** has the most back-end experience among all candidates. He has worked extensively on designing and maintaining scalable server-side applications using Python, Java, and databases like PostgreSQL and MongoDB. His skills also include working with microservices architecture, authentication and authorization mechanisms, and database management.\n\nHowever, another candidate who could be considered is **Resume 5: Emily Brown (Software Engineer)**. While she is a Software Engineer with experience in C#, .NET, and SQL, her role is more of an Enterprise Software Engineer rather than just Back-end Developer. She has managed teams, worked on project requirements, and developed enterprise-level applications.\n\nHowever, the most back-end experienced candidate among all would be **Resume 2: John Smith (Back-End Developer)**."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 10643198584,
+                "load_duration": 15382000,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48606000,
+                "eval_count": 239,
+                "eval_duration": 10578197000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience.\n\nHere are some highlights from his resume:\n\n* He worked as a Back-End Developer at TechCorp Solutions for 3 years, where he:\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs to ensure secure data exchange between systems\n* He previously worked as a Software Engineer at NextGen Software, where he:\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith's experience in back-end development is extensive, with over 5 years of experience in designing and maintaining scalable server-side applications. His skills include Python, Java, databases like PostgreSQL and MongoDB, and various frameworks and tools such as Django, Flask, Spring Boot, Docker, Git, Jenkins, and Kubernetes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:20:24.651494Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience.\n\nHere are some highlights from his resume:\n\n* He worked as a Back-End Developer at TechCorp Solutions for 3 years, where he:\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs to ensure secure data exchange between systems\n* He previously worked as a Software Engineer at NextGen Software, where he:\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith's experience in back-end development is extensive, with over 5 years of experience in designing and maintaining scalable server-side applications. His skills include Python, Java, databases like PostgreSQL and MongoDB, and various frameworks and tools such as Django, Flask, Spring Boot, Docker, Git, Jenkins, and Kubernetes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9301239917,
+                "load_duration": 15416625,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47443000,
+                "eval_count": 212,
+                "eval_duration": 9236741000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **John Smith (Resume 2)** and **Alex Williams (Resume 4)** both have significant back-end experience. However, if I had to choose one candidate with the most back-end experience, it would be **John Smith**.\n\nHere's why:\n\n* John Smith has a longer tenure as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), which suggests that he has been working on more complex and challenging projects over time.\n* His experience includes designing and implementing RESTful APIs using Python, Java, and various frameworks, managing and optimizing databases for high-performance applications, and integrating third-party services and APIs.\n* He also has a strong background in software engineering, with experience developing and maintaining microservices architecture using Java and Docker.\n\nWhile Alex Williams (Resume 4) is an experienced Full-Stack Developer, his back-end experience seems to be more focused on cloud infrastructure management, CI/CD pipelines, and front-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:20:33.462094Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **John Smith (Resume 2)** and **Alex Williams (Resume 4)** both have significant back-end experience. However, if I had to choose one candidate with the most back-end experience, it would be **John Smith**.\n\nHere's why:\n\n* John Smith has a longer tenure as a Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present), which suggests that he has been working on more complex and challenging projects over time.\n* His experience includes designing and implementing RESTful APIs using Python, Java, and various frameworks, managing and optimizing databases for high-performance applications, and integrating third-party services and APIs.\n* He also has a strong background in software engineering, with experience developing and maintaining microservices architecture using Java and Docker.\n\nWhile Alex Williams (Resume 4) is an experienced Full-Stack Developer, his back-end experience seems to be more focused on cloud infrastructure management, CI/CD pipelines, and front-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8806101750,
+                "load_duration": 14725125,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47188000,
+                "eval_count": 200,
+                "eval_duration": 8743183000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that **Resume 3: Sarah Johnson** does not have more back-end experience than the others. \n\nHowever, if we consider Resume 1, 2, and 4 as well (Full-Stack Developers), then:\n\n* Resume 1: Jane Doe has significant front-end development experience but less emphasis on back-end.\n* Resume 2: John Smith has notable back-end development experience with expertise in Python, Java, and databases like PostgreSQL and MongoDB. He also worked on RESTful APIs and managed databases for high-performance applications.\n* Resume 4: Alex Williams worked as a Full-Stack Developer where he developed full-stack web applications using React, Node.js, and Express.\n\nConsidering these resumes, **Resume 2: John Smith** has the most back-end development experience with notable skills in Python, Java, and database management.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:20:41.337724Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that **Resume 3: Sarah Johnson** does not have more back-end experience than the others. \n\nHowever, if we consider Resume 1, 2, and 4 as well (Full-Stack Developers), then:\n\n* Resume 1: Jane Doe has significant front-end development experience but less emphasis on back-end.\n* Resume 2: John Smith has notable back-end development experience with expertise in Python, Java, and databases like PostgreSQL and MongoDB. He also worked on RESTful APIs and managed databases for high-performance applications.\n* Resume 4: Alex Williams worked as a Full-Stack Developer where he developed full-stack web applications using React, Node.js, and Express.\n\nConsidering these resumes, **Resume 2: John Smith** has the most back-end development experience with notable skills in Python, Java, and database management."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7871577167,
+                "load_duration": 15137417,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47178000,
+                "eval_count": 179,
+                "eval_duration": 7808279000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere are some points that suggest this:\n\n* He lists his current role as Back-End Developer at TechCorp Solutions.\n* His previous role was also in back-end development at NextGen Software, where he developed and maintained microservices architecture using Java and Docker.\n* His skills section mentions a strong focus on back-end technologies such as Python, Java, and databases like PostgreSQL and MongoDB.\n\nIn comparison, the other candidates have more front-end or full-stack experience:\n\n* John Smith (Resume 1) has some back-end experience, but his primary role is Front-End Developer.\n* Alex Williams (Resume 4) has a mix of front-end and back-end experience, with a focus on Full-Stack Development.\n* Emily Brown (Resume 5) also has a mix of front-end and back-end experience, with a background in project management and business analysis.\n\nTherefore, John Smith (Resume 2) is the candidate with the most back-end experience.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:20:50.785367Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere are some points that suggest this:\n\n* He lists his current role as Back-End Developer at TechCorp Solutions.\n* His previous role was also in back-end development at NextGen Software, where he developed and maintained microservices architecture using Java and Docker.\n* His skills section mentions a strong focus on back-end technologies such as Python, Java, and databases like PostgreSQL and MongoDB.\n\nIn comparison, the other candidates have more front-end or full-stack experience:\n\n* John Smith (Resume 1) has some back-end experience, but his primary role is Front-End Developer.\n* Alex Williams (Resume 4) has a mix of front-end and back-end experience, with a focus on Full-Stack Development.\n* Emily Brown (Resume 5) also has a mix of front-end and back-end experience, with a background in project management and business analysis.\n\nTherefore, John Smith (Resume 2) is the candidate with the most back-end experience."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9443499000,
+                "load_duration": 14539750,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47921000,
+                "eval_count": 214,
+                "eval_duration": 9379443000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience. His work experience includes:\n\n* Back-End Developer at TechCorp Solutions (April 2020 - Present), where he designed and implemented RESTful APIs using Python and Java.\n* Software Engineer at NextGen Software (August 2018 - March 2020), where he developed and maintained microservices architecture using Java and Docker.\n\nJohn's skills also reflect a strong focus on back-end development, including expertise in languages like Python and Java, frameworks such as Django and Spring Boot, and databases like PostgreSQL and MongoDB.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:20:56.288887Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience. His work experience includes:\n\n* Back-End Developer at TechCorp Solutions (April 2020 - Present), where he designed and implemented RESTful APIs using Python and Java.\n* Software Engineer at NextGen Software (August 2018 - March 2020), where he developed and maintained microservices architecture using Java and Docker.\n\nJohn's skills also reflect a strong focus on back-end development, including expertise in languages like Python and Java, frameworks such as Django and Spring Boot, and databases like PostgreSQL and MongoDB."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5502030250,
+                "load_duration": 15234959,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47269000,
+                "eval_count": 126,
+                "eval_duration": 5438415000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) and Alex Williams (Resume 4) both have significant back-end experience. However, if I had to pick one candidate with the most back-end experience, it would be Alex Williams.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech, where he developed full-stack web applications using React, Node.js, and Express, managed cloud infrastructure on AWS, and implemented CI/CD pipelines.\n* As Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express.\n* His skills section lists a wide range of back-end technologies, including languages (JavaScript, TypeScript), frameworks/libraries (Node.js, Express), databases (MySQL, MongoDB), and tools (AWS, Docker).\n\nWhile John Smith also has significant back-end experience, his focus seems to be on designing and maintaining scalable server-side applications using Python, Java, and databases like PostgreSQL and MongoDB.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:21:05.355632Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) and Alex Williams (Resume 4) both have significant back-end experience. However, if I had to pick one candidate with the most back-end experience, it would be Alex Williams.\n\nHere's why:\n\n* He has worked as a Full-Stack Developer at Innovatech, where he developed full-stack web applications using React, Node.js, and Express, managed cloud infrastructure on AWS, and implemented CI/CD pipelines.\n* As Software Engineer at Tech Innovations, he built and maintained APIs and microservices in Node.js and Express.\n* His skills section lists a wide range of back-end technologies, including languages (JavaScript, TypeScript), frameworks/libraries (Node.js, Express), databases (MySQL, MongoDB), and tools (AWS, Docker).\n\nWhile John Smith also has significant back-end experience, his focus seems to be on designing and maintaining scalable server-side applications using Python, Java, and databases like PostgreSQL and MongoDB."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9062332541,
+                "load_duration": 14315458,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47297000,
+                "eval_count": 199,
+                "eval_duration": 8999155000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience.\n\nHere's a breakdown of his relevant experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn's experience shows a strong focus on back-end development, with proficiency in languages like Python, Java, and SQL, as well as frameworks like Django, Flask, and Spring Boot. His skills also include database management (PostgreSQL, MongoDB), API integration, and security measures (OAuth2, JWT).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:21:14.63505Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience.\n\nHere's a breakdown of his relevant experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn's experience shows a strong focus on back-end development, with proficiency in languages like Python, Java, and SQL, as well as frameworks like Django, Flask, and Spring Boot. His skills also include database management (PostgreSQL, MongoDB), API integration, and security measures (OAuth2, JWT)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9277859375,
+                "load_duration": 14539709,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 50211000,
+                "eval_count": 209,
+                "eval_duration": 9212052000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience. Here's why:\n\n* He has a background in Python and Java, with experience designing and implementing RESTful APIs using these languages.\n* He has also worked with databases like PostgreSQL and MongoDB, managing and optimizing them for high-performance applications.\n* Additionally, he has developed and maintained microservices architecture using Java and Docker, improving system scalability and resilience.\n\nWhile other candidates may have some back-end experience, John Smith's breadth and depth of experience in this area make him the most qualified candidate with regards to back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:21:20.2661Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) appears to have the most back-end experience. Here's why:\n\n* He has a background in Python and Java, with experience designing and implementing RESTful APIs using these languages.\n* He has also worked with databases like PostgreSQL and MongoDB, managing and optimizing them for high-performance applications.\n* Additionally, he has developed and maintained microservices architecture using Java and Docker, improving system scalability and resilience.\n\nWhile other candidates may have some back-end experience, John Smith's breadth and depth of experience in this area make him the most qualified candidate with regards to back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5629711625,
+                "load_duration": 15774833,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48209000,
+                "eval_count": 126,
+                "eval_duration": 5564638000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere are some key points that demonstrate his extensive experience in back-end development:\n\n* He worked as a Back-End Developer at TechCorp Solutions from April 2020 to Present.\n* In this role, he designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot).\n* He managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications, improving query efficiency by 40%.\n* He integrated third-party services and APIs, ensuring secure data exchange between systems.\n* He also worked as a Software Engineer at NextGen Software from August 2018 to March 2020, where he developed and maintained microservices architecture using Java and Docker.\n\nIn contrast, the other candidates have some back-end experience, but it is not as extensive as John Smith's:\n\n* Alex Williams (Resume 4) has experience with Node.js, Express, and AWS, which are all back-end technologies.\n* Emily Brown (Resume 5) has experience with C#, .NET, and SQL Server, which are also back-end technologies. However, her primary role was that of a Software Engineer, rather than a dedicated Back-End Developer.\n* Jane Doe (Resume 1) is primarily a Front-End Developer, but she does have some experience with Node.js and Express.\n* Sarah Johnson (Resume 3) is a Machine Learning Engineer, and while she may use back-end technologies like Python and TensorFlow in her work, it is not the primary focus of her role.\n\nOverall, based on the information provided, John Smith has the most extensive back-end experience among the candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:21:35.743422Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere are some key points that demonstrate his extensive experience in back-end development:\n\n* He worked as a Back-End Developer at TechCorp Solutions from April 2020 to Present.\n* In this role, he designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot).\n* He managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications, improving query efficiency by 40%.\n* He integrated third-party services and APIs, ensuring secure data exchange between systems.\n* He also worked as a Software Engineer at NextGen Software from August 2018 to March 2020, where he developed and maintained microservices architecture using Java and Docker.\n\nIn contrast, the other candidates have some back-end experience, but it is not as extensive as John Smith's:\n\n* Alex Williams (Resume 4) has experience with Node.js, Express, and AWS, which are all back-end technologies.\n* Emily Brown (Resume 5) has experience with C#, .NET, and SQL Server, which are also back-end technologies. However, her primary role was that of a Software Engineer, rather than a dedicated Back-End Developer.\n* Jane Doe (Resume 1) is primarily a Front-End Developer, but she does have some experience with Node.js and Express.\n* Sarah Johnson (Resume 3) is a Machine Learning Engineer, and while she may use back-end technologies like Python and TensorFlow in her work, it is not the primary focus of her role.\n\nOverall, based on the information provided, John Smith has the most extensive back-end experience among the candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 15475780625,
+                "load_duration": 14823708,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48058000,
+                "eval_count": 345,
+                "eval_duration": 15411468000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **John Smith (Resume 2)** has the most back-end experience.\n\nHe has worked as a Back-End Developer at TechCorp Solutions since April 2020 and previously as a Software Engineer at NextGen Software from August 2018 to March 2020. His experience includes:\n\n* Designing and implementing RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n* Managing and optimizing databases (PostgreSQL, MongoDB) for high-performance applications\n* Integrating third-party services and APIs\n* Implementing authentication and authorization mechanisms\n\nIn contrast, while other candidates have back-end experience, John Smith's resume indicates a more extensive background in back-end development.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:21:42.20282Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **John Smith (Resume 2)** has the most back-end experience.\n\nHe has worked as a Back-End Developer at TechCorp Solutions since April 2020 and previously as a Software Engineer at NextGen Software from August 2018 to March 2020. His experience includes:\n\n* Designing and implementing RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n* Managing and optimizing databases (PostgreSQL, MongoDB) for high-performance applications\n* Integrating third-party services and APIs\n* Implementing authentication and authorization mechanisms\n\nIn contrast, while other candidates have back-end experience, John Smith's resume indicates a more extensive background in back-end development."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6457748459,
+                "load_duration": 14176875,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47677000,
+                "eval_count": 145,
+                "eval_duration": 6394943000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, John Smith (Resume 2) appears to have the most back-end experience with:\n\n* A strong background in designing and maintaining scalable server-side applications.\n* Expertise in Python, Java, and databases like PostgreSQL and MongoDB.\n* Experience in designing and implementing RESTful APIs using Python (Django, Flask) and Java (Spring Boot).\n* Management and optimization of databases for high-performance applications.\n* Integration of third-party services and APIs.\n\nWhile other candidates may have some back-end experience as well, John Smith's overall profile suggests that he has the most extensive and in-depth experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:21:47.835049Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, John Smith (Resume 2) appears to have the most back-end experience with:\n\n* A strong background in designing and maintaining scalable server-side applications.\n* Expertise in Python, Java, and databases like PostgreSQL and MongoDB.\n* Experience in designing and implementing RESTful APIs using Python (Django, Flask) and Java (Spring Boot).\n* Management and optimization of databases for high-performance applications.\n* Integration of third-party services and APIs.\n\nWhile other candidates may have some back-end experience as well, John Smith's overall profile suggests that he has the most extensive and in-depth experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5630737791,
+                "load_duration": 14780833,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48058000,
+                "eval_count": 127,
+                "eval_duration": 5566502000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) and Alex Williams (Resume 4) both have back-end development experience. However, if we're looking for the candidate with the most back-end experience, I would say that John Smith is the clear winner.\n\nHere's why:\n\n* John Smith has listed \"Back-End Developer\" as his primary job title on Resume 2.\n* He has worked as a Back-End Developer at two different companies: TechCorp Solutions and NextGen Software. In both roles, he has focused on designing and implementing scalable server-side applications using Python, Java, and databases like PostgreSQL and MongoDB.\n* His experience in developing RESTful APIs, managing and optimizing databases, integrating third-party services, and collaborating with front-end developers suggests a deep understanding of back-end development principles.\n* He also has skills listed under \"Frameworks\" that are primarily back-end focused (e.g., Django, Flask, Spring Boot).\n\nIn contrast, while Alex Williams does have experience as a Full-Stack Developer, his resume (Resume 4) lists more front-end-related technologies and experiences. While he does have some back-end experience, I wouldn't say it's as extensive or primary to his work as John Smith's is.\n\nSo, based on this analysis, I would conclude that John Smith has the most back-end development experience among these candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:22:00.185485Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) and Alex Williams (Resume 4) both have back-end development experience. However, if we're looking for the candidate with the most back-end experience, I would say that John Smith is the clear winner.\n\nHere's why:\n\n* John Smith has listed \"Back-End Developer\" as his primary job title on Resume 2.\n* He has worked as a Back-End Developer at two different companies: TechCorp Solutions and NextGen Software. In both roles, he has focused on designing and implementing scalable server-side applications using Python, Java, and databases like PostgreSQL and MongoDB.\n* His experience in developing RESTful APIs, managing and optimizing databases, integrating third-party services, and collaborating with front-end developers suggests a deep understanding of back-end development principles.\n* He also has skills listed under \"Frameworks\" that are primarily back-end focused (e.g., Django, Flask, Spring Boot).\n\nIn contrast, while Alex Williams does have experience as a Full-Stack Developer, his resume (Resume 4) lists more front-end-related technologies and experiences. While he does have some back-end experience, I wouldn't say it's as extensive or primary to his work as John Smith's is.\n\nSo, based on this analysis, I would conclude that John Smith has the most back-end development experience among these candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 12348054625,
+                "load_duration": 14911625,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47644000,
+                "eval_count": 277,
+                "eval_duration": 12284293000
+            }
+        }
+    ]
+}

@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.\n\nOf course, this analysis is not exhaustive, and other factors like personal fit, company culture, and specific job requirements should also be considered when making a hiring decision.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:37:41.911944Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.\n\nOf course, this analysis is not exhaustive, and other factors like personal fit, company culture, and specific job requirements should also be considered when making a hiring decision."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 12820531542,
+                "load_duration": 14531958,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 170843000,
+                "eval_count": 289,
+                "eval_duration": 12634116000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:37:53.23692Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11320130625,
+                "load_duration": 14404375,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47237000,
+                "eval_count": 256,
+                "eval_duration": 11256887000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:38:04.55902Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11319812959,
+                "load_duration": 15312792,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 49052000,
+                "eval_count": 256,
+                "eval_duration": 11254441000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:38:16.033608Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11470136416,
+                "load_duration": 15321625,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47897000,
+                "eval_count": 256,
+                "eval_duration": 11405973000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:38:27.293187Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11257288875,
+                "load_duration": 14445167,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47916000,
+                "eval_count": 256,
+                "eval_duration": 11193446000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:38:38.554673Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11256597958,
+                "load_duration": 14596541,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47374000,
+                "eval_count": 256,
+                "eval_duration": 11193537000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:38:49.787958Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11229490542,
+                "load_duration": 14485209,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47558000,
+                "eval_count": 256,
+                "eval_duration": 11166109000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:39:01.021006Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11228786166,
+                "load_duration": 14527583,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48084000,
+                "eval_count": 256,
+                "eval_duration": 11165109000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:39:12.409544Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11384167125,
+                "load_duration": 15219166,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47280000,
+                "eval_count": 256,
+                "eval_duration": 11320643000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:39:23.657451Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11243736333,
+                "load_duration": 14956583,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48059000,
+                "eval_count": 256,
+                "eval_duration": 11179178000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:39:34.954202Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11291868750,
+                "load_duration": 14926875,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47817000,
+                "eval_count": 256,
+                "eval_duration": 11228031000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:39:46.176697Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11219898250,
+                "load_duration": 14922625,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 46450000,
+                "eval_count": 256,
+                "eval_duration": 11157014000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:39:57.469616Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11288882709,
+                "load_duration": 14375500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47365000,
+                "eval_count": 256,
+                "eval_duration": 11226028000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:40:08.735637Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11262947417,
+                "load_duration": 15163333,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48170000,
+                "eval_count": 256,
+                "eval_duration": 11198608000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:40:20.076331Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11336405791,
+                "load_duration": 14424833,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47194000,
+                "eval_count": 256,
+                "eval_duration": 11273166000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:40:31.576329Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11495444833,
+                "load_duration": 14646500,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47401000,
+                "eval_count": 256,
+                "eval_duration": 11432388000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:40:43.466262Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11885556417,
+                "load_duration": 15149917,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47884000,
+                "eval_count": 256,
+                "eval_duration": 11820905000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:40:54.903721Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11434820667,
+                "load_duration": 14834375,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48047000,
+                "eval_count": 256,
+                "eval_duration": 11371007000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:41:06.287663Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11380743917,
+                "load_duration": 15523292,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47313000,
+                "eval_count": 256,
+                "eval_duration": 11316921000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:41:17.799741Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11507198584,
+                "load_duration": 14861459,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47911000,
+                "eval_count": 256,
+                "eval_duration": 11442971000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:41:30.02011Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 12217832375,
+                "load_duration": 15031417,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 50840000,
+                "eval_count": 256,
+                "eval_duration": 12150921000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:41:41.895155Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11871935959,
+                "load_duration": 15460209,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 53319000,
+                "eval_count": 256,
+                "eval_duration": 11801419000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:41:53.671936Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11774450000,
+                "load_duration": 14866458,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47029000,
+                "eval_count": 256,
+                "eval_duration": 11711423000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:42:05.068434Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11392483292,
+                "load_duration": 15380708,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 48165000,
+                "eval_count": 256,
+                "eval_duration": 11327921000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:42:16.352008Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11281556416,
+                "load_duration": 14989541,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 49935000,
+                "eval_count": 256,
+                "eval_duration": 11215185000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:42:27.600931Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11244394417,
+                "load_duration": 14981083,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47302000,
+                "eval_count": 256,
+                "eval_duration": 11181140000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:42:38.81882Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11214773542,
+                "load_duration": 14715000,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47375000,
+                "eval_count": 256,
+                "eval_duration": 11151165000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:42:50.03881Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11216038917,
+                "load_duration": 14905833,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47357000,
+                "eval_count": 256,
+                "eval_duration": 11152808000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:43:01.349068Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11305537458,
+                "load_duration": 14791666,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47961000,
+                "eval_count": 256,
+                "eval_duration": 11241800000
+            }
+        },
+        {
+            "Content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:43:12.561723Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "A subjective question!\n\nTo provide an answer, I'll analyze the resumes based on various factors such as experience, skills, achievements, and education.\n\nAfter reviewing all five resumes, I would say that **Resume 4: Alex Williams** stands out as the most impressive candidate. Here's why:\n\n1. **Relevant experience**: Alex has 5 years of experience in full-stack development, with a strong background in both front-end (React) and back-end (Node.js) technologies.\n2. **Technical skills**: His skill set is comprehensive, covering languages like JavaScript, TypeScript, HTML, CSS; frameworks/libraries such as React, Node.js, Express, Redux; databases like MySQL, MongoDB; and tools like AWS, Docker, Jenkins, Git.\n3. **Achievements**: Alex has achieved significant results in his previous roles, including reducing development time by 30%, managing cloud infrastructure on AWS with a 25% cost reduction, and implementing CI/CD pipelines using Jenkins and Docker.\n4. **Education**: He holds a B.S. in Computer Science from the University of Washington, which is a reputable institution.\n\nWhile all five candidates have impressive resumes, Alex's combination of relevant experience, technical skills, achievements, and education make him the most compelling candidate."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11208337583,
+                "load_duration": 14616166,
+                "prompt_eval_count": 1809,
+                "prompt_eval_duration": 47325000,
+                "eval_count": 256,
+                "eval_duration": 11144952000
+            }
+        }
+    ]
+}

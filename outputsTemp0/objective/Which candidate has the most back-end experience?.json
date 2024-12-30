@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:51:52.547135Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7785030417,
+                "load_duration": 14510542,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 173095000,
+                "eval_count": 174,
+                "eval_duration": 7596125000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:52:00.206467Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7654834208,
+                "load_duration": 14577708,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47939000,
+                "eval_count": 174,
+                "eval_duration": 7591070000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:52:07.860355Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7649877333,
+                "load_duration": 14599750,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47074000,
+                "eval_count": 174,
+                "eval_duration": 7586578000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:52:15.598323Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7734492750,
+                "load_duration": 14312791,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47424000,
+                "eval_count": 174,
+                "eval_duration": 7671535000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:52:23.236398Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7636550500,
+                "load_duration": 15341333,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47473000,
+                "eval_count": 174,
+                "eval_duration": 7572669000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:52:30.93653Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7698462041,
+                "load_duration": 14742083,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48596000,
+                "eval_count": 174,
+                "eval_duration": 7633570000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:52:38.811421Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7871602083,
+                "load_duration": 14698291,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47365000,
+                "eval_count": 174,
+                "eval_duration": 7808494000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:52:46.480222Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7667314917,
+                "load_duration": 15284750,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48249000,
+                "eval_count": 174,
+                "eval_duration": 7602558000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:52:54.192807Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7711154375,
+                "load_duration": 15109959,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48552000,
+                "eval_count": 174,
+                "eval_duration": 7646613000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:53:01.933909Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7739456083,
+                "load_duration": 15360083,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47327000,
+                "eval_count": 174,
+                "eval_duration": 7675691000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:53:09.801491Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7866093375,
+                "load_duration": 16530209,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47995000,
+                "eval_count": 174,
+                "eval_duration": 7799942000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:53:17.655703Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7851395375,
+                "load_duration": 14865125,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47817000,
+                "eval_count": 174,
+                "eval_duration": 7787516000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:53:25.512475Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7852020708,
+                "load_duration": 14915333,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47519000,
+                "eval_count": 174,
+                "eval_duration": 7788032000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:53:33.291855Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7775459958,
+                "load_duration": 14613625,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47712000,
+                "eval_count": 174,
+                "eval_duration": 7711750000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:53:41.111385Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7817904500,
+                "load_duration": 15035958,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47010000,
+                "eval_count": 174,
+                "eval_duration": 7754774000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:53:48.949768Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7836896584,
+                "load_duration": 14736959,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 46781000,
+                "eval_count": 174,
+                "eval_duration": 7773789000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:53:56.783844Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7832529250,
+                "load_duration": 15199708,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47284000,
+                "eval_count": 174,
+                "eval_duration": 7768937000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:54:04.456014Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7667846958,
+                "load_duration": 14475292,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 46997000,
+                "eval_count": 174,
+                "eval_duration": 7604611000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:54:12.351541Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7887305250,
+                "load_duration": 26921375,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47265000,
+                "eval_count": 174,
+                "eval_duration": 7812086000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:54:20.22036Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7865529792,
+                "load_duration": 15453334,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47814000,
+                "eval_count": 174,
+                "eval_duration": 7801275000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:54:27.910463Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7686578209,
+                "load_duration": 14823875,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 48150000,
+                "eval_count": 174,
+                "eval_duration": 7622007000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:54:35.655358Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7740722917,
+                "load_duration": 14847250,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47174000,
+                "eval_count": 174,
+                "eval_duration": 7677547000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:54:43.300256Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7640704708,
+                "load_duration": 14804083,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47306000,
+                "eval_count": 174,
+                "eval_duration": 7576923000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:54:50.963723Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7658920167,
+                "load_duration": 14464917,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47513000,
+                "eval_count": 174,
+                "eval_duration": 7595845000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:54:58.595074Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7627689500,
+                "load_duration": 15684667,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47719000,
+                "eval_count": 174,
+                "eval_duration": 7563120000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:55:06.475949Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7876749584,
+                "load_duration": 14875459,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47350000,
+                "eval_count": 174,
+                "eval_duration": 7812811000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:55:14.106945Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7627086458,
+                "load_duration": 14926292,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47219000,
+                "eval_count": 174,
+                "eval_duration": 7563910000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:55:21.843545Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7733209167,
+                "load_duration": 14682667,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47374000,
+                "eval_count": 174,
+                "eval_duration": 7669649000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:55:29.53279Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7685078917,
+                "load_duration": 14583542,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47660000,
+                "eval_count": 174,
+                "eval_duration": 7621697000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:55:37.362466Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) has the most back-end experience.\n\nHere's a breakdown of his experience:\n\n* Back-End Developer at TechCorp Solutions (April 2020 \u2013 Present):\n\t+ Designed and implemented RESTful APIs using Python (Django, Flask) and Java (Spring Boot)\n\t+ Managed and optimized databases (PostgreSQL, MongoDB) for high-performance applications\n\t+ Integrated third-party services and APIs, ensuring secure data exchange between systems\n* Software Engineer at NextGen Software (August 2018 \u2013 March 2020):\n\t+ Developed and maintained microservices architecture using Java and Docker\n\t+ Implemented authentication and authorization mechanisms using OAuth2 and JWT\n\nJohn Smith has a total of 7 years of experience in back-end development, with a strong focus on designing and implementing scalable server-side applications."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7827018958,
+                "load_duration": 14998958,
+                "prompt_eval_count": 1812,
+                "prompt_eval_duration": 47757000,
+                "eval_count": 174,
+                "eval_duration": 7763248000
+            }
+        }
+    ]
+}

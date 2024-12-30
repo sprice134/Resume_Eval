@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:50:32.499401Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11573052875,
+                "load_duration": 14591292,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 235110000,
+                "eval_count": 255,
+                "eval_duration": 11322319000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:50:43.77997Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11276054208,
+                "load_duration": 14575875,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47552000,
+                "eval_count": 255,
+                "eval_duration": 11212155000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:50:54.997429Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11212664417,
+                "load_duration": 14290208,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47281000,
+                "eval_count": 255,
+                "eval_duration": 11150096000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:51:06.390055Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11388389166,
+                "load_duration": 15084833,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47123000,
+                "eval_count": 255,
+                "eval_duration": 11325122000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:51:17.794079Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11399627250,
+                "load_duration": 14744542,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47126000,
+                "eval_count": 255,
+                "eval_duration": 11336017000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:53:16.580906Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11770635791,
+                "load_duration": 14831875,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47951000,
+                "eval_count": 255,
+                "eval_duration": 118715607000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:53:27.933977Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11349732750,
+                "load_duration": 15236917,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 48112000,
+                "eval_count": 255,
+                "eval_duration": 11286367000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:53:39.281831Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11343016500,
+                "load_duration": 14886750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 48135000,
+                "eval_count": 255,
+                "eval_duration": 11279718000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:53:50.534525Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11247571834,
+                "load_duration": 15132959,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47064000,
+                "eval_count": 255,
+                "eval_duration": 11184772000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:54:01.798066Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11260392833,
+                "load_duration": 14461291,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47272000,
+                "eval_count": 255,
+                "eval_duration": 11197500000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:54:13.130899Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11328347458,
+                "load_duration": 15020375,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47308000,
+                "eval_count": 255,
+                "eval_duration": 11265098000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:54:24.389227Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11254419375,
+                "load_duration": 14539750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47505000,
+                "eval_count": 255,
+                "eval_duration": 11190855000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:54:35.727912Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11334586042,
+                "load_duration": 16151250,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47739000,
+                "eval_count": 255,
+                "eval_duration": 11269750000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:54:46.943382Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11212328916,
+                "load_duration": 15664125,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47635000,
+                "eval_count": 255,
+                "eval_duration": 11148025000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:54:58.195528Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11246304834,
+                "load_duration": 14752375,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47530000,
+                "eval_count": 255,
+                "eval_duration": 11182548000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:55:09.470741Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11270714250,
+                "load_duration": 14458625,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47329000,
+                "eval_count": 255,
+                "eval_duration": 11207856000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:55:20.762445Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11287462291,
+                "load_duration": 14525125,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47179000,
+                "eval_count": 255,
+                "eval_duration": 11224071000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:55:32.175115Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11408417459,
+                "load_duration": 14754250,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47548000,
+                "eval_count": 255,
+                "eval_duration": 11345123000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:55:43.675187Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11497737375,
+                "load_duration": 15369084,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 48328000,
+                "eval_count": 255,
+                "eval_duration": 11432767000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:55:54.975629Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11296881708,
+                "load_duration": 14637542,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47163000,
+                "eval_count": 255,
+                "eval_duration": 11233646000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:56:06.34103Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11361363041,
+                "load_duration": 14981083,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47850000,
+                "eval_count": 255,
+                "eval_duration": 11297396000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:56:17.697715Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11352007291,
+                "load_duration": 14918416,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47495000,
+                "eval_count": 255,
+                "eval_duration": 11287987000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:56:28.965477Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11265081959,
+                "load_duration": 14819750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47191000,
+                "eval_count": 255,
+                "eval_duration": 11202023000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:56:40.322941Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11354066791,
+                "load_duration": 15165958,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47783000,
+                "eval_count": 255,
+                "eval_duration": 11290044000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:56:51.654952Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11327509500,
+                "load_duration": 14797250,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 48123000,
+                "eval_count": 255,
+                "eval_duration": 11262862000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:57:03.182307Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11523378750,
+                "load_duration": 14830458,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 48276000,
+                "eval_count": 255,
+                "eval_duration": 11459261000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:57:14.613182Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11427586750,
+                "load_duration": 14938000,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47807000,
+                "eval_count": 255,
+                "eval_duration": 11363516000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:57:26.302786Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11686288041,
+                "load_duration": 14630208,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 51321000,
+                "eval_count": 255,
+                "eval_duration": 11619284000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:57:37.852341Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11545300875,
+                "load_duration": 15022333,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 48386000,
+                "eval_count": 255,
+                "eval_duration": 11480870000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Alex",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T22:57:49.391872Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would recommend **Resume 1: Jane Doe** or **Resume 4: Alex Williams** for a software engineering role. Both candidates have:\n\n* 5 years of experience in software development\n* Strong proficiency in relevant programming languages (JavaScript, TypeScript, HTML, CSS) and frameworks/libraries (React, Node.js, Express)\n* Experience with front-end and back-end development\n* Good understanding of DevOps practices (CI/CD, AWS, Docker)\n\nHowever, if I had to choose one, I would recommend **Resume 4: Alex Williams**. Here's why:\n\n* Alex has experience in both front-end and back-end development, making them a more versatile candidate.\n* They have worked on cloud infrastructure management using AWS, which is a valuable skill for any software engineer.\n* Their experience with CI/CD pipelines using Jenkins and Docker demonstrates their understanding of DevOps practices.\n* Alex's education background (B.S. in Computer Science from the University of Washington) suggests they have a solid foundation in computer science principles.\n\nWhile Jane Doe has impressive front-end development skills, her experience is more focused on that area, and I'm not sure if she would be as comfortable with back-end development or DevOps practices."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11535234083,
+                "load_duration": 14599958,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47755000,
+                "eval_count": 255,
+                "eval_duration": 11471247000
+            }
+        }
+    ]
+}

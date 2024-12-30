@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is a dedicated Machine Learning Engineer with 5 years of experience in developing and deploying machine learning models in production environments. She has expertise in Python, TensorFlow, and data science libraries, and has applied machine learning techniques to solve real-world business problems.\n\nWhile John Smith (Resume 2) also has experience in back-end development, there is no indication that he has extensive experience in Machine Learning. Similarly, the other candidates have various skills and experiences, but none of them appear to have as much experience in Machine Learning as Sarah Johnson.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:31:40.960714Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is a dedicated Machine Learning Engineer with 5 years of experience in developing and deploying machine learning models in production environments. She has expertise in Python, TensorFlow, and data science libraries, and has applied machine learning techniques to solve real-world business problems.\n\nWhile John Smith (Resume 2) also has experience in back-end development, there is no indication that he has extensive experience in Machine Learning. Similarly, the other candidates have various skills and experiences, but none of them appear to have as much experience in Machine Learning as Sarah Johnson."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5485664833,
+                "load_duration": 14572792,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 165263000,
+                "eval_count": 120,
+                "eval_duration": 5304724000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is identified as a dedicated Machine Learning Engineer with the following experience:\n\n* Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n* Collaborated with data scientists and software engineers to integrate ML models into production systems, leading to a 25% increase in revenue.\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\nWhile other candidates (Resume 1: Jane Doe, Resume 2: John Smith) have some experience or skills related to machine learning, Sarah Johnson's resume specifically highlights her experience as a Machine Learning Engineer with the most relevant experience in this field.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:31:47.067213Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is identified as a dedicated Machine Learning Engineer with the following experience:\n\n* Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n* Collaborated with data scientists and software engineers to integrate ML models into production systems, leading to a 25% increase in revenue.\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\nWhile other candidates (Resume 1: Jane Doe, Resume 2: John Smith) have some experience or skills related to machine learning, Sarah Johnson's resume specifically highlights her experience as a Machine Learning Engineer with the most relevant experience in this field."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6102897709,
+                "load_duration": 15343125,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47951000,
+                "eval_count": 138,
+                "eval_duration": 6038642000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nHere are her relevant experiences:\n\n* **Machine Learning Engineer**, Data Insights Corp (March 2020 \u2013 Present)\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems, leading to a 25% increase in revenue.\n\t+ Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\t+ Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n\nHer experience as a **Data Scientist** at Smart Analytics (September 2018 \u2013 February 2020) also involved machine learning techniques, but her most recent role as a Machine Learning Engineer has given her more relevant and recent experience in the field.\n\nTherefore, Sarah Johnson is the candidate with the most experience in Machine Learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:31:55.535698Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nHere are her relevant experiences:\n\n* **Machine Learning Engineer**, Data Insights Corp (March 2020 \u2013 Present)\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems, leading to a 25% increase in revenue.\n\t+ Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\t+ Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n\nHer experience as a **Data Scientist** at Smart Analytics (September 2018 \u2013 February 2020) also involved machine learning techniques, but her most recent role as a Machine Learning Engineer has given her more relevant and recent experience in the field.\n\nTherefore, Sarah Johnson is the candidate with the most experience in Machine Learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8464196250,
+                "load_duration": 14372834,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47067000,
+                "eval_count": 191,
+                "eval_duration": 8399961000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nAccording to her resume, she:\n\n* Has a specialization in AI/ML for her M.S. in Computer Science from Columbia University\n* Works as a Machine Learning Engineer at Data Insights Corp, where she has been working since March 2020\n* Has experience designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborates with data scientists and software engineers to integrate ML models into production systems\n* Performs A/B testing and model evaluation to ensure optimal performance and accuracy\n\nHer experience in Machine Learning is extensive, with a strong educational background and a clear focus on the field.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:32:02.121874Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nAccording to her resume, she:\n\n* Has a specialization in AI/ML for her M.S. in Computer Science from Columbia University\n* Works as a Machine Learning Engineer at Data Insights Corp, where she has been working since March 2020\n* Has experience designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborates with data scientists and software engineers to integrate ML models into production systems\n* Performs A/B testing and model evaluation to ensure optimal performance and accuracy\n\nHer experience in Machine Learning is extensive, with a strong educational background and a clear focus on the field."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6582975166,
+                "load_duration": 24525458,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 49215000,
+                "eval_count": 148,
+                "eval_duration": 6508178000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is identified as a dedicated Machine Learning Engineer with:\n\n* 5 years of experience in developing and deploying machine learning models in production environments.\n* Expertise in Python, TensorFlow, and data science libraries.\n* Experience applying machine learning techniques to solve real-world business problems.\n\nShe has also worked on specific machine learning tasks such as designing and deploying customer segmentation, recommendation systems, and predictive analytics.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:32:06.170346Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is identified as a dedicated Machine Learning Engineer with:\n\n* 5 years of experience in developing and deploying machine learning models in production environments.\n* Expertise in Python, TensorFlow, and data science libraries.\n* Experience applying machine learning techniques to solve real-world business problems.\n\nShe has also worked on specific machine learning tasks such as designing and deploying customer segmentation, recommendation systems, and predictive analytics."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4044989042,
+                "load_duration": 14957333,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46397000,
+                "eval_count": 91,
+                "eval_duration": 3982043000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nShe lists \"Machine Learning Engineer\" as her current job title and has been working in this role since March 2020. Her experience includes designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics, which suggests a high level of expertise in this area.\n\nAdditionally, she worked as a Data Scientist at Smart Analytics from September 2018 to February 2020, where she conducted exploratory data analysis and built predictive models using various libraries such as pandas, scikit-learn, and TensorFlow. This experience further highlights her expertise in machine learning.\n\nWhile the other resumes may mention some experience with machine learning or related skills, Sarah Johnson's resume shows a strong focus on machine learning engineering and a more extensive history of working in this field.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:32:13.865589Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nShe lists \"Machine Learning Engineer\" as her current job title and has been working in this role since March 2020. Her experience includes designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics, which suggests a high level of expertise in this area.\n\nAdditionally, she worked as a Data Scientist at Smart Analytics from September 2018 to February 2020, where she conducted exploratory data analysis and built predictive models using various libraries such as pandas, scikit-learn, and TensorFlow. This experience further highlights her expertise in machine learning.\n\nWhile the other resumes may mention some experience with machine learning or related skills, Sarah Johnson's resume shows a strong focus on machine learning engineering and a more extensive history of working in this field."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7691278750,
+                "load_duration": 15462959,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47057000,
+                "eval_count": 174,
+                "eval_duration": 7627829000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nShe has a Master's degree in Computer Science (Specialization in AI/ML) and over 5 years of experience working as a Machine Learning Engineer at Data Insights Corp. Her experience includes designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics, as well as collaborating with data scientists and software engineers to integrate ML models into production systems.\n\nIn particular, her experience in Machine Learning is highlighted by the following:\n\n* Designed and deployed machine learning models for various applications (customer segmentation, recommendation systems, predictive analytics)\n* Collaborated with data scientists and software engineers to integrate ML models into production systems\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy\n\nOverall, Sarah Johnson has a strong background in Machine Learning, which makes her the most experienced candidate in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:32:22.906819Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nShe has a Master's degree in Computer Science (Specialization in AI/ML) and over 5 years of experience working as a Machine Learning Engineer at Data Insights Corp. Her experience includes designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics, as well as collaborating with data scientists and software engineers to integrate ML models into production systems.\n\nIn particular, her experience in Machine Learning is highlighted by the following:\n\n* Designed and deployed machine learning models for various applications (customer segmentation, recommendation systems, predictive analytics)\n* Collaborated with data scientists and software engineers to integrate ML models into production systems\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy\n\nOverall, Sarah Johnson has a strong background in Machine Learning, which makes her the most experienced candidate in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9036748791,
+                "load_duration": 15135625,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47236000,
+                "eval_count": 204,
+                "eval_duration": 8972572000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is a Machine Learning Engineer with the most experience in Machine Learning. Her experience includes:\n\n* 5 years of experience as a Machine Learning Engineer\n* Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborated with data scientists and software engineers to integrate ML models into production systems\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy\n\nHer education background also suggests that she has a strong foundation in machine learning, having completed an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:32:29.379961Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is a Machine Learning Engineer with the most experience in Machine Learning. Her experience includes:\n\n* 5 years of experience as a Machine Learning Engineer\n* Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborated with data scientists and software engineers to integrate ML models into production systems\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy\n\nHer education background also suggests that she has a strong foundation in machine learning, having completed an M.S. in Computer Science (Specialization in AI/ML) from Columbia University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6469325291,
+                "load_duration": 15040500,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 48371000,
+                "eval_count": 146,
+                "eval_duration": 6404891000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nShe has a specialization in AI/ML from her M.S. in Computer Science at Columbia University and over 5 years of experience as a Machine Learning Engineer at Data Insights Corp, where she:\n\n* Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborated with data scientists and software engineers to integrate ML models into production systems\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy\n\nShe also has experience as a Data Scientist at Smart Analytics, where she conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n\nThe other candidates have some experience in machine learning or related fields (e.g., Emily Brown's experience with SQL and business analysis), but Sarah Johnson has the most direct and extensive experience in Machine Learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:32:38.331056Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nShe has a specialization in AI/ML from her M.S. in Computer Science at Columbia University and over 5 years of experience as a Machine Learning Engineer at Data Insights Corp, where she:\n\n* Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborated with data scientists and software engineers to integrate ML models into production systems\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy\n\nShe also has experience as a Data Scientist at Smart Analytics, where she conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n\nThe other candidates have some experience in machine learning or related fields (e.g., Emily Brown's experience with SQL and business analysis), but Sarah Johnson has the most direct and extensive experience in Machine Learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8948453459,
+                "load_duration": 15719167,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46680000,
+                "eval_count": 202,
+                "eval_duration": 8885095000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nShe has been working as a Machine Learning Engineer at Data Insights Corp since March 2020 and has previously worked as a Data Scientist at Smart Analytics from September 2018 to February 2020. This indicates that she has around 2-3 years of experience specifically in machine learning, which is the most among all the candidates listed.\n\nHer resume also highlights her proficiency in machine learning libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, and pandas, which suggests a strong background in machine learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:32:44.023035Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nShe has been working as a Machine Learning Engineer at Data Insights Corp since March 2020 and has previously worked as a Data Scientist at Smart Analytics from September 2018 to February 2020. This indicates that she has around 2-3 years of experience specifically in machine learning, which is the most among all the candidates listed.\n\nHer resume also highlights her proficiency in machine learning libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, and pandas, which suggests a strong background in machine learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5688204375,
+                "load_duration": 15174500,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47555000,
+                "eval_count": 128,
+                "eval_duration": 5623596000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHer background includes:\n\n* A Master's degree in Computer Science with a specialization in AI/ML from Columbia University\n* Experience as a Machine Learning Engineer at Data Insights Corp since March 2020\n* Previous experience as a Data Scientist at Smart Analytics, where she conducted exploratory data analysis and built predictive models using machine learning techniques\n\nShe has also worked on various machine learning-related projects, including designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:32:49.398571Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHer background includes:\n\n* A Master's degree in Computer Science with a specialization in AI/ML from Columbia University\n* Experience as a Machine Learning Engineer at Data Insights Corp since March 2020\n* Previous experience as a Data Scientist at Smart Analytics, where she conducted exploratory data analysis and built predictive models using machine learning techniques\n\nShe has also worked on various machine learning-related projects, including designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5371359667,
+                "load_duration": 14656584,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47091000,
+                "eval_count": 121,
+                "eval_duration": 5308568000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nShe has:\n\n* A M.S. in Computer Science (Specialization in AI/ML)\n* Experience as a Machine Learning Engineer at Data Insights Corp, where she designed and deployed machine learning models for various applications\n* Experience as a Data Scientist at Smart Analytics, where she conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn\n\nHer experience in Machine Learning far exceeds that of the other candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:32:54.399263Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nShe has:\n\n* A M.S. in Computer Science (Specialization in AI/ML)\n* Experience as a Machine Learning Engineer at Data Insights Corp, where she designed and deployed machine learning models for various applications\n* Experience as a Data Scientist at Smart Analytics, where she conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn\n\nHer experience in Machine Learning far exceeds that of the other candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4997818333,
+                "load_duration": 14957792,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 48396000,
+                "eval_count": 113,
+                "eval_duration": 4932957000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Sarah Johnson (Resume 3)** appears to have the most experience in Machine Learning.\n\nHere are her relevant experiences:\n\n* **Machine Learning Engineer** at Data Insights Corp (March 2020 - Present):\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems.\n\t+ Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\t+ Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n* **Data Scientist** at Smart Analytics (September 2018 - February 2020):\n\t+ Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n\t+ Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n\nSarah's experience in machine learning is evident through her work on designing and deploying ML models, collaborating with data scientists and engineers, developing ETL pipelines, and performing A/B testing. She has also worked as a data scientist, which provides additional exposure to machine learning concepts and techniques.\n\nWhile other candidates have some exposure to machine learning, Sarah's experience and specialization in AI/ML make her the most qualified candidate for a Machine Learning position.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:33:06.318947Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Sarah Johnson (Resume 3)** appears to have the most experience in Machine Learning.\n\nHere are her relevant experiences:\n\n* **Machine Learning Engineer** at Data Insights Corp (March 2020 - Present):\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems.\n\t+ Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\t+ Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n* **Data Scientist** at Smart Analytics (September 2018 - February 2020):\n\t+ Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n\t+ Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n\nSarah's experience in machine learning is evident through her work on designing and deploying ML models, collaborating with data scientists and engineers, developing ETL pipelines, and performing A/B testing. She has also worked as a data scientist, which provides additional exposure to machine learning concepts and techniques.\n\nWhile other candidates have some exposure to machine learning, Sarah's experience and specialization in AI/ML make her the most qualified candidate for a Machine Learning position."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11917005375,
+                "load_duration": 14238792,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46405000,
+                "eval_count": 268,
+                "eval_duration": 11855108000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most experience in Machine Learning.\n\nSarah's work experience as a Machine Learning Engineer at Data Insights Corp includes:\n\n* Designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborating with data scientists and software engineers to integrate ML models into production systems\n* Developing ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performing A/B testing and model evaluation to ensure optimal performance and accuracy\n\nThis experience is significantly more relevant to Machine Learning than any other candidate, making Sarah the strongest candidate in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:33:11.853561Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most experience in Machine Learning.\n\nSarah's work experience as a Machine Learning Engineer at Data Insights Corp includes:\n\n* Designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborating with data scientists and software engineers to integrate ML models into production systems\n* Developing ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performing A/B testing and model evaluation to ensure optimal performance and accuracy\n\nThis experience is significantly more relevant to Machine Learning than any other candidate, making Sarah the strongest candidate in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5531670167,
+                "load_duration": 15424375,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46870000,
+                "eval_count": 126,
+                "eval_duration": 5468292000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, **Sarah Johnson (Resume 3)** is the candidate with the most experience in Machine Learning.\n\nHer summary and work experiences clearly indicate her expertise in developing and deploying machine learning models in production environments. Specifically:\n\n* Her current role as a Machine Learning Engineer at Data Insights Corp has involved designing and deploying ML models for customer segmentation, recommendation systems, and predictive analytics.\n* In her previous role as a Data Scientist at Smart Analytics, she conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n* She has experience with various machine learning libraries, including TensorFlow, Keras, PyTorch, Scikit-learn, and pandas.\n\nTherefore, Sarah Johnson is the candidate with the most experience in Machine Learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:33:18.735262Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, **Sarah Johnson (Resume 3)** is the candidate with the most experience in Machine Learning.\n\nHer summary and work experiences clearly indicate her expertise in developing and deploying machine learning models in production environments. Specifically:\n\n* Her current role as a Machine Learning Engineer at Data Insights Corp has involved designing and deploying ML models for customer segmentation, recommendation systems, and predictive analytics.\n* In her previous role as a Data Scientist at Smart Analytics, she conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n* She has experience with various machine learning libraries, including TensorFlow, Keras, PyTorch, Scikit-learn, and pandas.\n\nTherefore, Sarah Johnson is the candidate with the most experience in Machine Learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6877108333,
+                "load_duration": 15154708,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47138000,
+                "eval_count": 156,
+                "eval_duration": 6812747000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHere's a summary of her Machine Learning experience:\n\n* **Machine Learning Engineer**: Data Insights Corp (March 2020 - Present)\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems, leading to a 25% increase in revenue.\n\t+ Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\t+ Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n* **Data Scientist**: Smart Analytics (September 2018 - February 2020)\n\t+ Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n\t+ Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n\t+ Presented data-driven insights to stakeholders, influencing key business decisions and strategy.\n\nSarah Johnson's experience in Machine Learning spans 3 years as a Data Scientist and 2.5 years as a Machine Learning Engineer, making her the candidate with the most experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:33:29.786559Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHere's a summary of her Machine Learning experience:\n\n* **Machine Learning Engineer**: Data Insights Corp (March 2020 - Present)\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems, leading to a 25% increase in revenue.\n\t+ Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\t+ Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n* **Data Scientist**: Smart Analytics (September 2018 - February 2020)\n\t+ Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n\t+ Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n\t+ Presented data-driven insights to stakeholders, influencing key business decisions and strategy.\n\nSarah Johnson's experience in Machine Learning spans 3 years as a Data Scientist and 2.5 years as a Machine Learning Engineer, making her the candidate with the most experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 11047583458,
+                "load_duration": 15092542,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47494000,
+                "eval_count": 248,
+                "eval_duration": 10984052000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHer work experiences are:\n\n* Data Scientist at Smart Analytics (September 2018 - February 2020): Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn. Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n* Machine Learning Engineer at Data Insights Corp (March 2020 - Present): Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\nShe also has a specialization in AI/ML from her Master's degree in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:33:35.785721Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHer work experiences are:\n\n* Data Scientist at Smart Analytics (September 2018 - February 2020): Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn. Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n* Machine Learning Engineer at Data Insights Corp (March 2020 - Present): Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\nShe also has a specialization in AI/ML from her Master's degree in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5995857500,
+                "load_duration": 14137292,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47144000,
+                "eval_count": 136,
+                "eval_duration": 5932501000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHer job title is \"Machine Learning Engineer\" and she has been working in this role since March 2020. She also mentions specific skills related to machine learning, such as Python, TensorFlow, and data science libraries, as well as experience applying machine learning techniques to solve real-world business problems.\n\nAdditionally, her previous experience as a Data Scientist at Smart Analytics (September 2018 - February 2020) also involved conducting exploratory data analysis, building predictive models using Python and scikit-learn, and implementing natural language processing (NLP) techniques. This suggests that she has a strong background in machine learning.\n\nTherefore, Sarah Johnson is the candidate with the most experience in Machine Learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:33:42.993381Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHer job title is \"Machine Learning Engineer\" and she has been working in this role since March 2020. She also mentions specific skills related to machine learning, such as Python, TensorFlow, and data science libraries, as well as experience applying machine learning techniques to solve real-world business problems.\n\nAdditionally, her previous experience as a Data Scientist at Smart Analytics (September 2018 - February 2020) also involved conducting exploratory data analysis, building predictive models using Python and scikit-learn, and implementing natural language processing (NLP) techniques. This suggests that she has a strong background in machine learning.\n\nTherefore, Sarah Johnson is the candidate with the most experience in Machine Learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7204474375,
+                "load_duration": 14471333,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46932000,
+                "eval_count": 164,
+                "eval_duration": 7142118000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHer current role as a Machine Learning Engineer at Data Insights Corp since March 2020 involves:\n\n* Designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborating with data scientists and software engineers to integrate ML models into production systems\n* Developing ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performing A/B testing and model evaluation to ensure optimal performance and accuracy\n\nAdditionally, she has a Master's degree in Computer Science (Specialization in AI/ML) from Columbia University, which suggests that she has received advanced training in machine learning techniques.\n\nHer experience as a Data Scientist at Smart Analytics from September 2018 to February 2020 also involved working with data analysis and predictive models using Python, pandas, and scikit-learn, indicating that she has prior experience in machine learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:33:51.652208Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHer current role as a Machine Learning Engineer at Data Insights Corp since March 2020 involves:\n\n* Designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborating with data scientists and software engineers to integrate ML models into production systems\n* Developing ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performing A/B testing and model evaluation to ensure optimal performance and accuracy\n\nAdditionally, she has a Master's degree in Computer Science (Specialization in AI/ML) from Columbia University, which suggests that she has received advanced training in machine learning techniques.\n\nHer experience as a Data Scientist at Smart Analytics from September 2018 to February 2020 also involved working with data analysis and predictive models using Python, pandas, and scikit-learn, indicating that she has prior experience in machine learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8656622625,
+                "load_duration": 15274291,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47572000,
+                "eval_count": 196,
+                "eval_duration": 8592807000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the only one with explicit machine learning experience. She lists her role as a Machine Learning Engineer at Data Insights Corp and highlights skills such as TensorFlow, data science libraries, and experience applying ML techniques to solve real-world business problems.\n\nThe other candidates are skilled in various areas of software development and engineering, but none have listed experience directly related to machine learning like Sarah Johnson has.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:33:55.566011Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the only one with explicit machine learning experience. She lists her role as a Machine Learning Engineer at Data Insights Corp and highlights skills such as TensorFlow, data science libraries, and experience applying ML techniques to solve real-world business problems.\n\nThe other candidates are skilled in various areas of software development and engineering, but none have listed experience directly related to machine learning like Sarah Johnson has."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3909496708,
+                "load_duration": 14703625,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47549000,
+                "eval_count": 89,
+                "eval_duration": 3845335000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nAs a Machine Learning Engineer at Data Insights Corp from March 2020 to Present, she:\n\n* Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n* Collaborated with data scientists and software engineers to integrate ML models into production systems, leading to a 25% increase in revenue.\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n\nShe also has experience as a Data Scientist at Smart Analytics from September 2018 to February 2020, where she:\n\n* Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n* Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n* Presented data-driven insights to stakeholders, influencing key business decisions and strategy.\n\nHer education background includes an M.S. in Computer Science with a specialization in AI/ML from Columbia University (2016-2018), indicating that she has formal training in machine learning concepts.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:06.091092Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most experience in Machine Learning.\n\nAs a Machine Learning Engineer at Data Insights Corp from March 2020 to Present, she:\n\n* Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n* Collaborated with data scientists and software engineers to integrate ML models into production systems, leading to a 25% increase in revenue.\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n\nShe also has experience as a Data Scientist at Smart Analytics from September 2018 to February 2020, where she:\n\n* Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n* Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n* Presented data-driven insights to stakeholders, influencing key business decisions and strategy.\n\nHer education background includes an M.S. in Computer Science with a specialization in AI/ML from Columbia University (2016-2018), indicating that she has formal training in machine learning concepts."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 10521496042,
+                "load_duration": 14506708,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 48028000,
+                "eval_count": 237,
+                "eval_duration": 10458044000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nAccording to her resume, she has been working as a Machine Learning Engineer at Data Insights Corp since March 2020 and has also previously worked as a Data Scientist at Smart Analytics from September 2018 to February 2020. Her skills section lists expertise in machine learning libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, pandas, and experience with techniques like Supervised/Unsupervised Learning, NLP, and Time Series Analysis.\n\nThe other candidates do not have any significant experience or qualifications mentioned in their resumes that are directly related to Machine Learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:12.381628Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nAccording to her resume, she has been working as a Machine Learning Engineer at Data Insights Corp since March 2020 and has also previously worked as a Data Scientist at Smart Analytics from September 2018 to February 2020. Her skills section lists expertise in machine learning libraries such as TensorFlow, Keras, PyTorch, Scikit-learn, pandas, and experience with techniques like Supervised/Unsupervised Learning, NLP, and Time Series Analysis.\n\nThe other candidates do not have any significant experience or qualifications mentioned in their resumes that are directly related to Machine Learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6286296417,
+                "load_duration": 14508042,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 46841000,
+                "eval_count": 142,
+                "eval_duration": 6223584000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning. As a Machine Learning Engineer at Data Insights Corp, she has:\n\n* Designed and deployed machine learning models for various business applications\n* Collaborated with data scientists and software engineers to integrate ML models into production systems\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy\n\nAdditionally, she has experience as a Data Scientist at Smart Analytics, where she conducted exploratory data analysis and built predictive models using various libraries and tools.\n\nThe other resumes provided do not highlight significant Machine Learning experience for the respective candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:18.791015Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning. As a Machine Learning Engineer at Data Insights Corp, she has:\n\n* Designed and deployed machine learning models for various business applications\n* Collaborated with data scientists and software engineers to integrate ML models into production systems\n* Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performed A/B testing and model evaluation to ensure optimal performance and accuracy\n\nAdditionally, she has experience as a Data Scientist at Smart Analytics, where she conducted exploratory data analysis and built predictive models using various libraries and tools.\n\nThe other resumes provided do not highlight significant Machine Learning experience for the respective candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6407260875,
+                "load_duration": 14763708,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47933000,
+                "eval_count": 145,
+                "eval_duration": 6343465000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHere's a summary of her relevant work experience and skills:\n\n* **Machine Learning Engineer** at Data Insights Corp:\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems.\n\t+ Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\t+ Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n* **Data Scientist** at Smart Analytics:\n\t+ Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n\t+ Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n\nShe has a Master's degree in Computer Science with a specialization in AI/ML from Columbia University. Her skills include:\n\n* Machine Learning libraries: TensorFlow, Keras, PyTorch, Scikit-learn, pandas\n* Tools: Jupyter, Docker, Git, Spark\n* ML Techniques: Supervised/Unsupervised Learning, NLP, Time Series Analysis",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:29.70329Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Sarah Johnson (Resume 3) is the candidate with the most experience in Machine Learning.\n\nHere's a summary of her relevant work experience and skills:\n\n* **Machine Learning Engineer** at Data Insights Corp:\n\t+ Designed and deployed machine learning models for customer segmentation, recommendation systems, and predictive analytics.\n\t+ Collaborated with data scientists and software engineers to integrate ML models into production systems.\n\t+ Developed ETL pipelines for data preprocessing and feature engineering using Python and Spark.\n\t+ Performed A/B testing and model evaluation to ensure optimal performance and accuracy.\n* **Data Scientist** at Smart Analytics:\n\t+ Conducted exploratory data analysis and built predictive models using Python, pandas, and scikit-learn.\n\t+ Implemented natural language processing (NLP) techniques for text classification and sentiment analysis projects.\n\nShe has a Master's degree in Computer Science with a specialization in AI/ML from Columbia University. Her skills include:\n\n* Machine Learning libraries: TensorFlow, Keras, PyTorch, Scikit-learn, pandas\n* Tools: Jupyter, Docker, Git, Spark\n* ML Techniques: Supervised/Unsupervised Learning, NLP, Time Series Analysis"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 10907665667,
+                "load_duration": 15763167,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47675000,
+                "eval_count": 245,
+                "eval_duration": 10843166000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Sarah Johnson (Resume 3) is identified as a Machine Learning Engineer with 5 years of experience in developing and deploying machine learning models in production environments. She has worked at Data Insights Corp since March 2020 and has previously been a Data Scientist at Smart Analytics from September 2018 to February 2020.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:32.841495Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Sarah Johnson (Resume 3) is identified as a Machine Learning Engineer with 5 years of experience in developing and deploying machine learning models in production environments. She has worked at Data Insights Corp since March 2020 and has previously been a Data Scientist at Smart Analytics from September 2018 to February 2020."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3134599417,
+                "load_duration": 14842833,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47542000,
+                "eval_count": 71,
+                "eval_duration": 3070309000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she has been working as a Machine Learning Engineer at Data Insights Corp since March 2020 and previously worked as a Data Scientist at Smart Analytics from September 2018 to February 2020.\n\nHer experience in Machine Learning is highlighted throughout her resume, including:\n\n* Designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborating with data scientists and software engineers to integrate ML models into production systems\n* Developing ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performing A/B testing and model evaluation to ensure optimal performance and accuracy\n\nWhile there may be other candidates who have some experience in Machine Learning, Sarah Johnson appears to have the most extensive and relevant experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:39.834315Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she has been working as a Machine Learning Engineer at Data Insights Corp since March 2020 and previously worked as a Data Scientist at Smart Analytics from September 2018 to February 2020.\n\nHer experience in Machine Learning is highlighted throughout her resume, including:\n\n* Designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics\n* Collaborating with data scientists and software engineers to integrate ML models into production systems\n* Developing ETL pipelines for data preprocessing and feature engineering using Python and Spark\n* Performing A/B testing and model evaluation to ensure optimal performance and accuracy\n\nWhile there may be other candidates who have some experience in Machine Learning, Sarah Johnson appears to have the most extensive and relevant experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6988698417,
+                "load_duration": 14317417,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47443000,
+                "eval_count": 158,
+                "eval_duration": 6925633000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Sarah Johnson (Resume 3) is identified as a Machine Learning Engineer with 5 years of experience in developing and deploying machine learning models in production environments. She has worked at Data Insights Corp since March 2020, where she designed and deployed machine learning models for various applications, including customer segmentation, recommendation systems, and predictive analytics.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:43.107373Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Sarah Johnson (Resume 3) is identified as a Machine Learning Engineer with 5 years of experience in developing and deploying machine learning models in production environments. She has worked at Data Insights Corp since March 2020, where she designed and deployed machine learning models for various applications, including customer segmentation, recommendation systems, and predictive analytics."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3269723333,
+                "load_duration": 14502625,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 48495000,
+                "eval_count": 74,
+                "eval_duration": 3205132000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is a Machine Learning Engineer with:\n\n* 5 years of experience in developing and deploying machine learning models in production environments\n* Experience working with Python, TensorFlow, and data science libraries\n* Specific experience with machine learning techniques such as customer segmentation, recommendation systems, and predictive analytics\n\nHowever, it's worth noting that John Smith (Resume 2) also has some experience with data analysis and ML-related skills, but his primary focus seems to be on back-end development.\n\nTherefore, based on the information provided, Sarah Johnson (Resume 3) appears to have the most experience in Machine Learning.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:49.011728Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is a Machine Learning Engineer with:\n\n* 5 years of experience in developing and deploying machine learning models in production environments\n* Experience working with Python, TensorFlow, and data science libraries\n* Specific experience with machine learning techniques such as customer segmentation, recommendation systems, and predictive analytics\n\nHowever, it's worth noting that John Smith (Resume 2) also has some experience with data analysis and ML-related skills, but his primary focus seems to be on back-end development.\n\nTherefore, based on the information provided, Sarah Johnson (Resume 3) appears to have the most experience in Machine Learning."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5900267292,
+                "load_duration": 15177625,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 48126000,
+                "eval_count": 133,
+                "eval_duration": 5835862000
+            }
+        },
+        {
+            "Content": "According to the resumes provided, Sarah Johnson (Resume 3) is a dedicated Machine Learning Engineer with 5 years of experience in developing and deploying machine learning models in production environments. She has experience designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics, as well as collaborating with data scientists and software engineers to integrate ML models into production systems.\n\nTherefore, Sarah Johnson is the candidate with the most experience in Machine Learning among the options provided.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:53.156039Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to the resumes provided, Sarah Johnson (Resume 3) is a dedicated Machine Learning Engineer with 5 years of experience in developing and deploying machine learning models in production environments. She has experience designing and deploying machine learning models for customer segmentation, recommendation systems, and predictive analytics, as well as collaborating with data scientists and software engineers to integrate ML models into production systems.\n\nTherefore, Sarah Johnson is the candidate with the most experience in Machine Learning among the options provided."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4140630291,
+                "load_duration": 15805958,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47916000,
+                "eval_count": 94,
+                "eval_duration": 4075793000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Sarah Johnson (Resume 3) is the only candidate with a background in machine learning engineering. Her work experience at Data Insights Corp and Smart Analytics involved designing and deploying machine learning models, collaborating with data scientists to integrate ML models into production systems, and applying machine learning techniques to solve real-world business problems.\n\nTherefore, she has the most experience in machine learning among all the candidates listed in these resumes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-17T04:34:57.00646Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Sarah Johnson (Resume 3) is the only candidate with a background in machine learning engineering. Her work experience at Data Insights Corp and Smart Analytics involved designing and deploying machine learning models, collaborating with data scientists to integrate ML models into production systems, and applying machine learning techniques to solve real-world business problems.\n\nTherefore, she has the most experience in machine learning among all the candidates listed in these resumes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3846011917,
+                "load_duration": 14409208,
+                "prompt_eval_count": 1813,
+                "prompt_eval_duration": 47490000,
+                "eval_count": 87,
+                "eval_duration": 3782274000
+            }
+        }
+    ]
+}

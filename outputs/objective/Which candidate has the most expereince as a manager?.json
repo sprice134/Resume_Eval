@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group (September 2018 - July 2020), she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, conducted business analysis, created project documentation, and led a team of developers in implementing a major system overhaul.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:42.041969Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group (September 2018 - July 2020), she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, conducted business analysis, created project documentation, and led a team of developers in implementing a major system overhaul."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3741758416,
+                "load_duration": 15178500,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 181557000,
+                "eval_count": 82,
+                "eval_duration": 3543721000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) and Jane Doe (Resume 1) both have experience with project management, but in different roles.\n\nEmily Brown's experience as a Project Manager / Business Analyst at Consulting Group includes managing multiple software development projects from initiation to closure. This suggests that she has hands-on experience with project management tasks such as coordinating with clients and development teams, creating project documentation, and ensuring projects are completed on time.\n\nJane Doe, on the other hand, is primarily a Front-End Developer (Resume 1) and only occasionally mentions her involvement in project management activities, such as collaborating closely with UX/UI designers to implement responsive and accessible web designs.\n\nHowever, Emily Brown's experience as a Project Manager / Business Analyst at Consulting Group (September 2018 \u2013 July 2020) indicates that she has more extensive experience in this role than Jane Doe. Specifically, her responsibilities included managing multiple software development projects from initiation to closure, coordinating with clients and development teams, conducting business analysis, creating project documentation, and ensuring projects were completed on time.\n\nSo, I would conclude that Emily Brown (Resume 5) has the most experience as a manager among the candidates listed in these resumes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:53.036928Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) and Jane Doe (Resume 1) both have experience with project management, but in different roles.\n\nEmily Brown's experience as a Project Manager / Business Analyst at Consulting Group includes managing multiple software development projects from initiation to closure. This suggests that she has hands-on experience with project management tasks such as coordinating with clients and development teams, creating project documentation, and ensuring projects are completed on time.\n\nJane Doe, on the other hand, is primarily a Front-End Developer (Resume 1) and only occasionally mentions her involvement in project management activities, such as collaborating closely with UX/UI designers to implement responsive and accessible web designs.\n\nHowever, Emily Brown's experience as a Project Manager / Business Analyst at Consulting Group (September 2018 \u2013 July 2020) indicates that she has more extensive experience in this role than Jane Doe. Specifically, her responsibilities included managing multiple software development projects from initiation to closure, coordinating with clients and development teams, conducting business analysis, creating project documentation, and ensuring projects were completed on time.\n\nSo, I would conclude that Emily Brown (Resume 5) has the most experience as a manager among the candidates listed in these resumes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 10991730292,
+                "load_duration": 14586333,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46408000,
+                "eval_count": 246,
+                "eval_duration": 10929081000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\n* In her role as Project Manager / Business Analyst at Consulting Group, she managed multiple software development projects from initiation to closure and coordinated with clients and development teams.\n* She also led a team of developers in implementing a major system overhaul, improving system performance by 35%.\n\nWhile other candidates may have some experience with project management or leading teams, Emily's role as Project Manager / Business Analyst at Consulting Group suggests that she has the most experience in managing projects and teams.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:39:58.177508Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\n* In her role as Project Manager / Business Analyst at Consulting Group, she managed multiple software development projects from initiation to closure and coordinated with clients and development teams.\n* She also led a team of developers in implementing a major system overhaul, improving system performance by 35%.\n\nWhile other candidates may have some experience with project management or leading teams, Emily's role as Project Manager / Business Analyst at Consulting Group suggests that she has the most experience in managing projects and teams."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5139061375,
+                "load_duration": 14827292,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46773000,
+                "eval_count": 115,
+                "eval_duration": 5076188000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nIn her current role at Enterprise Solutions Inc., she is described as \"Collaborating with cross-functional teams to gather requirements and translate them into technical specifications\" which suggests that she is working closely with others but not necessarily managing them directly.\n\nHowever, in her previous role as Project Manager / Business Analyst at Consulting Group, Emily Brown is specifically listed as a manager, overseeing multiple software development projects from initiation to closure.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:02.858942Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nIn her current role at Enterprise Solutions Inc., she is described as \"Collaborating with cross-functional teams to gather requirements and translate them into technical specifications\" which suggests that she is working closely with others but not necessarily managing them directly.\n\nHowever, in her previous role as Project Manager / Business Analyst at Consulting Group, Emily Brown is specifically listed as a manager, overseeing multiple software development projects from initiation to closure."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4679993625,
+                "load_duration": 15199542,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47188000,
+                "eval_count": 104,
+                "eval_duration": 4615937000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager. She lists her previous role as \"Project Manager / Business Analyst\" at Consulting Group from September 2018 to July 2020, where she managed multiple software development projects and coordinated with clients and development teams.\n\nWhile other candidates may have some managerial or leadership responsibilities in their roles (e.g., Jane Doe's role as a lead front-end developer), Emily Brown's title and experience specifically highlight her project management skills and experience managing multiple projects simultaneously.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:07.90824Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager. She lists her previous role as \"Project Manager / Business Analyst\" at Consulting Group from September 2018 to July 2020, where she managed multiple software development projects and coordinated with clients and development teams.\n\nWhile other candidates may have some managerial or leadership responsibilities in their roles (e.g., Jane Doe's role as a lead front-end developer), Emily Brown's title and experience specifically highlight her project management skills and experience managing multiple projects simultaneously."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5047703417,
+                "load_duration": 15251417,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 54050000,
+                "eval_count": 113,
+                "eval_duration": 4977314000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs mentioned in her Experience section, she held the role of:\n\n* Project Manager / Business Analyst at Consulting Group from September 2018 to July 2020\n\t+ Managed multiple software development projects from initiation to closure, coordinating with clients and development teams.\n\t+ Conducted business analysis to identify client needs and provided solutions that aligned with their strategic goals.\n\t+ Created project documentation, including requirements specifications, project plans, and user manuals.\n\nThis experience shows that Emily has significant management experience, having led multiple projects and teams in her previous role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:13.87127Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs mentioned in her Experience section, she held the role of:\n\n* Project Manager / Business Analyst at Consulting Group from September 2018 to July 2020\n\t+ Managed multiple software development projects from initiation to closure, coordinating with clients and development teams.\n\t+ Conducted business analysis to identify client needs and provided solutions that aligned with their strategic goals.\n\t+ Created project documentation, including requirements specifications, project plans, and user manuals.\n\nThis experience shows that Emily has significant management experience, having led multiple projects and teams in her previous role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5961599708,
+                "load_duration": 15176000,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47215000,
+                "eval_count": 132,
+                "eval_duration": 5897766000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nShe lists her previous role as \"Project Manager / Business Analyst\" at Consulting Group in Chicago, IL, where she:\n\n* Managed multiple software development projects from initiation to closure\n* Coordinated with clients and development teams\n* Conducted business analysis to identify client needs and provided solutions\n\nThis suggests that Emily has a strong background in project management and leadership, having managed multiple projects simultaneously and worked closely with clients and team members.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:18.766973Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nShe lists her previous role as \"Project Manager / Business Analyst\" at Consulting Group in Chicago, IL, where she:\n\n* Managed multiple software development projects from initiation to closure\n* Coordinated with clients and development teams\n* Conducted business analysis to identify client needs and provided solutions\n\nThis suggests that Emily has a strong background in project management and leadership, having managed multiple projects simultaneously and worked closely with clients and team members."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4891017000,
+                "load_duration": 15122791,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47984000,
+                "eval_count": 109,
+                "eval_duration": 4826340000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) have experience as managers.\n\nEmily Brown:\n\n* Project Manager / Business Analyst at Consulting Group (September 2018 \u2013 July 2020)\n\t+ Managed multiple software development projects from initiation to closure.\n\t+ Coordinated with clients and development teams.\n\t+ Conducted business analysis to identify client needs and provided solutions that aligned with their strategic goals.\n\nSarah Johnson:\n\n* None explicitly mentioned, but based on her work experience, she might have managed small teams or led cross-functional projects as a Machine Learning Engineer at Data Insights Corp (March 2020 \u2013 Present).\n\nHowever, Emily Brown has more extensive management experience, having held a project manager and business analyst role for two years.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:25.843711Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) have experience as managers.\n\nEmily Brown:\n\n* Project Manager / Business Analyst at Consulting Group (September 2018 \u2013 July 2020)\n\t+ Managed multiple software development projects from initiation to closure.\n\t+ Coordinated with clients and development teams.\n\t+ Conducted business analysis to identify client needs and provided solutions that aligned with their strategic goals.\n\nSarah Johnson:\n\n* None explicitly mentioned, but based on her work experience, she might have managed small teams or led cross-functional projects as a Machine Learning Engineer at Data Insights Corp (March 2020 \u2013 Present).\n\nHowever, Emily Brown has more extensive management experience, having held a project manager and business analyst role for two years."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7075153792,
+                "load_duration": 14644750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47325000,
+                "eval_count": 158,
+                "eval_duration": 7012108000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nIn her previous role at Consulting Group, she was not only a Software Engineer but also worked as a Project Manager and Business Analyst. Her responsibilities included managing multiple software development projects from initiation to closure, coordinating with clients and development teams, and conducting business analysis to identify client needs.\n\nAs a Project Manager / Business Analyst, Emily Brown's experience includes:\n\n* Managing multiple software development projects\n* Coordinating with clients and development teams\n* Conducting business analysis to identify client needs\n* Creating project documentation, including requirements specifications, project plans, and user manuals\n\nThis suggests that she has significant experience in managing projects, teams, and stakeholders, making her the candidate with the most experience as a manager.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:33.039495Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nIn her previous role at Consulting Group, she was not only a Software Engineer but also worked as a Project Manager and Business Analyst. Her responsibilities included managing multiple software development projects from initiation to closure, coordinating with clients and development teams, and conducting business analysis to identify client needs.\n\nAs a Project Manager / Business Analyst, Emily Brown's experience includes:\n\n* Managing multiple software development projects\n* Coordinating with clients and development teams\n* Conducting business analysis to identify client needs\n* Creating project documentation, including requirements specifications, project plans, and user manuals\n\nThis suggests that she has significant experience in managing projects, teams, and stakeholders, making her the candidate with the most experience as a manager."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7192032916,
+                "load_duration": 14662083,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47334000,
+                "eval_count": 162,
+                "eval_duration": 7128642000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager. She lists her previous role as \"Project Manager / Business Analyst\" at Consulting Group, where she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, and conducted business analysis to identify client needs.\n\nWhile other candidates may have had managerial responsibilities in specific areas (e.g., Jane Doe's experience leading front-end development on multiple client projects), Emily Brown's role explicitly includes project management as a primary responsibility.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:37.843183Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager. She lists her previous role as \"Project Manager / Business Analyst\" at Consulting Group, where she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, and conducted business analysis to identify client needs.\n\nWhile other candidates may have had managerial responsibilities in specific areas (e.g., Jane Doe's experience leading front-end development on multiple client projects), Emily Brown's role explicitly includes project management as a primary responsibility."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4799937084,
+                "load_duration": 14160792,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47086000,
+                "eval_count": 110,
+                "eval_duration": 4737552000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group (from September 2018 to July 2020), she managed multiple software development projects from initiation to closure and coordinated with clients and development teams.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:40.552953Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group (from September 2018 to July 2020), she managed multiple software development projects from initiation to closure and coordinated with clients and development teams."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2704843959,
+                "load_duration": 15297917,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47079000,
+                "eval_count": 62,
+                "eval_duration": 2641385000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I would say that **Resume 5: Emily Brown** has the most experience as a manager.\n\nIn her current role as Software Engineer at Enterprise Solutions Inc., she is listed as having led a team of developers in implementing a major system overhaul, improving system performance by 35%. Additionally, in her previous role as Project Manager / Business Analyst at Consulting Group, she managed multiple software development projects from initiation to closure, coordinating with clients and development teams.\n\nWhile the other resumes mention management-related skills or responsibilities, Emily Brown's experience is explicitly listed as \"Project Manager\" and \"Team Lead\", suggesting a more significant level of management responsibility.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:46.400814Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I would say that **Resume 5: Emily Brown** has the most experience as a manager.\n\nIn her current role as Software Engineer at Enterprise Solutions Inc., she is listed as having led a team of developers in implementing a major system overhaul, improving system performance by 35%. Additionally, in her previous role as Project Manager / Business Analyst at Consulting Group, she managed multiple software development projects from initiation to closure, coordinating with clients and development teams.\n\nWhile the other resumes mention management-related skills or responsibilities, Emily Brown's experience is explicitly listed as \"Project Manager\" and \"Team Lead\", suggesting a more significant level of management responsibility."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5843573125,
+                "load_duration": 14608542,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46449000,
+                "eval_count": 134,
+                "eval_duration": 5781086000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nIn her role as Project Manager / Business Analyst at Consulting Group (September 2018 - July 2020), she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, conducted business analysis, and created project documentation. This suggests that Emily has significant experience in managing projects and teams.\n\nWhile other candidates may have some experience with management or leadership roles, such as John Smith (Resume 2) leading front-end development on multiple client projects simultaneously, Emily's role at Consulting Group was specifically focused on project management, making her the candidate with the most experience in this area.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:52.59458Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nIn her role as Project Manager / Business Analyst at Consulting Group (September 2018 - July 2020), she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, conducted business analysis, and created project documentation. This suggests that Emily has significant experience in managing projects and teams.\n\nWhile other candidates may have some experience with management or leadership roles, such as John Smith (Resume 2) leading front-end development on multiple client projects simultaneously, Emily's role at Consulting Group was specifically focused on project management, making her the candidate with the most experience in this area."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6189186708,
+                "load_duration": 14603708,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47196000,
+                "eval_count": 142,
+                "eval_duration": 6126366000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nAs a Project Manager and Business Analyst at Consulting Group (September 2018 - July 2020), she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, conducted business analysis, and created project documentation. This experience demonstrates her ability to lead and manage projects, as well as her skills in project management, business analysis, and communication.\n\nAdditionally, her role as a Software Engineer at Enterprise Solutions Inc. (August 2020 - Present) also involves some leadership responsibilities, such as leading a team of developers to implement a major system overhaul, which resulted in improved system performance by 35%.\n\nIn contrast, the other candidates' resumes do not show similar levels of experience in managerial roles.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:40:59.949448Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nAs a Project Manager and Business Analyst at Consulting Group (September 2018 - July 2020), she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, conducted business analysis, and created project documentation. This experience demonstrates her ability to lead and manage projects, as well as her skills in project management, business analysis, and communication.\n\nAdditionally, her role as a Software Engineer at Enterprise Solutions Inc. (August 2020 - Present) also involves some leadership responsibilities, such as leading a team of developers to implement a major system overhaul, which resulted in improved system performance by 35%.\n\nIn contrast, the other candidates' resumes do not show similar levels of experience in managerial roles."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7351014000,
+                "load_duration": 14428333,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47177000,
+                "eval_count": 168,
+                "eval_duration": 7287840000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) have experience as managers/project leaders. However, among these candidates, Emily Brown has the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group (September 2018 \u2013 July 2020), Emily managed multiple software development projects from initiation to closure and coordinated with clients and development teams. Additionally, she also led a team of developers in implementing a major system overhaul, improving system performance by 35%.\n\nWhile Sarah Johnson has experience as a Machine Learning Engineer at Data Insights Corp (March 2020 \u2013 Present), her primary role is not described as a manager/project leader.\n\nTherefore, Emily Brown has the most experience as a manager among the candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:41:06.781148Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) have experience as managers/project leaders. However, among these candidates, Emily Brown has the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group (September 2018 \u2013 July 2020), Emily managed multiple software development projects from initiation to closure and coordinated with clients and development teams. Additionally, she also led a team of developers in implementing a major system overhaul, improving system performance by 35%.\n\nWhile Sarah Johnson has experience as a Machine Learning Engineer at Data Insights Corp (March 2020 \u2013 Present), her primary role is not described as a manager/project leader.\n\nTherefore, Emily Brown has the most experience as a manager among the candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6827787500,
+                "load_duration": 14602375,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47507000,
+                "eval_count": 156,
+                "eval_duration": 6764537000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nShe lists \"Project Manager / Business Analyst\" as an experience from Consulting Group, where she:\n\n* Managed multiple software development projects from initiation to closure\n* Coordinated with clients and development teams\n* Conducted business analysis to identify client needs and provided solutions\n\nThis role involved significant management responsibilities, including project planning, resource allocation, and team coordination.\n\nIn contrast, the other candidates have more technical or developer-focused experience, but not as much emphasis on managerial roles.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:41:11.799843Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nShe lists \"Project Manager / Business Analyst\" as an experience from Consulting Group, where she:\n\n* Managed multiple software development projects from initiation to closure\n* Coordinated with clients and development teams\n* Conducted business analysis to identify client needs and provided solutions\n\nThis role involved significant management responsibilities, including project planning, resource allocation, and team coordination.\n\nIn contrast, the other candidates have more technical or developer-focused experience, but not as much emphasis on managerial roles."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5014522792,
+                "load_duration": 15174292,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47196000,
+                "eval_count": 115,
+                "eval_duration": 4951121000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) both have experience in management roles. However, Emily Brown's experience as a Project Manager/Business Analyst at Consulting Group is more extensive, with responsibilities including:\n\n* Managing multiple software development projects from initiation to closure\n* Coordinating with clients and development teams\n* Conducting business analysis to identify client needs\n\nEmily Brown's experience as a manager spans approximately 2 years (September 2018 \u2013 July 2020) during her time at Consulting Group.\n\nOn the other hand, Sarah Johnson's experience in management roles is not explicitly stated on her resume. While she has experience as a Machine Learning Engineer and Data Scientist, there is no mention of management responsibilities in those positions.\n\nTherefore, Emily Brown (Resume 5) has the most experience as a manager among the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:41:19.614351Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) both have experience in management roles. However, Emily Brown's experience as a Project Manager/Business Analyst at Consulting Group is more extensive, with responsibilities including:\n\n* Managing multiple software development projects from initiation to closure\n* Coordinating with clients and development teams\n* Conducting business analysis to identify client needs\n\nEmily Brown's experience as a manager spans approximately 2 years (September 2018 \u2013 July 2020) during her time at Consulting Group.\n\nOn the other hand, Sarah Johnson's experience in management roles is not explicitly stated on her resume. While she has experience as a Machine Learning Engineer and Data Scientist, there is no mention of management responsibilities in those positions.\n\nTherefore, Emily Brown (Resume 5) has the most experience as a manager among the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7809828709,
+                "load_duration": 14440334,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46444000,
+                "eval_count": 179,
+                "eval_duration": 7747540000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) are not primarily managers. However, among the given candidates, John Smith (Resume 2) is also not primarily a manager.\n\nThe candidate with the most experience as a manager appears to be Jane Doe (Resume 1), who worked as a \"Collaborated closely with UX/UI designers\" (implying some leadership role), but Emily Brown (Resume 5) had more significant managerial roles.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:41:24.10992Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) are not primarily managers. However, among the given candidates, John Smith (Resume 2) is also not primarily a manager.\n\nThe candidate with the most experience as a manager appears to be Jane Doe (Resume 1), who worked as a \"Collaborated closely with UX/UI designers\" (implying some leadership role), but Emily Brown (Resume 5) had more significant managerial roles."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4491532458,
+                "load_duration": 14393792,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46731000,
+                "eval_count": 103,
+                "eval_duration": 4429333000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs a Software Engineer at Enterprise Solutions Inc., she:\n\n* Collaborated with cross-functional teams to gather requirements and translate them into technical specifications.\n* Led a team of developers in implementing a major system overhaul, improving system performance by 35%.\n* Utilized Agile methodologies to manage project timelines and deliverables, ensuring projects were completed on time.\n\nAdditionally, as a Project Manager/Business Analyst at Consulting Group, she:\n\n* Managed multiple software development projects from initiation to closure, coordinating with clients and development teams.\n* Conducted business analysis to identify client needs and provided solutions that aligned with their strategic goals.\n* Created project documentation, including requirements specifications, project plans, and user manuals.\n\nTherefore, Emily Brown has a total of 7 years of experience in management roles.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:41:31.749155Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs a Software Engineer at Enterprise Solutions Inc., she:\n\n* Collaborated with cross-functional teams to gather requirements and translate them into technical specifications.\n* Led a team of developers in implementing a major system overhaul, improving system performance by 35%.\n* Utilized Agile methodologies to manage project timelines and deliverables, ensuring projects were completed on time.\n\nAdditionally, as a Project Manager/Business Analyst at Consulting Group, she:\n\n* Managed multiple software development projects from initiation to closure, coordinating with clients and development teams.\n* Conducted business analysis to identify client needs and provided solutions that aligned with their strategic goals.\n* Created project documentation, including requirements specifications, project plans, and user manuals.\n\nTherefore, Emily Brown has a total of 7 years of experience in management roles."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7635148041,
+                "load_duration": 14564166,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47118000,
+                "eval_count": 175,
+                "eval_duration": 7572017000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) both have experience as managers, but in different capacities.\n\nEmily Brown has experience as a:\n\n* Project Manager / Business Analyst at Consulting Group, where she managed multiple software development projects from initiation to closure.\n* Software Engineer at Enterprise Solutions Inc., where she led a team of developers in implementing a major system overhaul and utilized Agile methodologies to manage project timelines and deliverables.\n\nSarah Johnson has experience as a:\n\n* Machine Learning Engineer at Data Insights Corp, where she collaborated with data scientists and software engineers to integrate ML models into production systems.\n* Data Scientist at Smart Analytics, where she presented data-driven insights to stakeholders and influenced key business decisions and strategy (although this role is more focused on individual contributor work).\n\nHowever, Emily Brown's experience as a Project Manager / Business Analyst at Consulting Group indicates that she has the most experience as a manager among the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:41:40.188408Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) both have experience as managers, but in different capacities.\n\nEmily Brown has experience as a:\n\n* Project Manager / Business Analyst at Consulting Group, where she managed multiple software development projects from initiation to closure.\n* Software Engineer at Enterprise Solutions Inc., where she led a team of developers in implementing a major system overhaul and utilized Agile methodologies to manage project timelines and deliverables.\n\nSarah Johnson has experience as a:\n\n* Machine Learning Engineer at Data Insights Corp, where she collaborated with data scientists and software engineers to integrate ML models into production systems.\n* Data Scientist at Smart Analytics, where she presented data-driven insights to stakeholders and influenced key business decisions and strategy (although this role is more focused on individual contributor work).\n\nHowever, Emily Brown's experience as a Project Manager / Business Analyst at Consulting Group indicates that she has the most experience as a manager among the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 8434548167,
+                "load_duration": 14640708,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47136000,
+                "eval_count": 193,
+                "eval_duration": 8371725000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) have experience managing teams or projects, but Emily Brown has the most experience as a manager.\n\nEmily Brown's resume shows that she was a:\n\n* Project Manager / Business Analyst at Consulting Group (September 2018 \u2013 July 2020)\n\t+ Managed multiple software development projects from initiation to closure\n\t+ Coordinated with clients and development teams\n\nThis indicates that Emily Brown has significant experience managing multiple projects and teams.\n\nWhile Sarah Johnson's resume shows that she was a Machine Learning Engineer, there is no direct evidence of her being in a management role.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:41:45.984331Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) have experience managing teams or projects, but Emily Brown has the most experience as a manager.\n\nEmily Brown's resume shows that she was a:\n\n* Project Manager / Business Analyst at Consulting Group (September 2018 \u2013 July 2020)\n\t+ Managed multiple software development projects from initiation to closure\n\t+ Coordinated with clients and development teams\n\nThis indicates that Emily Brown has significant experience managing multiple projects and teams.\n\nWhile Sarah Johnson's resume shows that she was a Machine Learning Engineer, there is no direct evidence of her being in a management role."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5791878208,
+                "load_duration": 14898291,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47173000,
+                "eval_count": 133,
+                "eval_duration": 5728728000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown from Resume 5 has the most experience as a manager.\n\nHer current position at Enterprise Solutions Inc. (from August 2020 to present) is listed as Software Engineer, but under her previous experience at Consulting Group (September 2018 - July 2020), she held the role of Project Manager / Business Analyst, which indicates significant management responsibilities.\n\nIn this role, she:\n\n* Managed multiple software development projects from initiation to closure\n* Coordinated with clients and development teams\n* Conducted business analysis and provided solutions that aligned with client strategic goals\n\nThis experience suggests that Emily has a strong background in project management and leadership, making her the candidate with the most experience as a manager.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:41:52.437407Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown from Resume 5 has the most experience as a manager.\n\nHer current position at Enterprise Solutions Inc. (from August 2020 to present) is listed as Software Engineer, but under her previous experience at Consulting Group (September 2018 - July 2020), she held the role of Project Manager / Business Analyst, which indicates significant management responsibilities.\n\nIn this role, she:\n\n* Managed multiple software development projects from initiation to closure\n* Coordinated with clients and development teams\n* Conducted business analysis and provided solutions that aligned with client strategic goals\n\nThis experience suggests that Emily has a strong background in project management and leadership, making her the candidate with the most experience as a manager."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6448321500,
+                "load_duration": 15205416,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47103000,
+                "eval_count": 148,
+                "eval_duration": 6384497000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager. She worked as a:\n\n1. Project Manager / Business Analyst at Consulting Group from September 2018 to July 2020.\n2. Team Lead in implementing a major system overhaul, improving system performance by 35% while working as a Software Engineer at Enterprise Solutions Inc.\n\nWhile other candidates have some management experience, Emily Brown's roles and responsibilities indicate that she has had more extensive experience in managing projects and teams.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:41:57.009975Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager. She worked as a:\n\n1. Project Manager / Business Analyst at Consulting Group from September 2018 to July 2020.\n2. Team Lead in implementing a major system overhaul, improving system performance by 35% while working as a Software Engineer at Enterprise Solutions Inc.\n\nWhile other candidates have some management experience, Emily Brown's roles and responsibilities indicate that she has had more extensive experience in managing projects and teams."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4568643375,
+                "load_duration": 14422750,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46608000,
+                "eval_count": 105,
+                "eval_duration": 4506501000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nIn her role as Project Manager / Business Analyst at Consulting Group (September 2018 - July 2020), she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, and created project documentation. This indicates that she has hands-on experience in managing projects, teams, and stakeholders.\n\nAdditionally, she also led a team of developers in implementing a major system overhaul at Enterprise Solutions Inc., which suggests that she has experience in leading technical teams and driving complex initiatives forward.\n\nWhile other candidates may have some experience with management or leadership roles, Emily Brown's resume indicates the most extensive and relevant experience as a manager.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:03.649709Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nIn her role as Project Manager / Business Analyst at Consulting Group (September 2018 - July 2020), she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, and created project documentation. This indicates that she has hands-on experience in managing projects, teams, and stakeholders.\n\nAdditionally, she also led a team of developers in implementing a major system overhaul at Enterprise Solutions Inc., which suggests that she has experience in leading technical teams and driving complex initiatives forward.\n\nWhile other candidates may have some experience with management or leadership roles, Emily Brown's resume indicates the most extensive and relevant experience as a manager."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6635171542,
+                "load_duration": 14464500,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47664000,
+                "eval_count": 151,
+                "eval_duration": 6571441000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group from September 2018 to July 2020, she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, and conducted business analysis to identify client needs.\n\nAdditionally, in her role as Software Engineer at Enterprise Solutions Inc. (August 2020 - Present), she also led a team of developers in implementing a major system overhaul, improving system performance by 35%.\n\nWhile other candidates have some experience with managing projects or teams, Emily Brown's resume indicates the most extensive and relevant experience as a manager.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:09.730912Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group from September 2018 to July 2020, she managed multiple software development projects from initiation to closure, coordinated with clients and development teams, and conducted business analysis to identify client needs.\n\nAdditionally, in her role as Software Engineer at Enterprise Solutions Inc. (August 2020 - Present), she also led a team of developers in implementing a major system overhaul, improving system performance by 35%.\n\nWhile other candidates have some experience with managing projects or teams, Emily Brown's resume indicates the most extensive and relevant experience as a manager."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6077285417,
+                "load_duration": 14392209,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47155000,
+                "eval_count": 139,
+                "eval_duration": 6013654000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes:\n\n* Resume 4: Alex Williams mentions that he \"Collaborated with product managers and designers to define project requirements\" but does not explicitly state that he managed teams.\n* Resume 5: Emily Brown mentions that she \"Managed multiple software development projects from initiation to closure, coordinating with clients and development teams\" which indicates significant management experience. She also mentions leading a team in implementing a major system overhaul.\n* Resume 1: Jane Doe mentions collaborating closely with UX/UI designers but does not explicitly state that she managed teams.\n* Resume 2: John Smith mentions conducting code reviews and providing mentorship to junior developers, which suggests some level of leadership or management experience. However, the extent of this is unclear.\n* Resume 3: Sarah Johnson mentions collaborating with data scientists and software engineers but does not explicitly state that she managed teams.\n\nBased on these details, **Resume 5: Emily Brown** appears to have the most extensive experience as a manager among all candidates listed in the resumes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:18.758562Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes:\n\n* Resume 4: Alex Williams mentions that he \"Collaborated with product managers and designers to define project requirements\" but does not explicitly state that he managed teams.\n* Resume 5: Emily Brown mentions that she \"Managed multiple software development projects from initiation to closure, coordinating with clients and development teams\" which indicates significant management experience. She also mentions leading a team in implementing a major system overhaul.\n* Resume 1: Jane Doe mentions collaborating closely with UX/UI designers but does not explicitly state that she managed teams.\n* Resume 2: John Smith mentions conducting code reviews and providing mentorship to junior developers, which suggests some level of leadership or management experience. However, the extent of this is unclear.\n* Resume 3: Sarah Johnson mentions collaborating with data scientists and software engineers but does not explicitly state that she managed teams.\n\nBased on these details, **Resume 5: Emily Brown** appears to have the most extensive experience as a manager among all candidates listed in the resumes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9024575708,
+                "load_duration": 15113250,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47274000,
+                "eval_count": 206,
+                "eval_duration": 8960232000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager. She is listed as \"Project Manager / Business Analyst\" at Consulting Group from September 2018 to July 2020, which indicates that she had management responsibilities for multiple software development projects.\n\nAdditionally, in her current role as Software Engineer at Enterprise Solutions Inc., she is mentioned as having led a team of developers in implementing a major system overhaul, improving system performance by 35%. This suggests that she also has experience leading teams and making significant technical decisions.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:23.68549Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) has the most experience as a manager. She is listed as \"Project Manager / Business Analyst\" at Consulting Group from September 2018 to July 2020, which indicates that she had management responsibilities for multiple software development projects.\n\nAdditionally, in her current role as Software Engineer at Enterprise Solutions Inc., she is mentioned as having led a team of developers in implementing a major system overhaul, improving system performance by 35%. This suggests that she also has experience leading teams and making significant technical decisions."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4922947000,
+                "load_duration": 14277667,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47200000,
+                "eval_count": 113,
+                "eval_duration": 4859529000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nShe lists her previous role as \"Project Manager / Business Analyst\" at Consulting Group in Chicago, IL, where she:\n\n* Managed multiple software development projects from initiation to closure\n* Coordinated with clients and development teams\n* Conducted business analysis to identify client needs and provided solutions\n\nThis experience indicates that Emily has managed teams and projects, making her the candidate with the most experience as a manager.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:28.221044Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nShe lists her previous role as \"Project Manager / Business Analyst\" at Consulting Group in Chicago, IL, where she:\n\n* Managed multiple software development projects from initiation to closure\n* Coordinated with clients and development teams\n* Conducted business analysis to identify client needs and provided solutions\n\nThis experience indicates that Emily has managed teams and projects, making her the candidate with the most experience as a manager."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4531365166,
+                "load_duration": 14154291,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 46278000,
+                "eval_count": 104,
+                "eval_duration": 4469670000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) have experience as managers.\n\nEmily Brown was a Project Manager / Business Analyst at Consulting Group from September 2018 to July 2020. She managed multiple software development projects from initiation to closure and coordinated with clients and development teams.\n\nSarah Johnson does not explicitly mention being a manager, but her role as a Machine Learning Engineer at Data Insights Corp from March 2020 to Present includes leading cross-functional teams and influencing key business decisions, which may imply some level of management responsibility.\n\nHowever, Emily Brown has the most explicit experience as a manager, having managed multiple projects and teams throughout her career.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:34.328567Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) and Sarah Johnson (Resume 3) have experience as managers.\n\nEmily Brown was a Project Manager / Business Analyst at Consulting Group from September 2018 to July 2020. She managed multiple software development projects from initiation to closure and coordinated with clients and development teams.\n\nSarah Johnson does not explicitly mention being a manager, but her role as a Machine Learning Engineer at Data Insights Corp from March 2020 to Present includes leading cross-functional teams and influencing key business decisions, which may imply some level of management responsibility.\n\nHowever, Emily Brown has the most explicit experience as a manager, having managed multiple projects and teams throughout her career."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6105214500,
+                "load_duration": 14243042,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47132000,
+                "eval_count": 140,
+                "eval_duration": 6042086000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group from September 2018 to July 2020, she managed multiple software development projects and coordinated with clients and development teams. She also led a team of developers in implementing a major system overhaul.\n\nWhile other candidates may have some experience with management or leadership roles, Emily Brown's resume suggests that she has had more extensive experience as a manager.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Emily",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T18:42:38.783751Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Emily Brown (Resume 5) appears to have the most experience as a manager.\n\nAs a Project Manager/Business Analyst at Consulting Group from September 2018 to July 2020, she managed multiple software development projects and coordinated with clients and development teams. She also led a team of developers in implementing a major system overhaul.\n\nWhile other candidates may have some experience with management or leadership roles, Emily Brown's resume suggests that she has had more extensive experience as a manager."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4451337166,
+                "load_duration": 14774916,
+                "prompt_eval_count": 1815,
+                "prompt_eval_duration": 47162000,
+                "eval_count": 102,
+                "eval_duration": 4388187000
+            }
+        }
+    ]
+}

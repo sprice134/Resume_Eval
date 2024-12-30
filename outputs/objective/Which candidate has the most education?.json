@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education.\n\nShe has:\n\n* A Master of Science (M.S.) in Computer Science with a specialization in AI/ML from Columbia University\n* A Bachelor of Science (B.S.) in Computer Science from New York University",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:24:35.23927Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education.\n\nShe has:\n\n* A Master of Science (M.S.) in Computer Science with a specialization in AI/ML from Columbia University\n* A Bachelor of Science (B.S.) in Computer Science from New York University"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2762189125,
+                "load_duration": 15782833,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 114818000,
+                "eval_count": 61,
+                "eval_duration": 2630531000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nShe holds a master's degree and two bachelor's degrees, making her the candidate with the most education.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:24:38.897257Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nShe holds a master's degree and two bachelor's degrees, making her the candidate with the most education."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3653985916,
+                "load_duration": 14644750,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47477000,
+                "eval_count": 83,
+                "eval_duration": 3590284000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education.\n\nShe has:\n\n* A B.S. in Computer Science from New York University (2012-2016)\n* An M.S. in Computer Science with a specialization in AI/ML from Columbia University (2016-2018)\n\nSo, Sarah Johnson has completed both her Bachelor's and Master's degrees in Computer Science.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:24:42.625717Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education.\n\nShe has:\n\n* A B.S. in Computer Science from New York University (2012-2016)\n* An M.S. in Computer Science with a specialization in AI/ML from Columbia University (2016-2018)\n\nSo, Sarah Johnson has completed both her Bachelor's and Master's degrees in Computer Science."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3725334000,
+                "load_duration": 14577833,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47747000,
+                "eval_count": 84,
+                "eval_duration": 3661833000
+            }
+        },
+        {
+            "Content": "According to the resumes provided, Sarah Johnson (Resume 3) has the most education. She holds:\n\n1. A Master of Science (M.S.) degree in Computer Science with a specialization in AI/ML from Columbia University (2016-2018)\n2. A Bachelor of Science (B.S.) degree in Computer Science from New York University (2012-2016)\n\nThis means Sarah Johnson has two higher education degrees, making her the candidate with the most education.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:24:47.092456Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to the resumes provided, Sarah Johnson (Resume 3) has the most education. She holds:\n\n1. A Master of Science (M.S.) degree in Computer Science with a specialization in AI/ML from Columbia University (2016-2018)\n2. A Bachelor of Science (B.S.) degree in Computer Science from New York University (2012-2016)\n\nThis means Sarah Johnson has two higher education degrees, making her the candidate with the most education."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4462723333,
+                "load_duration": 14907833,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47616000,
+                "eval_count": 97,
+                "eval_duration": 4398598000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most education.\n\nShe holds:\n\n* A M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* A B.S. in Computer Science from New York University (2012-2016)\n\nThe other candidates have either a Bachelor's degree or no additional degrees mentioned beyond their undergraduate studies.\n\nSo, Sarah Johnson has the most education among all the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:24:51.723627Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) is the candidate with the most education.\n\nShe holds:\n\n* A M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* A B.S. in Computer Science from New York University (2012-2016)\n\nThe other candidates have either a Bachelor's degree or no additional degrees mentioned beyond their undergraduate studies.\n\nSo, Sarah Johnson has the most education among all the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4628737625,
+                "load_duration": 14687667,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47996000,
+                "eval_count": 103,
+                "eval_duration": 4565018000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 3: Sarah Johnson stands out as having the most education.\n\nShe holds:\n\n1. A Master of Science (M.S.) degree in Computer Science with a specialization in Artificial Intelligence/Machine Learning from Columbia University.\n2. A Bachelor of Science (B.S.) degree in Computer Science from New York University.\n\nThis combination of advanced and undergraduate degrees makes Sarah Johnson's educational background the most extensive among the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:24:55.758303Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 3: Sarah Johnson stands out as having the most education.\n\nShe holds:\n\n1. A Master of Science (M.S.) degree in Computer Science with a specialization in Artificial Intelligence/Machine Learning from Columbia University.\n2. A Bachelor of Science (B.S.) degree in Computer Science from New York University.\n\nThis combination of advanced and undergraduate degrees makes Sarah Johnson's educational background the most extensive among the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4030524417,
+                "load_duration": 15624292,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 48766000,
+                "eval_count": 91,
+                "eval_duration": 3965096000
+            }
+        },
+        {
+            "Content": "After reviewing the resumes, I can see that Resume 3: Sarah Johnson has the most education.\n\nShe has a Master's degree (M.S.) in Computer Science with a specialization in AI/ML from Columbia University, and also holds a Bachelor's degree (B.S.) in Computer Science from New York University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:24:58.563866Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "After reviewing the resumes, I can see that Resume 3: Sarah Johnson has the most education.\n\nShe has a Master's degree (M.S.) in Computer Science with a specialization in AI/ML from Columbia University, and also holds a Bachelor's degree (B.S.) in Computer Science from New York University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2801309500,
+                "load_duration": 14902292,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47521000,
+                "eval_count": 64,
+                "eval_duration": 2737196000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education. She has a:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nTherefore, she has two degrees: a master's and a bachelor's degree.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:02.184592Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education. She has a:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nTherefore, she has two degrees: a master's and a bachelor's degree."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3616971667,
+                "load_duration": 14348708,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 48204000,
+                "eval_count": 82,
+                "eval_duration": 3553352000
+            }
+        },
+        {
+            "Content": "According to the resumes provided, Resume 3: Sarah Johnson is the candidate with the most education.\n\nHere's her educational background:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016 - 2018)\n* B.S. in Computer Science from New York University (2012 - 2016)\n\nNote that Resume 3: Sarah Johnson is a Machine Learning Engineer, and she has an M.S. degree which is typically considered to be at the master's level, whereas the other resumes have candidates with Bachelor of Science (B.S.) degrees.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:07.585918Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to the resumes provided, Resume 3: Sarah Johnson is the candidate with the most education.\n\nHere's her educational background:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016 - 2018)\n* B.S. in Computer Science from New York University (2012 - 2016)\n\nNote that Resume 3: Sarah Johnson is a Machine Learning Engineer, and she has an M.S. degree which is typically considered to be at the master's level, whereas the other resumes have candidates with Bachelor of Science (B.S.) degrees."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5398621500,
+                "load_duration": 14671417,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47204000,
+                "eval_count": 122,
+                "eval_duration": 5335439000
+            }
+        },
+        {
+            "Content": "According to the resumes provided:\n\nResume 3: Sarah Johnson has two degrees:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nSo, Sarah Johnson has the most education among the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:10.823813Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to the resumes provided:\n\nResume 3: Sarah Johnson has two degrees:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nSo, Sarah Johnson has the most education among the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3233590125,
+                "load_duration": 14511750,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47359000,
+                "eval_count": 73,
+                "eval_duration": 3170652000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education. She holds both a Bachelor's degree and a Master's degree in Computer Science, with a specialization in AI/ML from Columbia University and New York University respectively.\n\nHere is a summary of her education:\n\n* B.S. in Computer Science\n\t+ New York University | New York, NY\n\t+ 2012 \u2013 2016\n* M.S. in Computer Science (Specialization in AI/ML)\n\t+ Columbia University | New York, NY\n\t+ 2016 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:16.264918Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education. She holds both a Bachelor's degree and a Master's degree in Computer Science, with a specialization in AI/ML from Columbia University and New York University respectively.\n\nHere is a summary of her education:\n\n* B.S. in Computer Science\n\t+ New York University | New York, NY\n\t+ 2012 \u2013 2016\n* M.S. in Computer Science (Specialization in AI/ML)\n\t+ Columbia University | New York, NY\n\t+ 2016 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5436960834,
+                "load_duration": 14921292,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47303000,
+                "eval_count": 122,
+                "eval_duration": 5373903000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Resume 3: Sarah Johnson stands out as the candidate with the most education.\n\nHere's a breakdown of her educational background:\n\n1. B.S. in Computer Science from New York University (2012-2016)\n2. M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n\nWhile other candidates also have impressive educational backgrounds, Sarah Johnson has earned both a Bachelor's and a Master's degree, which indicates that she has invested more time and effort into her education compared to the others.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:21.468852Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Resume 3: Sarah Johnson stands out as the candidate with the most education.\n\nHere's a breakdown of her educational background:\n\n1. B.S. in Computer Science from New York University (2012-2016)\n2. M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n\nWhile other candidates also have impressive educational backgrounds, Sarah Johnson has earned both a Bachelor's and a Master's degree, which indicates that she has invested more time and effort into her education compared to the others."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5199563167,
+                "load_duration": 14645542,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47543000,
+                "eval_count": 118,
+                "eval_duration": 5135700000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Sarah Johnson (Resume 3) has the most education.\n\nShe holds two degrees:\n\n1. M.S. in Computer Science (with a specialization in AI/ML) from Columbia University.\n2. B.S. in Computer Science from New York University.\n\nThis means she has a total of 6 years of post-secondary education, making her the candidate with the most education among the provided resumes.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:25.307876Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Sarah Johnson (Resume 3) has the most education.\n\nShe holds two degrees:\n\n1. M.S. in Computer Science (with a specialization in AI/ML) from Columbia University.\n2. B.S. in Computer Science from New York University.\n\nThis means she has a total of 6 years of post-secondary education, making her the candidate with the most education among the provided resumes."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3834836958,
+                "load_duration": 14548333,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 48504000,
+                "eval_count": 86,
+                "eval_duration": 3770651000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education.\n\nShe holds two degrees:\n\n1. M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n2. B.S. in Computer Science from New York University (2012-2016)\n\nNote that the other candidates have only one degree each, making Sarah Johnson's educational background the most extensive among them.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:29.419369Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education.\n\nShe holds two degrees:\n\n1. M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n2. B.S. in Computer Science from New York University (2012-2016)\n\nNote that the other candidates have only one degree each, making Sarah Johnson's educational background the most extensive among them."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4107804542,
+                "load_duration": 14911167,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47515000,
+                "eval_count": 92,
+                "eval_duration": 4043862000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most education.\n\n* She holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* And a B.S. in Computer Science from New York University (2012-2016)\n\nThis makes her the candidate with the highest level of education among the five resumes provided.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:33.093234Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most education.\n\n* She holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* And a B.S. in Computer Science from New York University (2012-2016)\n\nThis makes her the candidate with the highest level of education among the five resumes provided."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3670037166,
+                "load_duration": 14579083,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47475000,
+                "eval_count": 83,
+                "eval_duration": 3606902000
+            }
+        },
+        {
+            "Content": "Sarah Johnson (Resume 3) has the most education among all candidates. She holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University and a B.S. in Computer Science from New York University, both of which are higher than the B.S. degrees held by the other candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:36.198895Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Sarah Johnson (Resume 3) has the most education among all candidates. She holds an M.S. in Computer Science (Specialization in AI/ML) from Columbia University and a B.S. in Computer Science from New York University, both of which are higher than the B.S. degrees held by the other candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3101874416,
+                "load_duration": 15329833,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47864000,
+                "eval_count": 66,
+                "eval_duration": 3037685000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most education. She holds:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nThis means that she has a Master's degree and a Bachelor's degree, making her the candidate with the most education.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:40.133118Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most education. She holds:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nThis means that she has a Master's degree and a Bachelor's degree, making her the candidate with the most education."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3931306250,
+                "load_duration": 14374000,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47931000,
+                "eval_count": 88,
+                "eval_duration": 3867489000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, Sarah Johnson from Resume 3 has the most education:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nThis indicates that Sarah Johnson has a Master's degree and an additional Bachelor's degree, making her the candidate with the most education.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:44.127693Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, Sarah Johnson from Resume 3 has the most education:\n\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n* B.S. in Computer Science from New York University (2012-2016)\n\nThis indicates that Sarah Johnson has a Master's degree and an additional Bachelor's degree, making her the candidate with the most education."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3992546541,
+                "load_duration": 15288375,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 50550000,
+                "eval_count": 87,
+                "eval_duration": 3925245000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most education.\n\n* She has a Master's degree (M.S.) in Computer Science with a specialization in AI/ML from Columbia University.\n* In addition to her Master's degree, she also has a Bachelor's degree (B.S.) in Computer Science from New York University.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:47.249024Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most education.\n\n* She has a Master's degree (M.S.) in Computer Science with a specialization in AI/ML from Columbia University.\n* In addition to her Master's degree, she also has a Bachelor's degree (B.S.) in Computer Science from New York University."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3117461708,
+                "load_duration": 14726917,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47451000,
+                "eval_count": 71,
+                "eval_duration": 3053648000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education. She holds two degrees:\n\n1. M.S. in Computer Science (Specialization in AI/ML) from Columbia University\n2. B.S. in Computer Science from New York University\n\nThe other candidates have only one degree listed on their resumes:\n\n* Resume 4: Alex Williams - B.S. in Computer Science from the University of Washington\n* Resume 5: Emily Brown - B.S. in Information Technology from DePaul University\n* Resume 1: Jane Doe - B.S. in Computer Science from the University of California, Berkeley\n* Resume 2: John Smith - B.S. in Software Engineering from The University of Texas at Austin\n* Resume 3: Sarah Johnson (as mentioned earlier)",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:25:54.581834Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education. She holds two degrees:\n\n1. M.S. in Computer Science (Specialization in AI/ML) from Columbia University\n2. B.S. in Computer Science from New York University\n\nThe other candidates have only one degree listed on their resumes:\n\n* Resume 4: Alex Williams - B.S. in Computer Science from the University of Washington\n* Resume 5: Emily Brown - B.S. in Information Technology from DePaul University\n* Resume 1: Jane Doe - B.S. in Computer Science from the University of California, Berkeley\n* Resume 2: John Smith - B.S. in Software Engineering from The University of Texas at Austin\n* Resume 3: Sarah Johnson (as mentioned earlier)"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 7328557250,
+                "load_duration": 14634000,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47259000,
+                "eval_count": 164,
+                "eval_duration": 7265678000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes, I can see that:\n\n* Emily Brown (Resume 5) has a B.S. in Information Technology from DePaul University.\n* Jane Doe (Resume 1) has a B.S. in Computer Science from the University of California, Berkeley.\n* John Smith (Resume 2) has a B.S. in Software Engineering from The University of Texas at Austin.\n* Sarah Johnson (Resume 3) has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.\n\nSo, Sarah Johnson (Resume 3) has the most education among all candidates, with both a Master's and Bachelor's degree in Computer Science, and a specialization in Artificial Intelligence/Machine Learning!",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:01.272741Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes, I can see that:\n\n* Emily Brown (Resume 5) has a B.S. in Information Technology from DePaul University.\n* Jane Doe (Resume 1) has a B.S. in Computer Science from the University of California, Berkeley.\n* John Smith (Resume 2) has a B.S. in Software Engineering from The University of Texas at Austin.\n* Sarah Johnson (Resume 3) has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University.\n\nSo, Sarah Johnson (Resume 3) has the most education among all candidates, with both a Master's and Bachelor's degree in Computer Science, and a specialization in Artificial Intelligence/Machine Learning!"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 6688637750,
+                "load_duration": 14728291,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47461000,
+                "eval_count": 149,
+                "eval_duration": 6625467000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I can see that Sarah Johnson (Resume 3) has the most education.\n\nSarah Johnson has two degrees:\n\n1. M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016 - 2018)\n2. B.S. in Computer Science from New York University (2012 - 2016)\n\nTherefore, Sarah Johnson is the candidate with the most education among the five candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:05.566791Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I can see that Sarah Johnson (Resume 3) has the most education.\n\nSarah Johnson has two degrees:\n\n1. M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016 - 2018)\n2. B.S. in Computer Science from New York University (2012 - 2016)\n\nTherefore, Sarah Johnson is the candidate with the most education among the five candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4291281583,
+                "load_duration": 14289958,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47488000,
+                "eval_count": 93,
+                "eval_duration": 4227999000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, I can see that:\n\n* Sarah Johnson (Resume 3) has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University and a B.S. in Computer Science from New York University.\n* John Smith (Resume 2), Jane Doe (Resume 1), Emily Brown (Resume 5), Alex Williams (Resume 4), Sarah Johnson (Resume 3), and John Smith's education is less than that of one candidate.\n\nSo, the answer is: **Sarah Johnson**.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:10.787433Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, I can see that:\n\n* Sarah Johnson (Resume 3) has an M.S. in Computer Science (Specialization in AI/ML) from Columbia University and a B.S. in Computer Science from New York University.\n* John Smith (Resume 2), Jane Doe (Resume 1), Emily Brown (Resume 5), Alex Williams (Resume 4), Sarah Johnson (Resume 3), and John Smith's education is less than that of one candidate.\n\nSo, the answer is: **Sarah Johnson**."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 5216848000,
+                "load_duration": 15271917,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 51733000,
+                "eval_count": 112,
+                "eval_duration": 5148052000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most education.\n\nShe holds:\n\n* A Master of Science (M.S.) in Computer Science with a specialization in AI/ML from Columbia University (2016-2018)\n* A Bachelor of Science (B.S.) in Computer Science from New York University (2012-2016)\n\nSo, Sarah Johnson has 2 degrees, which is the most among all the candidates.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:14.806741Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 3: Sarah Johnson has the most education.\n\nShe holds:\n\n* A Master of Science (M.S.) in Computer Science with a specialization in AI/ML from Columbia University (2016-2018)\n* A Bachelor of Science (B.S.) in Computer Science from New York University (2012-2016)\n\nSo, Sarah Johnson has 2 degrees, which is the most among all the candidates."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4015314250,
+                "load_duration": 14479708,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 48834000,
+                "eval_count": 91,
+                "eval_duration": 3950312000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she holds two degrees:\n\n1. M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n2. B.S. in Computer Science from New York University (2012-2016)\n\nTherefore, Sarah Johnson has the most education among all the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:18.050394Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she holds two degrees:\n\n1. M.S. in Computer Science (Specialization in AI/ML) from Columbia University (2016-2018)\n2. B.S. in Computer Science from New York University (2012-2016)\n\nTherefore, Sarah Johnson has the most education among all the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3240596709,
+                "load_duration": 14923125,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47496000,
+                "eval_count": 74,
+                "eval_duration": 3177131000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson from Resume 3 has the most education.\n\nShe holds:\n\n* A B.S. in Computer Science from New York University (2012-2016)\n* An M.S. in Computer Science with a specialization in AI/ML from Columbia University (2016-2018)\n\nSo, she has completed both a Bachelor's and Master's degree in Computer Science, making her the candidate with the most education.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:22.09811Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson from Resume 3 has the most education.\n\nShe holds:\n\n* A B.S. in Computer Science from New York University (2012-2016)\n* An M.S. in Computer Science with a specialization in AI/ML from Columbia University (2016-2018)\n\nSo, she has completed both a Bachelor's and Master's degree in Computer Science, making her the candidate with the most education."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4043718833,
+                "load_duration": 15551667,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47974000,
+                "eval_count": 91,
+                "eval_duration": 3979019000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education. She holds:\n\n* A Master of Science degree in Computer Science (Specialization in AI/ML) from Columbia University\n* A Bachelor of Science degree in Computer Science from New York University",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:24.652521Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Sarah Johnson (Resume 3) has the most education. She holds:\n\n* A Master of Science degree in Computer Science (Specialization in AI/ML) from Columbia University\n* A Bachelor of Science degree in Computer Science from New York University"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2551888583,
+                "load_duration": 14947625,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 47790000,
+                "eval_count": 56,
+                "eval_duration": 2487697000
+            }
+        },
+        {
+            "Content": "Resume 3: Sarah Johnson has the most education among all candidates.\n\n* She holds a Master of Science (M.S.) degree in Computer Science with specialization in Artificial Intelligence/Machine Learning from Columbia University.\n* In addition, she also holds a Bachelor of Science (B.S.) degree in Computer Science from New York University.\n\nNo other candidate has a higher level of education than Sarah Johnson.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:28.29509Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 3: Sarah Johnson has the most education among all candidates.\n\n* She holds a Master of Science (M.S.) degree in Computer Science with specialization in Artificial Intelligence/Machine Learning from Columbia University.\n* In addition, she also holds a Bachelor of Science (B.S.) degree in Computer Science from New York University.\n\nNo other candidate has a higher level of education than Sarah Johnson."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 3639437458,
+                "load_duration": 18580416,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 54395000,
+                "eval_count": 79,
+                "eval_duration": 3563928000
+            }
+        },
+        {
+            "Content": "Based on the provided resumes:\n\nResume 3: Sarah Johnson has both a Bachelor's degree (B.S.) and a Master's degree (M.S.), making her the candidate with the most education.\n\nHere are her educational credentials:\n* B.S. in Computer Science from New York University\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University\n\nSo, Sarah Johnson has 2 degrees listed on her resume.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:32.416944Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the provided resumes:\n\nResume 3: Sarah Johnson has both a Bachelor's degree (B.S.) and a Master's degree (M.S.), making her the candidate with the most education.\n\nHere are her educational credentials:\n* B.S. in Computer Science from New York University\n* M.S. in Computer Science (Specialization in AI/ML) from Columbia University\n\nSo, Sarah Johnson has 2 degrees listed on her resume."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 4118473208,
+                "load_duration": 15267125,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 49492000,
+                "eval_count": 91,
+                "eval_duration": 4052549000
+            }
+        },
+        {
+            "Content": "According to Resume 3: Sarah Johnson, she has a Master's degree (M.S.) from Columbia University and a Bachelor's degree (B.S.) from New York University. This indicates that she has the most education among all the candidates listed.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "Sarah",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:26:34.868469Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 3: Sarah Johnson, she has a Master's degree (M.S.) from Columbia University and a Bachelor's degree (B.S.) from New York University. This indicates that she has the most education among all the candidates listed."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2448977542,
+                "load_duration": 22068750,
+                "prompt_eval_count": 1810,
+                "prompt_eval_duration": 51359000,
+                "eval_count": 51,
+                "eval_duration": 2374173000
+            }
+        }
+    ]
+}

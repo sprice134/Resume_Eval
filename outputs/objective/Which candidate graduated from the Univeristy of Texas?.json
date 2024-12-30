@@ -1,0 +1,664 @@
+{
+    "Data": [
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (not just \"University of Texas\", which could refer to other institutions).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:00.51545Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (not just \"University of Texas\", which could refer to other institutions)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 9354489625,
+                "load_duration": 1579070167,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 5968590000,
+                "eval_count": 42,
+                "eval_duration": 1802645000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014 \u2013 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:02.075043Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014 \u2013 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1554887959,
+                "load_duration": 15266750,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46990000,
+                "eval_count": 35,
+                "eval_duration": 1490881000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:03.596131Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1516584084,
+                "load_duration": 15092667,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47332000,
+                "eval_count": 34,
+                "eval_duration": 1452756000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:05.020487Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1420735958,
+                "load_duration": 14420042,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48883000,
+                "eval_count": 32,
+                "eval_duration": 1355653000
+            }
+        },
+        {
+            "Content": "According to Resume 2 (John Smith), he graduated from The University of Texas at Austin with a B.S. in Software Engineering in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:06.444582Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2 (John Smith), he graduated from The University of Texas at Austin with a B.S. in Software Engineering in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1418935541,
+                "load_duration": 14552333,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46946000,
+                "eval_count": 32,
+                "eval_duration": 1356454000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:07.693851Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1244862084,
+                "load_duration": 14988959,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47142000,
+                "eval_count": 28,
+                "eval_duration": 1181570000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:08.941815Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1245116833,
+                "load_duration": 14314458,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47135000,
+                "eval_count": 28,
+                "eval_duration": 1182049000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014 \u2013 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:10.484874Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014 \u2013 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1541367209,
+                "load_duration": 14357417,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47446000,
+                "eval_count": 35,
+                "eval_duration": 1478397000
+            }
+        },
+        {
+            "Content": "According to Resume 2 (John Smith), John Smith graduated from:\n\nThe University of Texas at Austin, with a degree in Software Engineering. \n\n(2014 - 2018)",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:12.166015Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2 (John Smith), John Smith graduated from:\n\nThe University of Texas at Austin, with a degree in Software Engineering. \n\n(2014 - 2018)"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1677343625,
+                "load_duration": 14524333,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46724000,
+                "eval_count": 38,
+                "eval_duration": 1614606000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering in 2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:13.583373Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering in 2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1413428750,
+                "load_duration": 14390083,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47457000,
+                "eval_count": 32,
+                "eval_duration": 1350408000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, the candidate who graduated from the University of Texas (specifically, The University of Texas at Austin) is:\n\nJohn Smith\n\nEducation:\nB.S. in Software Engineering\nThe University of Texas at Austin | Austin, TX\n2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:16.27931Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, the candidate who graduated from the University of Texas (specifically, The University of Texas at Austin) is:\n\nJohn Smith\n\nEducation:\nB.S. in Software Engineering\nThe University of Texas at Austin | Austin, TX\n2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2691786083,
+                "load_duration": 14865458,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47337000,
+                "eval_count": 61,
+                "eval_duration": 2628523000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:17.786135Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1503583166,
+                "load_duration": 14683000,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47313000,
+                "eval_count": 34,
+                "eval_duration": 1439921000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:19.288817Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1498794750,
+                "load_duration": 13967250,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46065000,
+                "eval_count": 34,
+                "eval_duration": 1437584000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, John Smith (Resume 2) is the candidate who graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:21.100366Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, John Smith (Resume 2) is the candidate who graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1807817167,
+                "load_duration": 14418458,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47304000,
+                "eval_count": 41,
+                "eval_duration": 1744454000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:22.604845Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1500537083,
+                "load_duration": 15017667,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46875000,
+                "eval_count": 34,
+                "eval_duration": 1437629000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated from:\n\nB.S. in Software Engineering\nThe University of Texas at Austin | Austin, TX\n2014 \u2013 2018",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:24.288287Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated from:\n\nB.S. in Software Engineering\nThe University of Texas at Austin | Austin, TX\n2014 \u2013 2018"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1679952541,
+                "load_duration": 14828666,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47158000,
+                "eval_count": 38,
+                "eval_duration": 1616760000
+            }
+        },
+        {
+            "Content": "According to Resume 2 (John Smith), John Smith graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:25.838182Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2 (John Smith), John Smith graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1546981458,
+                "load_duration": 14365208,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46560000,
+                "eval_count": 35,
+                "eval_duration": 1484501000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 2: John Smith is the candidate who graduated from The University of Texas at Austin. \n\n\"Education\nB.S. in Software Engineering\nThe University of Texas at Austin | Austin, TX\n2014 \u2013 2018------------------------------\"",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:28.349369Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 2: John Smith is the candidate who graduated from The University of Texas at Austin. \n\n\"Education\nB.S. in Software Engineering\nThe University of Texas at Austin | Austin, TX\n2014 \u2013 2018------------------------------\""
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2507414583,
+                "load_duration": 14421500,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46856000,
+                "eval_count": 57,
+                "eval_duration": 2445000000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:29.854137Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1501510875,
+                "load_duration": 14345000,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47289000,
+                "eval_count": 34,
+                "eval_duration": 1438333000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014 - 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:31.401664Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014 - 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1544587541,
+                "load_duration": 14181750,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46372000,
+                "eval_count": 35,
+                "eval_duration": 1482945000
+            }
+        },
+        {
+            "Content": "Resume 2: John Smith graduated from The University of Texas at Austin with a B.S. in Software Engineering.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:32.47762Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 2: John Smith graduated from The University of Texas at Austin with a B.S. in Software Engineering."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1072481416,
+                "load_duration": 14628333,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 45710000,
+                "eval_count": 24,
+                "eval_duration": 1010783000
+            }
+        },
+        {
+            "Content": "According to Resume 2 (John Smith), he graduated with a B.S. in Software Engineering from The University of Texas at Austin.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:33.725463Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2 (John Smith), he graduated with a B.S. in Software Engineering from The University of Texas at Austin."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1243603334,
+                "load_duration": 14575042,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 48164000,
+                "eval_count": 28,
+                "eval_duration": 1179326000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated from:\n\n\"The University of Texas at Austin\" with a B.S. in Software Engineering (2014-2018)",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:35.315918Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated from:\n\n\"The University of Texas at Austin\" with a B.S. in Software Engineering (2014-2018)"
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1587690416,
+                "load_duration": 14790166,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46136000,
+                "eval_count": 36,
+                "eval_duration": 1525667000
+            }
+        },
+        {
+            "Content": "Resume 2: John Smith graduated from The University of Texas at Austin.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:36.036065Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 2: John Smith graduated from The University of Texas at Austin."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 716072459,
+                "load_duration": 14266750,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 45768000,
+                "eval_count": 16,
+                "eval_duration": 654180000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (not the main campus \"University of Texas\", but its Austin branch) | Austin, TX\n2014 \u2013 2018------------------------------.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:38.505471Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (not the main campus \"University of Texas\", but its Austin branch) | Austin, TX\n2014 \u2013 2018------------------------------."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 2465786250,
+                "load_duration": 14358083,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47841000,
+                "eval_count": 56,
+                "eval_duration": 2402516000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:39.749502Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1240478083,
+                "load_duration": 14669083,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46418000,
+                "eval_count": 28,
+                "eval_duration": 1178254000
+            }
+        },
+        {
+            "Content": "Based on the resumes provided, Resume 2: John Smith graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014 \u2013 2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:41.386182Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Based on the resumes provided, Resume 2: John Smith graduated from The University of Texas at Austin with a B.S. in Software Engineering (2014 \u2013 2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1632534625,
+                "load_duration": 14688208,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46795000,
+                "eval_count": 37,
+                "eval_duration": 1569386000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014-2018).",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:42.890006Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated with a B.S. in Software Engineering from The University of Texas at Austin (2014-2018)."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1499738708,
+                "load_duration": 14112000,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46198000,
+                "eval_count": 34,
+                "eval_duration": 1438300000
+            }
+        },
+        {
+            "Content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering from 2014-2018.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:44.443454Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "According to Resume 2: John Smith, he graduated from The University of Texas at Austin with a B.S. in Software Engineering from 2014-2018."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1549865042,
+                "load_duration": 14133834,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 46897000,
+                "eval_count": 35,
+                "eval_duration": 1487377000
+            }
+        },
+        {
+            "Content": "Resume 2: John Smith graduated from the University of Texas at Austin with a B.S. in Software Engineering.",
+            "MadeDecision": "",
+            "MadeSingleDecision": "",
+            "Recommendation": "John",
+            "metaData": {
+                "model": "llama3.1",
+                "created_at": "2024-09-09T20:17:45.514024Z",
+                "message": {
+                    "role": "assistant",
+                    "content": "Resume 2: John Smith graduated from the University of Texas at Austin with a B.S. in Software Engineering."
+                },
+                "done_reason": "stop",
+                "done": true,
+                "total_duration": 1066574833,
+                "load_duration": 14416833,
+                "prompt_eval_count": 1814,
+                "prompt_eval_duration": 47639000,
+                "eval_count": 24,
+                "eval_duration": 1003343000
+            }
+        }
+    ]
+}
